@@ -1,0 +1,141 @@
+# lesmeilleursrestaurants.fr, configuration Apache (hébergement OVH)
+# Domaine canonique : https://www.lesmeilleursrestaurants.fr
+
+# ---------------------------------------------------------------- redirections
+RewriteEngine On
+
+# 1. Forcer HTTPS. Sur OVH le TLS est terminé en amont : c'est X-Forwarded-Proto
+#    qui fait foi, %{HTTPS} n'est pas fiable derrière le proxy.
+RewriteCond %{HTTP:X-Forwarded-Proto} =http [OR]
+RewriteCond %{HTTPS} !=on
+RewriteCond %{HTTP:X-Forwarded-Proto} !=https
+RewriteRule ^ https://www.lesmeilleursrestaurants.fr%{REQUEST_URI} [L,R=301]
+
+# 2. Forcer le sous-domaine www (apex et toute autre variante d'hôte)
+RewriteCond %{HTTP_HOST} !^www\.lesmeilleursrestaurants\.fr$ [NC]
+RewriteCond %{HTTP_HOST} !^$
+RewriteRule ^ https://www.lesmeilleursrestaurants.fr%{REQUEST_URI} [L,R=301]
+
+# 3. Une seule URL par page : /dossier/index.html redirige vers /dossier/
+RewriteCond %{THE_REQUEST} \s/(.*/)?index\.html[\s?] [NC]
+RewriteRule ^(.*/)?index\.html$ /%1 [L,R=301]
+
+# 4. Ajouter le slash final aux dossiers, sans casser le port ni le protocole
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteCond %{REQUEST_URI} !/$
+RewriteRule ^(.*)$ https://www.lesmeilleursrestaurants.fr/$1/ [L,R=301]
+
+# ------------------------------------------- Markdown pour les agents
+# Un agent qui envoie `Accept: text/markdown` reçoit la page en Markdown, à la
+# même URL. Les navigateurs, qui demandent text/html, ne sont pas concernés.
+# La condition -f est essentielle ici : tant qu'une page n'a pas encore de
+# jumeau Markdown (tools/build.py les génère), la requête reçoit le HTML
+# habituel au lieu d'un 404.
+RewriteCond %{HTTP_ACCEPT} text/markdown [NC]
+RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI}index.md -f
+RewriteRule ^(.*)/$ /$1/index.md [L]
+
+RewriteCond %{HTTP_ACCEPT} text/markdown [NC]
+RewriteCond %{DOCUMENT_ROOT}/$1.md -f
+RewriteRule ^(.+)\.html$ /$1.md [L]
+
+# ------------------------------------------------------------------- erreurs
+ErrorDocument 404 /404.html
+
+# --------------------------------------------------------------- compression
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/css text/plain text/xml
+  AddOutputFilterByType DEFLATE text/markdown
+  AddOutputFilterByType DEFLATE application/javascript application/json
+  AddOutputFilterByType DEFLATE application/xml image/svg+xml
+</IfModule>
+
+<IfModule mod_brotli.c>
+  AddOutputFilterByType BROTLI_COMPRESS text/html text/css text/plain text/xml
+  AddOutputFilterByType BROTLI_COMPRESS text/markdown
+  AddOutputFilterByType BROTLI_COMPRESS application/javascript application/json
+  AddOutputFilterByType BROTLI_COMPRESS application/xml image/svg+xml
+</IfModule>
+
+# ------------------------------------------------------------------ cache
+# Les images portent un nom stable : un an. Le HTML, le CSS et le JS peuvent
+# changer à chaque publication : revalidation systématique, pas de contenu périmé.
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType image/webp                "access plus 1 year"
+  ExpiresByType image/jpeg                "access plus 1 year"
+  ExpiresByType image/png                 "access plus 1 year"
+  ExpiresByType image/svg+xml             "access plus 1 year"
+  ExpiresByType font/woff2                "access plus 1 year"
+  ExpiresByType text/css                  "access plus 1 day"
+  ExpiresByType application/javascript    "access plus 1 day"
+  ExpiresByType text/html                 "access plus 0 seconds"
+</IfModule>
+
+<IfModule mod_headers.c>
+  <FilesMatch "\.(webp|jpg|jpeg|png|svg|ico|woff2)$">
+    Header set Cache-Control "public, max-age=31536000, immutable"
+  </FilesMatch>
+  <FilesMatch "\.(css|js)$">
+    Header set Cache-Control "public, max-age=86400, must-revalidate"
+  </FilesMatch>
+  <FilesMatch "\.html$">
+    Header set Cache-Control "public, max-age=0, must-revalidate"
+    Header append Vary "Accept"
+  </FilesMatch>
+
+  # Markdown : jamais mis en cache par un intermédiaire partagé (il serait servi
+  # à un navigateur), jamais indexé (la page HTML est la version canonique).
+  <FilesMatch "\.md$">
+    Header set Content-Type "text/markdown; charset=utf-8"
+    Header set Cache-Control "private, max-age=0, must-revalidate"
+    Header set X-Robots-Tag "noindex"
+    Header append Vary "Accept"
+  </FilesMatch>
+
+  # Catalogue d'API (RFC 9727) : le fichier n'a pas d'extension, sans quoi Apache
+  # le sert en text/plain et aucun agent ne le reconnaît.
+  <Files "api-catalog">
+    Header set Content-Type "application/linkset+json"
+    Header set Cache-Control "public, max-age=3600"
+    Header set X-Robots-Tag "noindex"
+  </Files>
+
+  # Points d'entrée machine : ouverts à tous, mais hors index. Ce sont des
+  # ressources pour agents, pas des pages : elles n'ont rien à faire dans les
+  # résultats de recherche, où elles prendraient du budget de crawl aux articles.
+  <FilesMatch "\.json$">
+    Header set X-Robots-Tag "noindex"
+    Header set Access-Control-Allow-Origin "*"
+  </FilesMatch>
+
+  # En-têtes Link (RFC 8288) : découverte pour les agents
+  Header set Link "</llms.txt>; rel=\"describedby\"; type=\"text/plain\", </.well-known/agent-skills/index.json>; rel=\"service-desc\"; type=\"application/json\", </.well-known/api-catalog>; rel=\"api-catalog\"; type=\"application/linkset+json\", </redaction/>; rel=\"author\", </mentions-legales/>; rel=\"license\""
+
+  # ------------------------------------------------------------- sécurité
+  Header set X-Content-Type-Options "nosniff"
+  Header set Referrer-Policy "strict-origin-when-cross-origin"
+  Header set X-Frame-Options "SAMEORIGIN"
+  Header set Permissions-Policy "geolocation=(), microphone=(), camera=(), interest-cohort=()"
+  Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains"
+</IfModule>
+
+# ------------------------------------------------------------------- types
+<IfModule mod_mime.c>
+  AddType image/webp .webp
+  AddType text/markdown .md
+  AddType application/xml .xml
+  AddType text/plain .txt
+</IfModule>
+
+# --------------------------------------------------------------- protection
+# Ne jamais servir les sources de build ni les fichiers de configuration
+<FilesMatch "^(\.htaccess|\.gitignore|README\.md|TODO\.md|railway\.json|nixpacks\.toml|package\.json|package-lock\.json|Caddyfile)$">
+  Require all denied
+</FilesMatch>
+RedirectMatch 404 ^/(tools|_archives-maquettes|\.git)/
+
+# Maquettes de conception laissées à la racine : jamais servies, jamais indexées,
+# elles dupliqueraient la page d'accueil aux yeux des moteurs. Même convention de
+# nommage que tools/build.py, qui les exclut du sitemap : v<n>- ou proposition-.
+RedirectMatch 404 ^/(v[0-9]+|proposition)[-_].*\.html$

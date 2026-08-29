@@ -1,0 +1,127 @@
+# lesmeilleursrestaurants.fr, configuration Caddy (déploiement Railway)
+# Railway termine le TLS en amont et injecte $PORT.
+
+{
+	admin off
+	auto_https off
+	servers {
+		trusted_proxies static private_ranges
+	}
+}
+
+:{$PORT:8080} {
+	root * /srv
+
+	# ------------------------------------------------------ domaine canonique
+	# On ne redirige QUE l'apex vers www : le domaine technique .up.railway.app
+	# doit rester joignable tel quel, sinon les healthchecks du déploiement
+	# reçoivent une 301 au lieu d'une 200.
+	@apex host lesmeilleursrestaurants.fr
+	redir @apex https://www.lesmeilleursrestaurants.fr{uri} permanent
+
+	# --------------------------------------------------------- une URL par page
+	@index_explicite path_regexp idx ^(.*)/index\.html$
+	redir @index_explicite {re.idx.1}/ permanent
+
+	# ---------------------------------------------- Markdown pour les agents
+	# Un agent qui envoie `Accept: text/markdown` reçoit la version Markdown de
+	# la page, sans navigation ni JavaScript, à la même URL. Les navigateurs, qui
+	# demandent text/html, continuent de recevoir la page normale.
+	#
+	# try_files, et non rewrite : le catalogue démarre et toutes les pages n'ont
+	# pas encore de jumeau .md. Avec un rewrite sec, une page sans Markdown
+	# répondrait 404 à un agent ; avec try_files, elle retombe sur son HTML.
+	@md_dossier {
+		header Accept *text/markdown*
+		path */
+	}
+	@md_page {
+		header Accept *text/markdown*
+		path_regexp mdp ^(.*)\.html$
+	}
+	@md_servi path *.md
+
+	# Un `route` fige l'ordre d'exécution : les deux réécritures d'abord, puis les
+	# en-têtes, qui voient alors le chemin réellement servi. C'est ce qui permet
+	# de ne poser les en-têtes Markdown que sur une vraie réponse Markdown.
+	route {
+		route @md_dossier {
+			try_files {path}index.md {path}
+		}
+		route @md_page {
+			try_files {re.mdp.1}.md {path}
+		}
+		# Le Markdown ne doit jamais être mis en cache par un intermédiaire
+		# partagé, ni indexé : la page HTML reste la version canonique.
+		header @md_servi {
+			Content-Type "text/markdown; charset=utf-8"
+			Cache-Control "private, max-age=0, must-revalidate"
+			X-Robots-Tag "noindex"
+			Vary "Accept"
+		}
+	}
+
+	# ------------------------------------------------------------------- cache
+	@immuable path *.webp *.jpg *.jpeg *.png *.svg *.ico *.woff2
+	header @immuable Cache-Control "public, max-age=31536000, immutable"
+
+	@revalide path *.css *.js
+	header @revalide Cache-Control "public, max-age=86400, must-revalidate"
+
+	# Toute réponse négociable porte Vary: Accept, sans quoi un cache pourrait
+	# servir du Markdown à un navigateur.
+	@negociable path *.html */
+	header @negociable {
+		Cache-Control "public, max-age=0, must-revalidate"
+		Vary "Accept"
+	}
+
+	# ------------------------------------------------- API de consultation
+	# Le catalogue d'API (RFC 9727) n'a pas d'extension : sans cette règle, Caddy
+	# le sert en application/octet-stream et aucun agent ne le reconnaît.
+	@api_catalog path /.well-known/api-catalog
+	header @api_catalog {
+		Content-Type "application/linkset+json"
+		Cache-Control "public, max-age=3600"
+		X-Robots-Tag "noindex"
+	}
+
+	# Points d'entrée machine : servis à tous, mais hors index. Ce sont des
+	# ressources pour agents, pas des pages, et elles n'ont rien à faire dans les
+	# résultats de recherche où elles prendraient du budget de crawl aux articles.
+	@api_json path /api/*.json /.well-known/agent-skills/*
+	header @api_json {
+		X-Robots-Tag "noindex"
+		Access-Control-Allow-Origin "*"
+	}
+
+	# ----------------------------------------------- découverte pour agents
+	# En-têtes Link (RFC 8288) : où trouver la description du site, l'index de
+	# compétences, le catalogue d'API, la rédaction et les conditions de réutilisation.
+	header Link "</llms.txt>; rel=\"describedby\"; type=\"text/plain\", </.well-known/agent-skills/index.json>; rel=\"service-desc\"; type=\"application/json\", </.well-known/api-catalog>; rel=\"api-catalog\"; type=\"application/linkset+json\", </redaction/>; rel=\"author\", </mentions-legales/>; rel=\"license\""
+
+	# ---------------------------------------------------------------- sécurité
+	header {
+		X-Content-Type-Options "nosniff"
+		Referrer-Policy "strict-origin-when-cross-origin"
+		X-Frame-Options "SAMEORIGIN"
+		Permissions-Policy "geolocation=(), microphone=(), camera=()"
+		Strict-Transport-Security "max-age=31536000; includeSubDomains"
+		-Server
+	}
+
+	encode zstd gzip
+	file_server {
+		index index.html
+	}
+
+	# Page d'erreur du média, avec le vrai code HTTP conservé.
+	# Le Cache-Control est réécrit en no-store : les règles de cache ci-dessus
+	# valent pour un chemin, pas pour un code de réponse, et un 404 sur une image
+	# pas encore déployée resterait sinon figé un an dans les caches partagés.
+	handle_errors {
+		header Cache-Control "no-store"
+		rewrite * /404.html
+		file_server
+	}
+}

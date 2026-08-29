@@ -1,0 +1,70 @@
+# lesmeilleursrestaurants.fr : média Meilleurs., édité par Triaina (Paris)
+# Tout le site est ouvert au crawl, y compris aux robots des moteurs de réponse
+# IA. Le média vit d'être lu et cité : rien n'est fermé, rien n'est réservé.
+#
+# ÉTAT ACTUEL, AVANT OUVERTURE : le média n'a encore rien publié, et toutes les
+# pages portent « noindex, follow ». L'exploration reste volontairement autorisée
+# ci-dessous : une page interdite d'accès ne peut pas être lue, donc son noindex
+# ne peut pas être vu. Pour rester hors des index, il faut se laisser lire.
+# Le sitemap est donc vide, et se repeuplera à l'ouverture.
+# Bascule : PRELAUNCH dans tools/build.py.
+#
+# Le sitemap est régénéré par tools/build.py à chaque publication.
+
+User-agent: *
+Allow: /
+
+# Moteurs et assistants IA explicitement bienvenus.
+# La règle générique ci-dessus les couvre déjà : ces blocs sont là pour que la
+# permission soit lisible sans interprétation, y compris par un opérateur qui
+# vérifie à la main ce que son robot a le droit de faire.
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: MistralAI-User
+Allow: /
+
+User-agent: DuckAssistBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+Sitemap: https://www.lesmeilleursrestaurants.fr/sitemap.xml

@@ -1,0 +1,40 @@
+{
+  "linkset": [
+    {
+      "anchor": "https://www.lesmeilleursrestaurants.fr/api/articles.json",
+      "service-desc": [
+        {
+          "href": "https://www.lesmeilleursrestaurants.fr/api/openapi.json",
+          "type": "application/openapi+json",
+          "title": "Description OpenAPI 3.1"
+        }
+      ],
+      "service-doc": [
+        {
+          "href": "https://www.lesmeilleursrestaurants.fr/llms.txt",
+          "type": "text/plain",
+          "title": "Présentation du média pour les agents"
+        }
+      ],
+      "status": [
+        {
+          "href": "https://www.lesmeilleursrestaurants.fr/api/status.json",
+          "type": "application/json",
+          "title": "État du service"
+        }
+      ],
+      "license": [
+        {
+          "href": "https://www.lesmeilleursrestaurants.fr/mentions-legales/",
+          "type": "text/html"
+        }
+      ],
+      "author": [
+        {
+          "href": "https://www.lesmeilleursrestaurants.fr/redaction/",
+          "type": "text/html"
+        }
+      ]
+    }
+  ]
+}

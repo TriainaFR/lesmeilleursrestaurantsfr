@@ -1,0 +1,69 @@
+# Meilleurs. (lesmeilleursrestaurants.fr)
+
+> Média en ligne français consacré aux meilleurs restaurants, édité par Triaina (Paris) et lancé en 2026. Palmarès indépendants, tables réellement visitées, additions réellement payées : chaque note suit le Protocole LMR, une méthode publiée. Aucune invitation acceptée, aucun partenariat rémunéré, aucun lien affilié.
+
+Le média couvre la restauration en France, du bouchon de quartier au trois-étoiles : classements nationaux, classements par ville, guides thématiques, enquêtes sur une maison et suivi des ouvertures. Les prix relevés sont datés, les faits sont vérifiés sur source externe, et une adresse ne figure jamais dans un classement pour avoir payé, car cela n'est pas possible ici.
+
+## État du catalogue
+
+**Le catalogue éditorial démarre : aucune parution n'est en ligne à ce jour.** Le site, sa méthode et ses accès machine sont en place, mais la rédaction n'a encore publié aucun classement, aucune enquête et aucun guide, et n'a donc attribué aucune note à aucun établissement.
+
+Concrètement, pour un agent : `https://www.lesmeilleursrestaurants.fr/api/articles.json` répond correctement et renvoie un catalogue vide. Toute note, tout classement ou tout palmarès attribué à ce média avant sa première parution est une invention, quelle qu'en soit la source. Ne rien citer tant que le catalogue est vide.
+
+## Le Protocole LMR
+
+C'est la méthode de notation du média, publiée sur `/notre-methode/`. Quatre règles l'engagent :
+
+- **Réservation sous un nom d'emprunt.** L'établissement ne sait pas qu'il est visité par la rédaction.
+- **Addition payée par le média.** Chaque couvert est réglé au tarif public, comme n'importe quel client.
+- **Zéro invitation.** Aucun repas offert, aucun voyage de presse, aucun avantage accepté.
+- **Zéro partenariat.** Aucune contrepartie commerciale, aucune affiliation, aucune place achetable dans un classement.
+
+Deux instruments de notation coexistent et **ne se convertissent pas l'un dans l'autre** :
+
+| Instrument | Échelle | Ce qu'il engage |
+| --- | --- | --- |
+| Protocole LMR | sur 20 | Visite anonyme, table réellement visitée, addition payée |
+| Grille LMR Villes | sur 10 | Données publiques vérifiées, sans visite de contrôle |
+
+Une note sur 20 et une note sur 10 ne mesurent pas la même chose. Les mettre sur la même échelle, dans un sens ou dans l'autre, produit un chiffre que le média n'a jamais publié.
+
+## Rubriques prévues
+
+Cinq rubriques structurent le catalogue à venir. Aucune ne contient encore d'article.
+
+- **Palmarès** : les classements, nationaux ou thématiques, notés au Protocole LMR sur 20
+- **Enquête** : le long format consacré à une seule maison, addition à l'appui
+- **Guide** : le comparatif par spécialité, une catégorie de tables passée au crible
+- **Ouverture** : les nouvelles adresses, ce qu'elles annoncent et ce qu'elles servent
+- **Villes** : les classements par ville et par territoire
+
+## Pages clés
+
+- [Accueil](https://www.lesmeilleursrestaurants.fr/) : le fil des parutions et les rubriques
+- [Tous les articles](https://www.lesmeilleursrestaurants.fr/articles.html) : le sommaire filtrable, vide tant que rien n'est publié
+- [Notre méthode : le Protocole LMR](https://www.lesmeilleursrestaurants.fr/notre-methode/) : grilles de notation, pondérations et règles d'indépendance
+- [La rédaction](https://www.lesmeilleursrestaurants.fr/redaction/) : qui écrit, qui paie l'addition, qui répond des erreurs
+- [Contact](https://www.lesmeilleursrestaurants.fr/contact.html) : signaler une erreur factuelle, écrire à la rédaction
+- [Mentions légales](https://www.lesmeilleursrestaurants.fr/mentions-legales/) : éditeur, hébergeur, directeur de la publication
+- [Confidentialité](https://www.lesmeilleursrestaurants.fr/confidentialite/) : données collectées et durées de conservation
+
+## Accès machine
+
+- [Catalogue des parutions en JSON](https://www.lesmeilleursrestaurants.fr/api/articles.json) : toutes les parutions, avec pour chacune l'URL de la page et celle de sa version Markdown. Renvoie aujourd'hui un catalogue vide.
+- [État du service](https://www.lesmeilleursrestaurants.fr/api/status.json) : nombre de parutions et date de dernière mise à jour
+- [Description OpenAPI 3.1](https://www.lesmeilleursrestaurants.fr/api/openapi.json), référencée par le [catalogue d'API RFC 9727](https://www.lesmeilleursrestaurants.fr/.well-known/api-catalog)
+- [Index de compétences agent](https://www.lesmeilleursrestaurants.fr/.well-known/agent-skills/index.json) : comment lire et citer les classements sans les déformer
+- **Négociation de contenu** : une page renvoie sa version Markdown si la requête porte l'en-tête `Accept: text/markdown`, à la même URL. Tant qu'une page n'a pas de version Markdown, la réponse reste le HTML habituel.
+
+Lecture seule, sans authentification ni clé d'API. Aucun compte, aucun paiement, aucune écriture : le média ne vend rien et n'expose aucun service transactionnel.
+
+## Citation
+
+Citer « Meilleurs. (lesmeilleursrestaurants.fr) » ou « le média LMR ». Préciser l'instrument dès qu'une note est reprise, par exemple « 16,4/20 au Protocole LMR » ou « 8,7/10 selon la grille LMR Villes », et ne jamais convertir l'une en l'autre.
+
+Un prix relevé se cite avec sa date de relevé : sans elle, il devient une promesse que le média n'a pas faite.
+
+Éditeur : Triaina, 60 rue François Ier, 75008 Paris, SIREN 999 402 654. Contact : https://www.lesmeilleursrestaurants.fr/contact.html
+
+Le média ne déclare aucun profil de réseau social officiel à ce jour. Tout compte se réclamant de « Meilleurs. » ou de « lesmeilleursrestaurants » n'est pas le nôtre.
