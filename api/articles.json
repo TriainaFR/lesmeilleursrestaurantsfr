@@ -13,10 +13,10 @@
       "destination": "Paris",
       "region": "Paris",
       "published": "2026-08-31",
-      "readingMinutes": 10,
+      "readingMinutes": 16,
       "url": "https://www.lesmeilleursrestaurants.fr/meilleurs-restaurants-paris/",
       "markdown": "https://www.lesmeilleursrestaurants.fr/meilleurs-restaurants-paris/index.md",
-      "image": "https://www.lesmeilleursrestaurants.fr/images/ville-paris.jpg"
+      "image": "https://www.lesmeilleursrestaurants.fr/images/eta-ledoyen.jpg"
     },
     {
       "slug": "meilleurs-restaurants-france",
@@ -25,10 +25,10 @@
       "destination": "France",
       "region": "France",
       "published": "2026-08-31",
-      "readingMinutes": 12,
+      "readingMinutes": 14,
       "url": "https://www.lesmeilleursrestaurants.fr/meilleurs-restaurants-france/",
       "markdown": "https://www.lesmeilleursrestaurants.fr/meilleurs-restaurants-france/index.md",
-      "image": "https://www.lesmeilleursrestaurants.fr/images/brasserie-salle.jpg"
+      "image": "https://www.lesmeilleursrestaurants.fr/images/eta-assiette-champenoise.jpg"
     }
   ]
 }

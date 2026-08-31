@@ -71,10 +71,13 @@ citer le média avec attribution. Les modalités de citation figurent dans le fi
 
 ## Crédits photographiques
 
-Les photographies d'établissements proviennent des établissements eux-mêmes,
-sites officiels ou dossiers de presse. Les illustrations génériques viennent de
-banques d'images libres. Tout ayant droit souhaitant la modification ou le retrait
-d'une image peut nous écrire : la demande est traitée en priorité.
+Aucune photographie publiée sur ce site n'a été prise par la rédaction. Les
+illustrations de nos articles viennent de Wikimedia Commons, sous licence libre :
+certaines montrent le restaurant lui-même, d'autres le bâtiment qui l'abrite, la rue
+où il est installé, ou le chef qui le dirige. La légende publiée sous chaque image
+dit exactement ce qu'elle montre. Les illustrations génériques viennent de banques
+d'images libres. Tout ayant droit souhaitant la modification ou le retrait d'une
+image peut nous écrire : la demande est traitée en priorité.
 
 Les vues de villes publiées sur la page d'accueil proviennent de Wikimedia
 Commons. Leur licence impose de citer leur auteur, ce que nous faisons ici. Ces
@@ -100,6 +103,83 @@ Rade de Villefranche-sur-MerSombreSanglierCC BY-SA 3.0
 Les autres illustrations de la page d'accueil viennent d'Unsplash, dont la
 licence n'impose pas d'attribution. Aucune de ces images ne montre un
 établissement visité ou noté par le média.
+
+Les photographies illustrant nos palmarès viennent également de Wikimedia
+Commons. Leur licence impose de citer leur auteur, ce qui est fait sous chaque
+image dans l'article, et repris dans le tableau ci-dessous.
+
+Illustrations des articles, Wikimedia Commons
+SujetAuteurLicence
+
+Arcades de la place des VosgesGFreihalterCC BY-SA 3.0
+
+Avenue Franklin-D.-RooseveltCeletteCC BY-SA 4.0
+
+Avenue Gabriel, Paris 8eChabe01CC BY-SA 4.0
+
+Avenue George-V, Paris 8ePolymagouCC BY-SA 4.0
+
+Cathédrale Notre-Dame de ReimsTontonflingueurCC BY-SA 4.0
+
+Jardin du Pré-Catelan, bois de BoulognePolymagouCC BY-SA 4.0
+
+Jongieux et son vignoble, SavoieTorsade de PointesCC0
+
+L'Assiette Champenoise, TinqueuxG.GaritanCC BY-SA 4.0
+
+L'Assiette Champenoise, la salleG.GaritanCC BY-SA 4.0
+
+L'Oustau de BaumanièreBaumaniereCC BY-SA 4.0
+
+La Samaritaine, quai du LouvreArthur WeidmannCC BY-SA 4.0
+
+Le Bois sans Feuilles et le manoir, OuchesTroisgros fannyCC BY-SA 4.0
+
+Le chef Régis MarconBenoît PrieurCC0
+
+Maison Pic, salle du restaurantBenoît PrieurCC0
+
+Monnaie de Paris, quai de ContiPHGCOMCC BY-SA 3.0
+
+Pavillon Ledoyen, Champs-ÉlyséesGuilhem Vellut from Paris, FranceCC BY 2.0
+
+Rue Balzac, Paris 8ePolymagouCC BY-SA 4.0
+
+Rue Faidherbe, Paris 11eChabe01CC BY-SA 4.0
+
+Rue Jouffroy-d'Abbans, Paris 17eWikimedia Commons / MuCC BY-SA 3.0
+
+Rue Rennequin, Paris 17eChabe01CC BY-SA 4.0
+
+Rue Rodier, Paris 9eMbztCC BY 4.0
+
+Rue Saint-Ambroise, Paris 11eChabe01CC BY-SA 4.0
+
+Rue Saint-Dominique, Paris 7ePolymagouCC BY-SA 4.0
+
+Rue d'Aguesseau, Paris 8eCVBCC BY-SA 4.0
+
+Rue de Longchamp, Paris 16ePolymagouCC BY-SA 4.0
+
+Rue de Poissy, Paris 5eChabe01CC BY-SA 4.0
+
+Rue de Prague, Paris 12eMbztCC BY 4.0
+
+Rue de Varenne, Paris 7eCeletteCC BY-SA 4.0
+
+Rue de la Fontaine-au-RoiGFreihalterCC BY-SA 3.0
+
+Rue des Blancs-Manteaux, MaraisGFreihalterCC BY-SA 3.0
+
+Rue du Château-d'Eau, Paris 10eGFreihalterCC BY-SA 4.0
+
+Rue du Coq-Héron, Paris 1erChabe01CC BY-SA 4.0
+
+Rue du Faubourg-Saint-HonoréCeletteCC BY-SA 4.0
+
+Rue du Pont-Louis-PhilippeChabe01CC BY-SA 4.0
+
+The Peninsula Paris, avenue KléberThomonCC BY-SA 4.0
 
 ## Droit de réponse et correction
 

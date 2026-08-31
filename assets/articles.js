@@ -24,9 +24,13 @@
      photo    chemin de la vraie photo de l'etablissement (images/...)
      recit    accroche facultative, affichee sur les cartes Enquete
 
-   Regle photo : uniquement de vraies photos des etablissements nommes, issues
-   des sites officiels ou des dossiers de presse. Les banques d'images ne servent
-   que de repli et ne doivent jamais illustrer un etablissement nomme.
+   Regle photo : chaque article est illustre par des photos des etablissements
+   cites, cherchees sur les banques publiques, Wikimedia Commons en premier lieu.
+   A defaut d'une vue du restaurant : le batiment qui l'abrite, la rue ou il est
+   installe, ou le chef. La legende publiee sous l'image dit exactement ce qu'elle
+   montre, et l'attribution est reprise dans images/CREDITS.md et les mentions
+   legales. Les illustrations generiques ne servent plus que pour les pages qui ne
+   citent aucun etablissement.
 
    Regle editoriale : le tiret cadratin est interdit dans tout le texte publie.
    Virgule, deux-points ou point-virgule a la place. Le build le verifie.
@@ -34,14 +38,14 @@
 window.ARTICLES = [
   {slug:"meilleurs-restaurants-paris", cat:"Villes",
    title:"Les 25 meilleurs restaurants de Paris en 2026",
-   dest:"Paris", region:"Paris", date:"2026-08-31", reading:10,
-   url:"meilleurs-restaurants-paris/", photo:"images/ville-paris.jpg",
-   recit:"Paris perd une table à trois étoiles, et deux grandes maisons y sont pour quelque chose."},
+   dest:"Paris", region:"Paris", date:"2026-08-31", reading:16,
+   url:"meilleurs-restaurants-paris/", photo:"images/eta-ledoyen.jpg",
+   recit:"127 étoilés, un trois-étoiles de moins, et la dynamique qui glisse vers l'est."},
   {slug:"meilleurs-restaurants-france", cat:"Palmarès",
    title:"Les 15 meilleurs restaurants de France en 2026",
-   dest:"France", region:"France", date:"2026-08-31", reading:12,
-   url:"meilleurs-restaurants-france/", photo:"images/brasserie-salle.jpg",
-   recit:"Trois guides, trois méthodes, et ce qu'ils disent quand on les met côte à côte."},
+   dest:"France", region:"France", date:"2026-08-31", reading:14,
+   url:"meilleurs-restaurants-france/", photo:"images/eta-assiette-champenoise.jpg",
+   recit:"Une seule troisième étoile sur 62, et un premier mondial qui n'en a que deux."},
   /* Aucun article publie a ce jour. Le media n'a encore rien teste : le
      catalogue reste vide tant que le premier service n'a pas eu lieu.
      Exemple de la forme attendue, a decommenter et adapter :

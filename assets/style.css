@@ -1160,3 +1160,37 @@ table.data tfoot .num{font-size:1rem;letter-spacing:.04em}
 .faq-item:last-of-type{border-bottom:1.5px solid var(--line-strong);margin-bottom:clamp(26px,3.5vw,42px)}
 .prose .faq-item h3{margin-top:0;margin-bottom:8px}
 .prose .faq-item p{margin-bottom:0}
+
+/* ===========================================================================
+   PALMARES : photo, distinctions et infos pratiques par etablissement
+   Ajoute le 31 aout 2026. Ces briques vivent a l'interieur du <div> d'une
+   .pal-row, sous le titre de la maison.
+   ========================================================================= */
+.pal-badges{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 16px}
+.pal-badge{
+  font-family:var(--mono);font-size:.64rem;letter-spacing:.09em;text-transform:uppercase;
+  line-height:1;padding:.55em .8em;border:1px solid var(--line);border-radius:999px;
+  background:var(--paper-2);color:var(--ink-soft);white-space:nowrap}
+.pal-badge.is-star{color:var(--wine);border-color:rgba(var(--wine-rgb),.42);background:rgba(var(--wine-rgb),.06)}
+
+.prose .pal-photo{
+  margin:0 0 20px;border:1.5px solid var(--line-strong);border-radius:14px;
+  overflow:hidden;background:var(--paper-2);max-width:640px}
+.pal-photo img{width:100%;height:auto;display:block;aspect-ratio:16/10;object-fit:cover}
+.pal-photo figcaption{
+  font-family:var(--mono);font-size:.62rem;line-height:1.55;letter-spacing:.045em;
+  color:var(--ink-soft);padding:10px 12px;border-top:1px solid var(--line)}
+
+.prose .pal-infos{
+  list-style:none;margin:18px 0 0;padding:16px 0 0;border-top:1px solid var(--line);
+  max-width:640px;display:grid;gap:9px}
+.prose .pal-infos li{
+  margin:0;display:grid;grid-template-columns:clamp(96px,15vw,132px) 1fr;gap:12px;
+  font-size:.94rem;line-height:1.6}
+.pal-infos b{
+  font-family:var(--mono);font-size:.66rem;letter-spacing:.09em;text-transform:uppercase;
+  color:var(--ink-soft);font-weight:500;padding-top:.28em}
+@media(max-width:560px){
+  .prose .pal-infos li{grid-template-columns:1fr;gap:2px}
+  .pal-infos b{padding-top:0}
+}
