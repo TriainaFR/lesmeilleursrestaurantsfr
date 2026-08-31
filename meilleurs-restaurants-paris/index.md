@@ -768,6 +768,9 @@ Pour la matinée plutôt que le service du soir, notre guide du
 [meilleur brunch à Paris](../meilleur-brunch-paris/) réunit douze adresses vérifiées,
 du buffet de Montmartre au salon de thé anglais de la rue des Martyrs.
 
+Et pour la Méditerranée, notre palmarès des
+[8 meilleurs restaurants de Marseille](../meilleurs-restaurants-marseille/).
+
 Pour la table populaire plutôt que la table étoilée, et hors de Paris, notre guide des
 [10 meilleurs bouchons lyonnais](../bouchons-lyonnais/) détaille ce que valent les
 labels lyonnais.

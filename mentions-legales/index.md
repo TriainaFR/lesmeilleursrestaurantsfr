@@ -124,6 +124,8 @@ Cinq Mains, la salleCinq Mains
 
 Daniel & Denise Saint-Jean, en cuisineOffice de tourisme de Lyon
 
+La Mercerie, la salleLa Mercerie
+
 La Meunière, la salleLa Meunière
 
 La Mère Brazier, la salleLa Mère Brazier
@@ -140,9 +142,17 @@ Les Adrets, la devantureLes Adrets
 
 Maison Clovis, une assietteMaison Clovis
 
+Poissonnerie Kennedy, la devanturePoissonnerie Kennedy
+
 Prairial, la sallePrairial
 
+Prémices, la sallePrémices
+
+Regain, la salleRegain
+
 Substrat, une assietteSubstrat
+
+Tuba Club, la vue sur l'anseTuba Club
 
 Les photographies illustrant nos palmarès viennent également de Wikimedia
 Commons. Leur licence impose de citer leur auteur, ce qui est fait sous chaque

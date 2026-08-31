@@ -472,6 +472,10 @@ Le troisième tient dans un écart. Guy Savoy est premier mondial à La Liste et
 Michelin. Deux classements de référence, deux verdicts opposés sur la même maison, la même année.
 C'est la meilleure raison de lire plusieurs guides plutôt qu'un seul.
 
+Sur la côte, notre palmarès des
+[8 meilleurs restaurants de Marseille](../meilleurs-restaurants-marseille/) couvre la
+seule table à trois étoiles de la ville et les caves à manger qui ont changé ses quartiers.
+
 Pour la deuxième ville gastronomique du pays, notre guide
 [Où manger à Lyon](../ou-manger-a-lyon/) passe quinze tables au crible, distinctions
 et adresses vérifiées une par une.

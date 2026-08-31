@@ -4,8 +4,20 @@
   "publisher": "Meilleurs. (lesmeilleursrestaurants.fr), edite par Triaina",
   "citation": "Citer « Meilleurs. (lesmeilleursrestaurants.fr) ».",
   "updated": "2026-08-31",
-  "count": 5,
+  "count": 6,
   "articles": [
+    {
+      "slug": "meilleurs-restaurants-marseille",
+      "title": "Les 8 meilleurs restaurants de Marseille en 2026",
+      "category": "Villes",
+      "destination": "Marseille",
+      "region": "Marseille",
+      "published": "2026-08-31",
+      "readingMinutes": 11,
+      "url": "https://www.lesmeilleursrestaurants.fr/meilleurs-restaurants-marseille/",
+      "markdown": "https://www.lesmeilleursrestaurants.fr/meilleurs-restaurants-marseille/index.md",
+      "image": "https://www.lesmeilleursrestaurants.fr/images/off-tuba.jpg"
+    },
     {
       "slug": "ou-manger-a-lyon",
       "title": "Où manger à Lyon : 15 tables en 2026",

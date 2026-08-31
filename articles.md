@@ -23,7 +23,7 @@ Villes
 
 Rechercher une parution
 
-[Villes 31 août 2026 Où manger à Lyon : 15 tables en 2026 Lyon · 15 min de lecture](ou-manger-a-lyon/)[Guide 31 août 2026 Les 10 meilleurs bouchons lyonnais en 2026 Lyon · 13 min de lecture](bouchons-lyonnais/)[Guide 31 août 2026 Meilleur brunch à Paris : 12 adresses en 2026 Paris · 12 min de lecture](meilleur-brunch-paris/)[Villes 31 août 2026 Les 25 meilleurs restaurants de Paris en 2026 Paris · 16 min de lecture](meilleurs-restaurants-paris/)[Palmarès 31 août 2026 Les 15 meilleurs restaurants de France en 2026 France · 14 min de lecture](meilleurs-restaurants-france/)
+[Villes 31 août 2026 Les 8 meilleurs restaurants de Marseille en 2026 Marseille · 11 min de lecture](meilleurs-restaurants-marseille/)[Villes 31 août 2026 Où manger à Lyon : 15 tables en 2026 Lyon · 15 min de lecture](ou-manger-a-lyon/)[Guide 31 août 2026 Les 10 meilleurs bouchons lyonnais en 2026 Lyon · 13 min de lecture](bouchons-lyonnais/)[Guide 31 août 2026 Meilleur brunch à Paris : 12 adresses en 2026 Paris · 12 min de lecture](meilleur-brunch-paris/)[Villes 31 août 2026 Les 25 meilleurs restaurants de Paris en 2026 Paris · 16 min de lecture](meilleurs-restaurants-paris/)[Palmarès 31 août 2026 Les 15 meilleurs restaurants de France en 2026 France · 14 min de lecture](meilleurs-restaurants-france/)
 
 Les premières parutions arrivent.
 

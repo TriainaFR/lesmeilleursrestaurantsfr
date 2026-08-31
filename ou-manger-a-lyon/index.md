@@ -476,6 +476,9 @@ Une maison qui ferme, déménage ou change de chef, une distinction obtenue ou p
 
 ## À lire aussi
 
+Sur la troisième grande scène française, notre palmarès des
+[8 meilleurs restaurants de Marseille](../meilleurs-restaurants-marseille/).
+
 Pour la tradition lyonnaise, notre guide des
 [10 meilleurs bouchons lyonnais](../bouchons-lyonnais/). À l'échelle du pays, le
 [palmarès des 15 meilleurs restaurants de France](../meilleurs-restaurants-france/).
