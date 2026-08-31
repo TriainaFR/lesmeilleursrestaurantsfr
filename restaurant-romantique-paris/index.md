@@ -1,6 +1,6 @@
-# Dîner à deux à Paris : 10 tables en 2026 | Meilleurs.
+# Dîner romantique à Paris : 10 tables en 2026 | Meilleurs.
 
-> Dix tables parisiennes pour un dîner à deux, vérifiées en 2026 : Le Gabriel, L'Oiseau Blanc, Le Jules Verne, Virtus, L'Ambroisie, Lapérouse, Café de la Paix, Hôtel Particulier Montmartre, CoCo, La Nouvelle Seine. Distinctions, adresses et contraintes de réservation.
+> Dix tables parisiennes pour un dîner romantique, vérifiées en 2026 : Le Gabriel, L'Oiseau Blanc, Le Jules Verne, Virtus, L'Ambroisie, Lapérouse, Café de la Paix, Hôtel Particulier Montmartre, CoCo, La Nouvelle Seine. Distinctions, adresses et contraintes de réservation.
 
 Source : https://www.lesmeilleursrestaurants.fr/restaurant-romantique-paris/
 
@@ -8,16 +8,16 @@ Meilleurs., media francais des meilleurs restaurants, edite par Triaina.
 
 ---
 
-[Accueil](../)/[Articles](../articles.html)/Dîner à deux à Paris
+[Accueil](../)/[Articles](../articles.html)/Dîner romantique à Paris
 
 La devanture de Lapérouse, quai des Grands Augustins. Photo Lapérouse.
 
-Chercher une table pour un dîner à deux à Paris revient vite à recopier les
+Chercher une table pour un dîner romantique à Paris revient vite à recopier les
 mêmes dix noms. Le problème n'est pas la liste, c'est que ce qu'on en dit a cessé d'être vrai :
 étoiles gagnées ou perdues, chefs remplacés, adresses fausses, et deux maisons vendues comme
 intimes qui ferment à deux heures du matin.
 
-## L'essentiel Dîner à deux à Paris en 2026
+## L'essentiel Dîner romantique à Paris en 2026
 
 - Un trois-étoiles dans cette sélection, Le Gabriel, et quatre deux-étoiles :
 L'Oiseau Blanc, Le Jules Verne, Virtus et L'Ambroisie.

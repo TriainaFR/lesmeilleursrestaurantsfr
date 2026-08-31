@@ -37,7 +37,7 @@
    ========================================================================== */
 window.ARTICLES = [
   {slug:"restaurant-romantique-paris", cat:"Guide",
-   title:"Dîner à deux à Paris : 10 tables en 2026",
+   title:"Dîner romantique à Paris : 10 tables en 2026",
    dest:"Paris", region:"Paris", date:"2026-08-31", reading:15,
    url:"restaurant-romantique-paris/", photo:"images/off-laperouse.jpg",
    auteur:"lucas-lecoq",
