@@ -10,7 +10,7 @@ Meilleurs., media francais des meilleurs restaurants, edite par Triaina.
 
 [Accueil](../)/[Articles](../articles.html)/Bouchons lyonnais
 
-Un bouchon de la rue Mercière, à Lyon. Photo Lyon-plaisirs, CC BY 4.0, via Wikimedia Commons.
+Un salon du Café Comptoir Abel, rue Guynemer. Photo Office de tourisme de Lyon.
 
 Le meilleur bouchon lyonnais de l'année ? Le Café Lobut, à Villeurbanne,
 lauréat du prix Florent-Dessus 2025. Mais la vraie réponse est ailleurs : il n'existe pas un
@@ -96,7 +96,7 @@ Lyon 2e · L'institution depuis 1928
 
 Les Bouchons LyonnaisAuthentiques Bouchons Lyonnais
 
-La rue Guynemer, où Abel tient boutique depuis 1928. Photo Sebleouf, CC BY-SA 4.0, via Wikimedia Commons.
+La devanture d'Abel, à l'angle de la voûte d'Ainay et de la rue Guynemer. Photo Office de tourisme de Lyon.
 
 Entrer chez Abel, c'est franchir une porte qui n'a pas changé depuis presque un siècle. Les murs jaune pâle, les photos sépia des canuts, le comptoir en zinc patiné par les coudes de générations de Lyonnais : tout respire l'authenticité sans effort. On s'y sent attendu, pas jugé.
 
@@ -121,7 +121,7 @@ Lyon 5e · La cuisine d'un Meilleur Ouvrier de France
 
 Les Bouchons LyonnaisAuthentiques Bouchons Lyonnais
 
-La rue Tramassac, dans le Vieux-Lyon. Photo Romainbehar, CC0, via Wikimedia Commons.
+En cuisine chez Daniel & Denise Saint-Jean. Photo Office de tourisme de Lyon.
 
 Joseph Viola, Meilleur Ouvrier de France, a repris ce bouchon du Vieux-Lyon avec une idée simple : respecter la tradition en la sublimant. Murs de pierre, poutres apparentes, nappes à carreaux rouges, le décor coche toutes les cases. Mais c'est l'assiette qui parle.
 
@@ -148,19 +148,19 @@ Aucun des deux labels
 
 Le Garet, rue du Garet, derrière l'Hôtel de Ville. Photo Romainbehar, CC0, via Wikimedia Commons.
 
-Le Garet, c'est le bouchon qui a vu passer les générations. Installé rue du Garet, derrière l'Hôtel de Ville, dans le 1er et non dans le Vieux-Lyon comme on le lit souvent, il incarne la continuité. Murs couverts de photos jaunies, comptoir de bois usé, clients qui se connaissent.
+Le Garet a ouvert en 1920, rue du Garet, derrière l'Hôtel de Ville, dans le 1er et non dans le Vieux-Lyon comme on le lit souvent. Jean Moulin y avait ses habitudes pendant la guerre, et sa place est aujourd'hui marquée d'une plaque de laiton. Murs couverts de photos jaunies, comptoir de bois usé, clients qui se connaissent : la maison n'a pas de site internet, et n'en a jamais eu besoin.
 
-La cuisine est sans surprise, c'est-à-dire parfaite : quenelles, andouillette, tablier de sapeur, cervelle meunière, qui est ici le plat emblématique. Le menu Gnafron, à 32 €, aligne les classiques. Ce qui plaît : l'ambiance de vrai bouchon, le rapport qualité prix, le sentiment d'être un habitué dès la première visite. Ce qui peut décevoir : un cadre très rustique, presque austère, et une carte qui bouge peu.
+En cuisine, Emmanuel Ferra sert le répertoire sans y toucher : salade lyonnaise, harengs pommes à l'huile, tablier de sapeur, quenelle sauce Nantua, andouillette, tête de veau sauce ravigote. Le menu Gnafron, à 32 €, aligne les classiques. Ce qui plaît : l'ambiance de vrai bouchon, le rapport qualité prix, le sentiment d'être un habitué dès la première visite. Ce qui peut décevoir : un cadre très rustique, presque austère, et une carte qui bouge peu.
 
 Pour qui ? Les puristes, les Lyonnais de souche, et ceux qui veulent la cuisine des canuts sans artifice.
 
 - Adresse7 rue du Garet, Lyon 1er
 
-- Téléphone04 78 28 16 94
+- Ouvertdepuis 1920
+
+- ChefEmmanuel Ferra
 
 - MenuMenu Gnafron à 32 €
-
-- RéservationConseillée
 
 -
 04
@@ -171,21 +171,21 @@ Lyon 1er · La maison du président du label
 
 Les Bouchons LyonnaisAuthentiques Bouchons Lyonnais
 
-La vitrine de La Meunière, rue Neuve. Photo Romainbehar, CC0, via Wikimedia Commons.
+La salle de La Meunière et son affiche de la Belle Meunière. Photo La Meunière.
 
-La Meunière tourne comme une horloge. Nappes à carreaux rouges, chaises de bois massif, pot lyonnais qui ne désemplit pas : tout est en place. La maison est tenue par Olivier Canal, qui préside aujourd'hui l'association Les Bouchons Lyonnais, ce qui lui vaut d'être regardée de près par la profession.
+La Meunière tourne comme une horloge depuis bientôt cent ans, en pleine Presqu'île. Nappes à carreaux, chaises de bois, pot lyonnais qui ne désemplit pas. La maison est tenue par Olivier Canal en cuisine et Annick Roman en salle ; Canal préside aujourd'hui l'association Les Bouchons Lyonnais, ce qui lui vaut d'être regardée de près par la profession.
 
-La cuisine suit la même logique : des gestes répétés mille fois et perfectionnés à chaque service. Quenelles légères, salade lyonnaise en équilibre entre le lard croustillant et la douceur de l'œuf poché, andouillette classique. Ce qui plaît : la fiabilité absolue, l'ambiance chaleureuse sans être étouffante, les portions. Ce qui peut décevoir : peu d'innovation, un cadre un peu figé.
+La cuisine suit la même logique : pâté en croûte, œufs meurette, oreiller de la Belle Meunière, quenelle de brochet à la sauce écrevisses, tête de veau sauce gribiche. La maison sert aussi le mâchon, ce casse-croûte lyonnais du matin, du mardi au samedi, sur réservation. Ce qui plaît : la fiabilité absolue, l'ambiance chaleureuse sans être étouffante, les portions. Ce qui peut décevoir : peu d'innovation, un cadre un peu figé.
 
 Pour qui ? Les amateurs de tradition pure, et ceux qui veulent être certains de ce qu'ils vont trouver dans l'assiette.
 
 - Adresse11 rue Neuve, Lyon 1er
 
-- Maison deOlivier Canal, président du label
+- Maison deOlivier Canal et Annick Roman
+
+- MâchonDu mardi au samedi matin, sur réservation
 
 - BudgetOrdre de grandeur : 35 €
-
-- RéservationConseillée
 
 -
 05
@@ -196,9 +196,9 @@ Lyon 1er · L'hommage aux mères lyonnaises
 
 Aucun des deux labels
 
-La rue Sergent-Blandan, aux pentes de la Croix-Rousse. Photo Sebleouf, CC BY-SA 4.0, via Wikimedia Commons.
+Une assiette du Bouchon des Filles. Photo Le Bouchon des Filles.
 
-Le Bouchon des Filles est un clin d'œil à l'histoire. Tenu par des femmes, il rend hommage aux mères lyonnaises qui ont inventé cette cuisine. Le décor est chaleureux, les murs portent des photos de cuisinières, l'ambiance est bienveillante.
+Le Bouchon des Filles est un clin d'œil à l'histoire. Isabelle et Laura, formées au Café des Fédérations, l'ont ouvert il y a une quinzaine d'années au pied de la Croix-Rousse, dans un immeuble du XVIIIe, en hommage aux mères lyonnaises qui ont inventé cette cuisine.
 
 La cuisine est celle des mères : quenelles, tablier de sapeur, cervelle de canut, andouillette, avec une générosité qui vient du service en petites assiettes à partager. Ce qui plaît : l'histoire qu'on sent dans chaque plat, l'accueil sans détour. Ce qui peut décevoir : le cadre est moins « musée » que les autres, plus contemporain, ce qui déroute les puristes.
 
@@ -206,9 +206,11 @@ Pour qui ? Ceux qui aiment les histoires, et les amateurs de cuisine sincère qu
 
 - Adresse20 rue Sergent-Blandan, Lyon 1er
 
-- BudgetOrdre de grandeur : 30 à 35 €
+- Maison deIsabelle et Laura
 
-- RéservationConseillée
+- MenusAutour de 30 €
+
+- Téléphone04 78 30 40 44
 
 -
 06
@@ -219,7 +221,7 @@ Villeurbanne · Meilleur bouchon lyonnais 2025
 
 Prix Florent-Dessus 2025
 
-Le cours Tolstoï, à Villeurbanne, où le Café Lobut est installé. Photo Sebleouf, CC BY-SA 4.0, via Wikimedia Commons.
+La salle du Café Lobut, rideaux à carreaux et chaises bistrot. Photo Café Lobut.
 
 Le Café Lobut a reçu le prix Florent-Dessus 2025, qui distingue le meilleur authentique bouchon lyonnais de l'année, décerné par l'association des Authentiques Bouchons Lyonnais. La maison n'est pas dans Lyon mais à Villeurbanne, cours Tolstoï, ce qui n'est pas la moindre de ses singularités.
 
@@ -269,19 +271,21 @@ Lyon 2e · La cuisine généreuse d'Ainay
 
 Les Bouchons LyonnaisAuthentiques Bouchons Lyonnais
 
-La rue des Remparts d'Ainay, dans le quartier d'Ainay. Photo Sebleouf, CC BY-SA 4.0, via Wikimedia Commons.
+La salle du Poêlon d'Or, banquettes grenat et miroirs dorés. Photo Le Poêlon d'Or.
 
-Le Poêlon d'Or promet une cuisine généreuse, sans calcul. Nappes à carreaux, pot lyonnais qui ne désemplit pas, ardoise du jour : le décor est en place, dans un quartier d'Ainay plus bourgeois que canut.
+Le Poêlon d'Or était un comptoir à vin fondé en 1860 ; il a commencé à dresser des tables entre les deux guerres. La salle, dans un immeuble inscrit, aligne banquettes grenat, miroirs dorés et sol en damier, dans un quartier d'Ainay plus bourgeois que canut.
 
-La cuisine est celle des mères lyonnaises : quenelles, tablier de sapeur, cervelle de canut, andouillette. Ce qui plaît : la générosité des portions, l'ambiance conviviale, le rapport qualité prix. Ce qui peut décevoir : un décor moins spectaculaire que les maisons du Vieux-Lyon, et un service vite débordé.
+Mickaël Lorini y sert les recettes des mères, avec la quenelle de brochet sauce écrevisses et le fond d'artichaut au foie gras en spécialités. Ce qui plaît : la salle, l'une des plus belles de cette liste, et la générosité des portions. Ce qui peut décevoir : un service vite débordé, et une carte qui bouge peu.
 
 Pour qui ? Ceux qui ont faim, et les amateurs de cuisine sincère qui préfèrent éviter les rues à touristes.
 
 - Adresse29 rue des Remparts d'Ainay, Lyon 2e
 
-- BudgetOrdre de grandeur : 35 €
+- ChefMickaël Lorini
 
-- RéservationConseillée
+- Menus34 à 43 €
+
+- RelevéTarifs publiés par la maison
 
 -
 09
@@ -292,7 +296,7 @@ Lyon 6e · Le bouchon d'un chef des Brotteaux
 
 Les Bouchons LyonnaisAuthentiques Bouchons Lyonnais
 
-La rue Sully, dans le 6e, quartier des Brotteaux. Photo Sebleouf, CC BY-SA 4.0, via Wikimedia Commons.
+Au Bouchon Sully. L'écusson des Authentiques Bouchons Lyonnais est cousu sur le tablier. Photo Office de tourisme de Lyon.
 
 Le Bouchon Sully est le bouchon de Julien Gautier, le chef du M Restaurant voisin, ouvert en octobre 2014 dans le 6e. Le lieu a une histoire : avant d'être un bouchon, il fut Les Oliviers pendant quatorze ans, et bien avant cela le tout premier établissement de Mathieu Viannay, arrivé à Lyon en 1998.
 
@@ -317,19 +321,21 @@ Lyon 5e · Le bouchon de la rue du Bœuf
 
 Aucun des deux labels
 
-La rue du Bœuf, au cœur du Vieux-Lyon. Photo Romainbehar, CC0, via Wikimedia Commons.
+La devanture des Adrets, rue du Bœuf, dans le Vieux-Lyon. Photo Les Adrets.
 
-Les Adrets occupe la rue du Bœuf, l'une des plus belles du Vieux-Lyon, entre maisons Renaissance et traboules. Murs de pierre, poutres apparentes, photos jaunies : le décor est celui qu'on vient chercher dans ce quartier.
+Les Adrets occupe une devanture rouge rue du Bœuf, l'une des plus belles du Vieux-Lyon, entre maisons Renaissance et traboules. Poutres apparentes, colonnes de pierre, une soixantaine de couverts : le décor est celui qu'on vient chercher ici.
 
-La cuisine est celle des mères lyonnaises, généreuse et sincère : quenelles, tablier de sapeur, cervelle de canut, andouillette. Ce qui plaît : le cadre, la générosité, le rapport qualité prix pour un emplacement pareil. Ce qui peut décevoir : la rue est un couloir à touristes, et le service s'en ressent aux heures de pointe.
+La maison se présente comme un bouchon de nouvelle génération, et c'est exact : le jeune chef Guillaume Riva sert une cuisine plus travaillée que le répertoire habituel, tartelette de betterave au chèvre, soufflé de brochet sauce homardine. Ce qui plaît : le cadre, et une carte qui prend des risques. Ce qui peut décevoir : les puristes n'y retrouveront pas leur tablier de sapeur, et la rue est un couloir à touristes.
 
 Pour qui ? Ceux qui visitent le Vieux-Lyon et veulent y manger correctement, ce qui n'est pas si simple.
 
 - Adresse30 rue du Bœuf, Lyon 5e
 
-- BudgetOrdre de grandeur : 37 €
+- ChefGuillaume Riva
 
-- RéservationConseillée
+- MenusFormule 24 € le midi, menu 33 € le soir
+
+- RelevéTarifs publiés par la maison
 
 ## Les plats qu'on vient chercher
 
@@ -419,5 +425,7 @@ tables qui ont marqué l'année. Pour la capitale, les
 comme les bistrots. Et pour la matinée, notre guide du
 [meilleur brunch à Paris](../meilleur-brunch-paris/) passe douze adresses au crible.
 
-Aucune des maisons citées dans cet article n'a été visitée par la rédaction à ce
-jour. Les notes sur 20 de [notre grille](../notre-methode/) viendront avec nos visites.
+Les photographies d'établissement sont fournies par les maisons ou par l'Office
+de tourisme de Lyon, et publiées avec leur accord. Toute maison souhaitant le retrait d'une image
+peut nous [écrire](../contact.html) : elle est retirée sans délai. Aucune des maisons
+citées dans cet article n'a été visitée par la rédaction à ce jour. Les notes sur 20 de [notre grille](../notre-methode/) viendront avec nos visites.

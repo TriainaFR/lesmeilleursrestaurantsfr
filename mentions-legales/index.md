@@ -104,6 +104,32 @@ Les autres illustrations de la page d'accueil viennent d'Unsplash, dont la
 licence n'impose pas d'attribution. Aucune de ces images ne montre un
 établissement visité ou noté par le média.
 
+Les photographies d'établissement publiées dans nos articles nous sont fournies par les
+maisons elles-mêmes ou par les offices de tourisme, et sont publiées avec leur accord. Elles ne
+sont pas sous licence libre et ne peuvent pas être reprises ailleurs. Toute maison souhaitant le
+retrait d'une image peut nous écrire : elle est retirée sans délai.
+
+Photographies d'établissement
+SujetCrédit
+
+Café Comptoir Abel, la devantureOffice de tourisme de Lyon
+
+Café Comptoir Abel, un salonOffice de tourisme de Lyon
+
+Café Lobut, la salleCafé Lobut
+
+Daniel & Denise Saint-Jean, en cuisineOffice de tourisme de Lyon
+
+La Meunière, la salleLa Meunière
+
+Le Bouchon Sully, le serviceOffice de tourisme de Lyon
+
+Le Bouchon des Filles, une assietteLe Bouchon des Filles
+
+Le Poêlon d'Or, la salleLe Poêlon d'Or
+
+Les Adrets, la devantureLes Adrets
+
 Les photographies illustrant nos palmarès viennent également de Wikimedia
 Commons. Leur licence impose de citer leur auteur, ce qui est fait sous chaque
 image dans l'article, et repris dans le tableau ci-dessous.

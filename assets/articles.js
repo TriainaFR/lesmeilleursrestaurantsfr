@@ -39,7 +39,7 @@ window.ARTICLES = [
   {slug:"bouchons-lyonnais", cat:"Guide",
    title:"Les 10 meilleurs bouchons lyonnais en 2026",
    dest:"Lyon", region:"Lyon", date:"2026-08-31", reading:13,
-   url:"bouchons-lyonnais/", photo:"images/eta-bouchon-merciere.jpg",
+   url:"bouchons-lyonnais/", photo:"images/off-abel-salle.jpg",
    auteur:"lucas-lecoq",
    recit:"Deux labels concurrents, et quatre des plus grandes maisons qui n'en portent aucun."},
   {slug:"meilleur-brunch-paris", cat:"Guide",

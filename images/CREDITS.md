@@ -52,6 +52,24 @@ sont pas sous licence libre et ne doivent pas être reprises ailleurs.
 | `charles-bidaud` | Portrait de Charles Bidaud | Photographie fournie par l'intéressé |
 | `elodie-limouzin` | Portrait d'Elodie Limouzin | Portrait provisoire, à remplacer |
 
+## 2 ter. Photographies d'établissement
+
+Fournies par les maisons ou par l'Office de tourisme de Lyon, publiées avec leur
+accord. **Non libres de droits** : ne pas les réutiliser ailleurs, et les retirer
+sans délai sur simple demande de l'établissement.
+
+| Fichier | Sujet | Crédit | Source |
+|---|---|---|---|
+| `off-abel` | Café Comptoir Abel, la devanture | Office de tourisme de Lyon | [source](https://www.visiterlyon.com/se-regaler/restaurants-et-gastronomie/label-bouchons-lyonnais/cafe-comptoir-abel) |
+| `off-abel-salle` | Café Comptoir Abel, un salon | Office de tourisme de Lyon | [source](https://www.visiterlyon.com/se-regaler/restaurants-et-gastronomie/label-bouchons-lyonnais/cafe-comptoir-abel) |
+| `off-lobut` | Café Lobut, la salle | Café Lobut | [source](https://www.cafe-lobut.fr/) |
+| `off-daniel-denise` | Daniel &amp; Denise Saint-Jean, en cuisine | Office de tourisme de Lyon | [source](https://www.visiterlyon.com/se-regaler/restaurants-et-gastronomie/label-bouchons-lyonnais/daniel-et-denise-saint-jean) |
+| `off-la-meuniere` | La Meunière, la salle | La Meunière | [source](https://www.lameuniere.fr/) |
+| `off-sully` | Le Bouchon Sully, le service | Office de tourisme de Lyon | [source](https://www.visiterlyon.com/se-regaler/restaurants-et-gastronomie/label-bouchons-lyonnais/le-bouchon-sully) |
+| `off-des-filles` | Le Bouchon des Filles, une assiette | Le Bouchon des Filles | [source](https://lebouchondesfilles.fr/) |
+| `off-poelon` | Le Poêlon d'Or, la salle | Le Poêlon d'Or | [source](https://www.lepoelondor-restaurant.fr/) |
+| `off-adrets` | Les Adrets, la devanture | Les Adrets | [source](http://les-adrets.com/) |
+
 ## 3. Photographies d'illustration des articles, Wikimedia Commons
 
 Ces images illustrent les maisons citées dans les palmarès. Certaines montrent le
