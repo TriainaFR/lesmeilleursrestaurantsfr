@@ -246,6 +246,10 @@ chef, et si vous avez le temps : deux heures minimum. Le meilleur compromis, pou
 deux jours, reste de faire les deux, un déjeuner en winstub et un dîner à La Casserole ou aux
 Haras.
 
+Si c'est le format qui vous intéresse plus que le classement, nos
+[7 winstubs authentiques de Strasbourg](../winstub-strasbourg/) ne traitent que de
+celui-là, avec les prix relevés à la carte et les jours de fermeture de chaque maison.
+
 Pour élargir, notre
 [palmarès des 15 meilleurs restaurants de France](../meilleurs-restaurants-france/),
 et pour comparer avec les autres scènes régionales, notre guide

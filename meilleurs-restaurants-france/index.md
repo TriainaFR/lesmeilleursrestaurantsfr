@@ -497,6 +497,9 @@ des [8 meilleures tables de Strasbourg](../meilleur-restaurant-strasbourg/) expl
 ce qu'est vraiment une winstub, et rétablit une étoile que beaucoup attribuent encore à une
 maison qui l'a perdue.
 
+Et pour le format alsacien lui-même, boiseries, carte courte et vins au pichet, nos
+[7 winstubs authentiques de Strasbourg](../winstub-strasbourg/).
+
 Sur un registre plus matinal et nettement plus abordable, notre guide du
 [meilleur brunch à Paris](../meilleur-brunch-paris/) passe douze maisons au crible,
 adresse par adresse et tarif par tarif.

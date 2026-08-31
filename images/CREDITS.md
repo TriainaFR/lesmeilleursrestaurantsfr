@@ -71,6 +71,7 @@ sans délai sur simple demande de l'établissement.
 | `off-cinqmains` | Cinq Mains, la salle | Cinq Mains | [source](https://www.cinqmains.fr/) |
 | `off-daniel-denise` | Daniel &amp; Denise Saint-Jean, en cuisine | Office de tourisme de Lyon | [source](https://www.visiterlyon.com/se-regaler/restaurants-et-gastronomie/label-bouchons-lyonnais/daniel-et-denise-saint-jean) |
 | `off-dialogues` | Dialogues, des assiettes | Dialogues | [source](https://lefooding.com/restaurants/dialogues) |
+| `off-fink` | Fink'Stuebel, le comptoir | Fink'Stuebel | [source](https://restaurant-finkstuebel.com/) |
 | `off-inima` | Inima, une assiette | Inima | [source](https://www.inimarestaurant.com/) |
 | `off-oiseaubleu` | L'Oiseau Bleu, la salle | L'Oiseau Bleu | [source](https://www.loiseaubleu.fr/) |
 | `off-casserole` | La Casserole, une assiette | La Casserole | [source](https://www.la-casserole.fr/) |
@@ -78,11 +79,13 @@ sans délai sur simple demande de l'établissement.
 | `off-brazier` | La Mère Brazier, la salle | La Mère Brazier | [source](https://lamerebrazier.fr/) |
 | `off-la-meuniere` | La Meunière, la salle | La Meunière | [source](https://www.lameuniere.fr/) |
 | `off-petite-plage` | La Petite Plage, la salle | La Petite Plage, Le Talaia MGallery | [source](https://www.letalaia.com/restaurant-bar) |
+| `off-enseigne` | La Vieille Enseigne, la salle Tomi Ungerer | La Vieille Enseigne | [source](https://fr.gaultmillau.com/fr/restaurants/la-vieille-enseigne) |
 | `off-des-filles` | Le Bouchon des Filles, une assiette | Le Bouchon des Filles | [source](https://lebouchondesfilles.fr/) |
 | `off-sully` | Le Bouchon Sully, le service | Office de tourisme de Lyon | [source](https://www.visiterlyon.com/se-regaler/restaurants-et-gastronomie/label-bouchons-lyonnais/le-bouchon-sully) |
 | `off-neuvieme` | Le Neuvième Art, une assiette | Le Neuvième Art | [source](https://leneuviemeart.com/) |
 | `off-poelon` | Le Poêlon d'Or, la salle | Le Poêlon d'Or | [source](https://www.lepoelondor-restaurant.fr/) |
 | `off-pressoir` | Le Pressoir d'Argent, la salle | Le Pressoir d'Argent Gordon Ramsay | [source](https://bordeaux.intercontinental.com/) |
+| `off-tirebouchon` | Le Tire-Bouchon, la maison à colombages | Le Tire-Bouchon | [source](https://www.letirebouchon.fr/) |
 | `off-adrets` | Les Adrets, la devanture | Les Adrets | [source](http://les-adrets.com/) |
 | `off-enfants-marche` | Les Enfants du Marché, le comptoir | Les Enfants du Marché | [source](https://www.lesenfantsdumarche.fr/) |
 | `off-clovis` | Maison Clovis, une assiette | Maison Clovis | [source](https://maisonclovis.com/) |
@@ -95,7 +98,9 @@ sans délai sur simple demande de l'établissement.
 | `off-substrat` | Substrat, une assiette | Substrat | [source](https://www.substrat-restaurant.com/) |
 | `off-tuba` | Tuba Club, la vue sur l'anse | Tuba Club | [source](https://tuba-club.com/) |
 | `off-yvonne` | Winstub Chez Yvonne, la salle | Jérôme Up-Tools pour la Winstub Chez Yvonne | [source](https://www.restaurant-chez-yvonne.net/) |
+| `off-clou` | Winstub Le Clou, la salle | Winstub Le Clou | [source](https://www.le-clou.com/la-winstub) |
 | `off-zephirine` | Zéphirine, une table | Zéphirine | [source](https://zephirine.fr/) |
+| `off-strissel` | Zuem Strissel, la salle aux vitraux | Zuem Strissel | [source](https://www.strissel.fr/) |
 
 ## 3. Photographies d'illustration des articles, Wikimedia Commons
 

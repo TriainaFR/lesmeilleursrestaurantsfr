@@ -418,6 +418,11 @@ jour : [signalez-le nous](../contact.html). Les corrections sont datées sur la 
 
 ## À lire aussi
 
+L'Alsace tient l'équivalent lyonnais du bouchon, sans le système de labels : nos
+[7 winstubs authentiques de Strasbourg](../winstub-strasbourg/).
+
+## À lire aussi
+
 Pour sortir du bouchon sans quitter la ville, notre guide
 [Où manger à Lyon](../ou-manger-a-lyon/) réunit quinze tables vérifiées, des quatre
 maisons à deux étoiles aux adresses de quartier.

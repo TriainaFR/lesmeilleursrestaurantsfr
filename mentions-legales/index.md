@@ -134,6 +134,8 @@ Daniel & Denise Saint-Jean, en cuisineOffice de tourisme de Lyon
 
 Dialogues, des assiettesDialogues
 
+Fink'Stuebel, le comptoirFink'Stuebel
+
 Inima, une assietteInima
 
 L'Oiseau Bleu, la salleL'Oiseau Bleu
@@ -148,6 +150,8 @@ La Meunière, la salleLa Meunière
 
 La Petite Plage, la salleLa Petite Plage, Le Talaia MGallery
 
+La Vieille Enseigne, la salle Tomi UngererLa Vieille Enseigne
+
 Le Bouchon des Filles, une assietteLe Bouchon des Filles
 
 Le Bouchon Sully, le serviceOffice de tourisme de Lyon
@@ -157,6 +161,8 @@ Le Neuvième Art, une assietteLe Neuvième Art
 Le Poêlon d'Or, la salleLe Poêlon d'Or
 
 Le Pressoir d'Argent, la salleLe Pressoir d'Argent Gordon Ramsay
+
+Le Tire-Bouchon, la maison à colombagesLe Tire-Bouchon
 
 Les Adrets, la devantureLes Adrets
 
@@ -182,7 +188,11 @@ Tuba Club, la vue sur l'anseTuba Club
 
 Winstub Chez Yvonne, la salleJérôme Up-Tools pour la Winstub Chez Yvonne
 
+Winstub Le Clou, la salleWinstub Le Clou
+
 Zéphirine, une tableZéphirine
+
+Zuem Strissel, la salle aux vitrauxZuem Strissel
 
 Les photographies illustrant nos palmarès viennent également de Wikimedia
 Commons. Leur licence impose de citer leur auteur, ce qui est fait sous chaque

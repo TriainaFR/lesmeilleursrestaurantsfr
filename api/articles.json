@@ -4,8 +4,20 @@
   "publisher": "Meilleurs. (lesmeilleursrestaurants.fr), edite par Triaina",
   "citation": "Citer « Meilleurs. (lesmeilleursrestaurants.fr) ».",
   "updated": "2026-08-31",
-  "count": 9,
+  "count": 10,
   "articles": [
+    {
+      "slug": "winstub-strasbourg",
+      "title": "Winstub à Strasbourg : 7 adresses authentiques",
+      "category": "Guide",
+      "destination": "Strasbourg",
+      "region": "Alsace",
+      "published": "2026-08-31",
+      "readingMinutes": 13,
+      "url": "https://www.lesmeilleursrestaurants.fr/winstub-strasbourg/",
+      "markdown": "https://www.lesmeilleursrestaurants.fr/winstub-strasbourg/index.md",
+      "image": "https://www.lesmeilleursrestaurants.fr/images/off-strissel.jpg"
+    },
     {
       "slug": "meilleur-restaurant-strasbourg",
       "title": "Les 8 meilleures tables de Strasbourg en 2026",

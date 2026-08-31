@@ -36,6 +36,12 @@
    Virgule, deux-points ou point-virgule a la place. Le build le verifie.
    ========================================================================== */
 window.ARTICLES = [
+  {slug:"winstub-strasbourg", cat:"Guide",
+   title:"Winstub à Strasbourg : 7 adresses authentiques",
+   dest:"Strasbourg", region:"Alsace", date:"2026-08-31", reading:13,
+   url:"winstub-strasbourg/", photo:"images/off-strissel.jpg",
+   auteur:"lucas-lecoq",
+   recit:"La plus ancienne winstub de la ville sert l'assiette la moins chère de la sélection."},
   {slug:"meilleur-restaurant-strasbourg", cat:"Villes",
    title:"Les 8 meilleures tables de Strasbourg en 2026",
    dest:"Strasbourg", region:"Alsace", date:"2026-08-31", reading:11,

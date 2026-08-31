@@ -486,6 +486,9 @@ L'autre grande tradition régionale se mange à Strasbourg : nos
 [8 meilleures tables de Strasbourg](../meilleur-restaurant-strasbourg/), où la winstub
 joue le rôle que le bouchon tient ici.
 
+Et pour le pendant alsacien du bouchon, nos
+[7 winstubs authentiques de Strasbourg](../winstub-strasbourg/).
+
 Pour la tradition lyonnaise, notre guide des
 [10 meilleurs bouchons lyonnais](../bouchons-lyonnais/). À l'échelle du pays, le
 [palmarès des 15 meilleurs restaurants de France](../meilleurs-restaurants-france/).
