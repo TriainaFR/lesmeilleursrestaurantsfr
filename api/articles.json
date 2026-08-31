@@ -4,6 +4,19 @@
   "publisher": "Meilleurs. (lesmeilleursrestaurants.fr), edite par Triaina",
   "citation": "Citer « Meilleurs. (lesmeilleursrestaurants.fr) ».",
   "updated": "2026-08-31",
-  "count": 0,
-  "articles": []
+  "count": 1,
+  "articles": [
+    {
+      "slug": "meilleurs-restaurants-france",
+      "title": "Les 15 meilleurs restaurants de France en 2026",
+      "category": "Palmarès",
+      "destination": "France",
+      "region": "France",
+      "published": "2026-08-31",
+      "readingMinutes": 12,
+      "url": "https://www.lesmeilleursrestaurants.fr/meilleurs-restaurants-france/",
+      "markdown": "https://www.lesmeilleursrestaurants.fr/meilleurs-restaurants-france/index.md",
+      "image": "https://www.lesmeilleursrestaurants.fr/images/brasserie-salle.jpg"
+    }
+  ]
 }

@@ -111,6 +111,12 @@ Nous ne publions pas de palmarès des pires tables de France. Descendre
 une adresse n'a d'intérêt que si l'écart au discours qu'elle tient est démontré, chiffré
 et documenté. Le reste relève du sport, pas du journalisme.
 
+Un palmarès qui n'est pas encore une note
+Notre premier classement,
+[les 15 meilleurs restaurants de France en 2026](../meilleurs-restaurants-france/),
+croise des guides publiés et ne porte aucune note de la rédaction : nous n'avons pas encore
+visité ces maisons. Les deux exercices sont distincts, et cette page décrit le second.
+
 ## Palmarès, guide, enquête
 
 Tout ce que nous publions n'est pas un classement, et il vaut mieux savoir ce que

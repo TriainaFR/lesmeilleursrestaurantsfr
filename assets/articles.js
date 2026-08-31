@@ -32,6 +32,11 @@
    Virgule, deux-points ou point-virgule a la place. Le build le verifie.
    ========================================================================== */
 window.ARTICLES = [
+  {slug:"meilleurs-restaurants-france", cat:"Palmarès",
+   title:"Les 15 meilleurs restaurants de France en 2026",
+   dest:"France", region:"France", date:"2026-08-31", reading:12,
+   url:"meilleurs-restaurants-france/", photo:"images/brasserie-salle.jpg",
+   recit:"Trois guides, trois méthodes, et ce qu'ils disent quand on les met côte à côte."},
   /* Aucun article publie a ce jour. Le media n'a encore rien teste : le
      catalogue reste vide tant que le premier service n'a pas eu lieu.
      Exemple de la forme attendue, a decommenter et adapter :

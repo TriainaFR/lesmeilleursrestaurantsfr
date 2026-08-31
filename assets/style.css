@@ -1101,3 +1101,62 @@ table.data tfoot .num{font-size:1rem;letter-spacing:.04em}
   background:var(--paper);border:1.5px solid var(--line-strong);border-radius:99px;
   padding:.55em 1em;
 }
+
+/* ============================================================================
+   PAGE DE PALMARÈS, ajout du 31 août 2026
+   Une liste classée où le rang doit se lire d'un coup d'œil, et où la
+   distinction qui justifie ce rang est aussi importante que le nom. Elle est
+   donc portée par sa propre ligne, en mono, juste sous le lieu.
+   Jetons de :root uniquement, comme partout ailleurs.
+   ========================================================================== */
+
+/* ---- image de tête d'article ---- */
+.art-hero{margin:0 0 clamp(28px,4vw,44px);max-width:880px}
+.art-hero picture{display:block;border:1.5px solid var(--line-strong);border-radius:16px;overflow:hidden}
+.art-hero img{width:100%;height:auto;aspect-ratio:16/9;object-fit:cover}
+.art-hero figcaption{
+  font-family:var(--mono);font-size:.66rem;line-height:1.6;letter-spacing:.05em;
+  color:var(--ink-soft);margin-top:10px;max-width:70ch;
+}
+
+/* ---- la liste classée ---- */
+.prose .pal-list{list-style:none;padding:0;margin:0 0 clamp(30px,4vw,50px);max-width:none;counter-reset:none}
+.pal-row{
+  display:grid;grid-template-columns:auto 1fr;gap:clamp(14px,2.4vw,30px);
+  padding-block:clamp(20px,2.8vw,30px);
+  border-top:1.5px solid var(--line);
+}
+.pal-row:first-child{border-top:1.5px solid var(--line-strong)}
+.pal-row:last-child{border-bottom:1.5px solid var(--line-strong)}
+.pal-rang{
+  font-family:var(--mono);font-weight:600;
+  font-size:clamp(1rem,1.5vw,1.3rem);color:var(--wine);
+  font-variant-numeric:tabular-nums;padding-top:.35em;
+}
+.prose .pal-row h3{
+  font-family:var(--serif);font-weight:580;font-variation-settings:"opsz" 90,"SOFT" 40;
+  font-size:clamp(1.3rem,2.4vw,1.9rem);line-height:1.1;letter-spacing:-.015em;
+  margin:0 0 6px;
+}
+.prose .pal-row p{margin-bottom:10px}
+.pal-lieu{
+  font-family:var(--mono);font-size:.68rem;letter-spacing:.1em;text-transform:uppercase;
+  color:var(--ink-soft);
+}
+.pal-dist{
+  font-family:var(--mono);font-size:.72rem;line-height:1.65;letter-spacing:.04em;
+  color:var(--ink);background:var(--paper-2);
+  border-left:3px solid var(--wine);padding:.6em .9em;border-radius:3px 8px 8px 3px;
+}
+.pal-dist b{font-weight:600;color:var(--wine)}
+@media(max-width:600px){
+  .pal-row{grid-template-columns:1fr;gap:6px}
+  .pal-rang{padding-top:0}
+}
+
+/* ---- questions fréquentes ---- */
+.faq-item{border-top:1px solid var(--line);padding-block:clamp(16px,2vw,24px)}
+.faq-item:first-of-type{border-top:1.5px solid var(--line-strong)}
+.faq-item:last-of-type{border-bottom:1.5px solid var(--line-strong);margin-bottom:clamp(26px,3.5vw,42px)}
+.prose .faq-item h3{margin-top:0;margin-bottom:8px}
+.prose .faq-item p{margin-bottom:0}

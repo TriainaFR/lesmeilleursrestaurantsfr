@@ -37,6 +37,10 @@ où la même façon de travailler s'applique aux chambres et aux soins depuis 20
 titres partagent une exigence identique : une grille publiée, des critères pondérés, et une
 note qui se discute ligne à ligne.
 
+Il signe le premier palmarès du média,
+[les 15 meilleurs restaurants de France en 2026](../meilleurs-restaurants-france/),
+qui croise La Liste, le Guide Michelin et Gault&Millau.
+
 Signe les palmarès, les guides et les enquêtes ·
 [Le contacter →](../contact.html)
 
