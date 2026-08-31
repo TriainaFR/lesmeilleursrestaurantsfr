@@ -472,6 +472,10 @@ Le troisième tient dans un écart. Guy Savoy est premier mondial à La Liste et
 Michelin. Deux classements de référence, deux verdicts opposés sur la même maison, la même année.
 C'est la meilleure raison de lire plusieurs guides plutôt qu'un seul.
 
+Pour la deuxième ville gastronomique du pays, notre guide
+[Où manger à Lyon](../ou-manger-a-lyon/) passe quinze tables au crible, distinctions
+et adresses vérifiées une par une.
+
 Lyon tient son propre système, avec ses bouchons et ses deux labels concurrents : notre guide
 des [10 meilleurs bouchons lyonnais](../bouchons-lyonnais/) explique lequel veut dire
 quoi, et pourquoi les maisons les plus recommandées n'en portent souvent aucun.

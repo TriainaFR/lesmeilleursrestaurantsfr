@@ -418,6 +418,10 @@ jour : [signalez-le nous](../contact.html). Les corrections sont datées sur la 
 
 ## À lire aussi
 
+Pour sortir du bouchon sans quitter la ville, notre guide
+[Où manger à Lyon](../ou-manger-a-lyon/) réunit quinze tables vérifiées, des quatre
+maisons à deux étoiles aux adresses de quartier.
+
 À l'échelle du pays, notre palmarès des
 [15 meilleurs restaurants de France en 2026](../meilleurs-restaurants-france/) réunit les
 tables qui ont marqué l'année. Pour la capitale, les

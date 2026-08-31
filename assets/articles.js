@@ -36,6 +36,12 @@
    Virgule, deux-points ou point-virgule a la place. Le build le verifie.
    ========================================================================== */
 window.ARTICLES = [
+  {slug:"ou-manger-a-lyon", cat:"Villes",
+   title:"Où manger à Lyon : 15 tables en 2026",
+   dest:"Lyon", region:"Lyon", date:"2026-08-31", reading:15,
+   url:"ou-manger-a-lyon/", photo:"images/off-brazier.jpg",
+   auteur:"charles-bidaud",
+   recit:"Trois adresses très citées sont fermées, dont une depuis huit ans."},
   {slug:"bouchons-lyonnais", cat:"Guide",
    title:"Les 10 meilleurs bouchons lyonnais en 2026",
    dest:"Lyon", region:"Lyon", date:"2026-08-31", reading:13,

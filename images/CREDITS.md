@@ -63,12 +63,19 @@ sans délai sur simple demande de l'établissement.
 | `off-abel` | Café Comptoir Abel, la devanture | Office de tourisme de Lyon | [source](https://www.visiterlyon.com/se-regaler/restaurants-et-gastronomie/label-bouchons-lyonnais/cafe-comptoir-abel) |
 | `off-abel-salle` | Café Comptoir Abel, un salon | Office de tourisme de Lyon | [source](https://www.visiterlyon.com/se-regaler/restaurants-et-gastronomie/label-bouchons-lyonnais/cafe-comptoir-abel) |
 | `off-lobut` | Café Lobut, la salle | Café Lobut | [source](https://www.cafe-lobut.fr/) |
+| `off-tetedoie` | Christian Têtedoie, la salle panoramique | Christian Têtedoie | [source](https://www.tetedoie.com/) |
+| `off-cinqmains` | Cinq Mains, la salle | Cinq Mains | [source](https://www.cinqmains.fr/) |
 | `off-daniel-denise` | Daniel &amp; Denise Saint-Jean, en cuisine | Office de tourisme de Lyon | [source](https://www.visiterlyon.com/se-regaler/restaurants-et-gastronomie/label-bouchons-lyonnais/daniel-et-denise-saint-jean) |
 | `off-la-meuniere` | La Meunière, la salle | La Meunière | [source](https://www.lameuniere.fr/) |
+| `off-brazier` | La Mère Brazier, la salle | La Mère Brazier | [source](https://lamerebrazier.fr/) |
 | `off-sully` | Le Bouchon Sully, le service | Office de tourisme de Lyon | [source](https://www.visiterlyon.com/se-regaler/restaurants-et-gastronomie/label-bouchons-lyonnais/le-bouchon-sully) |
 | `off-des-filles` | Le Bouchon des Filles, une assiette | Le Bouchon des Filles | [source](https://lebouchondesfilles.fr/) |
+| `off-neuvieme` | Le Neuvième Art, une assiette | Le Neuvième Art | [source](https://leneuviemeart.com/) |
 | `off-poelon` | Le Poêlon d'Or, la salle | Le Poêlon d'Or | [source](https://www.lepoelondor-restaurant.fr/) |
 | `off-adrets` | Les Adrets, la devanture | Les Adrets | [source](http://les-adrets.com/) |
+| `off-clovis` | Maison Clovis, une assiette | Maison Clovis | [source](https://maisonclovis.com/) |
+| `off-prairial` | Prairial, la salle | Prairial | [source](https://www.prairial-restaurant.fr/) |
+| `off-substrat` | Substrat, une assiette | Substrat | [source](https://www.substrat-restaurant.com/) |
 
 ## 3. Photographies d'illustration des articles, Wikimedia Commons
 

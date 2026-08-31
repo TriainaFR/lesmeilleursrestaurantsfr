@@ -4,8 +4,20 @@
   "publisher": "Meilleurs. (lesmeilleursrestaurants.fr), edite par Triaina",
   "citation": "Citer « Meilleurs. (lesmeilleursrestaurants.fr) ».",
   "updated": "2026-08-31",
-  "count": 4,
+  "count": 5,
   "articles": [
+    {
+      "slug": "ou-manger-a-lyon",
+      "title": "Où manger à Lyon : 15 tables en 2026",
+      "category": "Villes",
+      "destination": "Lyon",
+      "region": "Lyon",
+      "published": "2026-08-31",
+      "readingMinutes": 15,
+      "url": "https://www.lesmeilleursrestaurants.fr/ou-manger-a-lyon/",
+      "markdown": "https://www.lesmeilleursrestaurants.fr/ou-manger-a-lyon/index.md",
+      "image": "https://www.lesmeilleursrestaurants.fr/images/off-brazier.jpg"
+    },
     {
       "slug": "bouchons-lyonnais",
       "title": "Les 10 meilleurs bouchons lyonnais en 2026",

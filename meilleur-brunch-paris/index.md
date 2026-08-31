@@ -438,6 +438,9 @@ page et reportées partout où l'adresse est citée.
 
 ## À lire aussi
 
+Et pour la ville entière, des deux-étoiles aux tables de quartier, notre guide
+[Où manger à Lyon](../ou-manger-a-lyon/).
+
 Hors de Paris, Lyon reste la capitale de la table populaire : notre guide des
 [10 meilleurs bouchons lyonnais](../bouchons-lyonnais/) démêle les deux labels
 concurrents et dit ce qu'ils garantissent vraiment.

@@ -118,17 +118,31 @@ Café Comptoir Abel, un salonOffice de tourisme de Lyon
 
 Café Lobut, la salleCafé Lobut
 
+Christian Têtedoie, la salle panoramiqueChristian Têtedoie
+
+Cinq Mains, la salleCinq Mains
+
 Daniel & Denise Saint-Jean, en cuisineOffice de tourisme de Lyon
 
 La Meunière, la salleLa Meunière
+
+La Mère Brazier, la salleLa Mère Brazier
 
 Le Bouchon Sully, le serviceOffice de tourisme de Lyon
 
 Le Bouchon des Filles, une assietteLe Bouchon des Filles
 
+Le Neuvième Art, une assietteLe Neuvième Art
+
 Le Poêlon d'Or, la salleLe Poêlon d'Or
 
 Les Adrets, la devantureLes Adrets
+
+Maison Clovis, une assietteMaison Clovis
+
+Prairial, la sallePrairial
+
+Substrat, une assietteSubstrat
 
 Les photographies illustrant nos palmarès viennent également de Wikimedia
 Commons. Leur licence impose de citer leur auteur, ce qui est fait sous chaque

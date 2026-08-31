@@ -25,6 +25,7 @@ lui-même rédigés.
 
 ## Ce qu'il signe
 
+- [Où manger à Lyon : 15 tables en 2026](../../ou-manger-a-lyon/), 31 août 2026.
 - [Meilleur brunch à Paris : 12 adresses en 2026](../../meilleur-brunch-paris/), 31 août 2026.
 
 Aucune parution ne lui est attribuée à ce jour. Ses articles seront listés ici au fil des publications.
