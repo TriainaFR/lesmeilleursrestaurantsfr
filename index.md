@@ -1,6 +1,6 @@
-# Meilleurs : les meilleurs restaurants de France
+# Les Meilleurs Restaurants de France 2026 - Palmarès & Guides
 
-> Le média français des meilleurs restaurants. Palmarès, guides par ville et par envie, enquêtes et ouvertures : la rédaction sélectionne, va à table et classe.
+> Le palmarès indépendant des meilleurs restaurants de France. Guides par ville, par occasion et par budget : Paris, Lyon, Marseille, Bordeaux, Pays basque, Alsace, Côte d'Azur. La rédaction va à table pour vous.
 
 Source : https://www.lesmeilleursrestaurants.fr/
 

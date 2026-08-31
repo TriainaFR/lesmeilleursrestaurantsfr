@@ -183,7 +183,20 @@ nav.main a:hover::after{transform:scaleX(1);transform-origin:left}
 .h-display .swash{color:var(--tomato);font-style:italic;font-weight:500}
 /* mot rotatif : la ligne 2 est la fenêtre (overflow hidden hérité de .l),
    le mot roule verticalement, opacité nulle aux extrêmes, zéro reflow (bloc pleine ligne). */
-.rot-word{display:block;transition:transform .4s var(--ease),opacity .4s var(--ease)}
+/* Le mot du titre pivote a l'ecran, mais le document ne doit contenir qu'une
+   fois « restaurants » : c'est le mot que le site veut voir lu dans son H1, et
+   un moteur qui regarde la page trois secondes plus tard ne doit pas y trouver
+   « comptoirs » a la place. Le <i> porte donc le mot reel, en permanence, et les
+   variantes sont affichees par un pseudo-element, invisible aux extracteurs de
+   texte. La classe rot-on n'est posee que si l'animation demarre vraiment : sans
+   JavaScript ou en mouvement reduit, le mot reel s'affiche normalement. */
+.rot-word{display:block;position:relative;transition:transform .4s var(--ease),opacity .4s var(--ease)}
+.rot-word.rot-on i{visibility:hidden}
+.rot-word.rot-on::before{
+  content:attr(data-mot);
+  position:absolute;left:0;top:0;white-space:nowrap;
+  font-style:italic;font-weight:520;color:var(--wine);
+}
 .rot-word.out{transform:translateY(-44%);opacity:0}
 .rot-word.pre{transition:none;transform:translateY(44%);opacity:0}
 .h-note{font-family:var(--mono);font-size:.72rem;letter-spacing:.08em;color:var(--ink-soft);margin-top:14px}

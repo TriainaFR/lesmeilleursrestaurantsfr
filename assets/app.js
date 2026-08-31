@@ -69,11 +69,15 @@ var REDUCE = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
   if(!w || REDUCE) return;
   var words = ['restaurants', 'bistrots', 'tables', 'comptoirs'];
   var i = 0;
+  // On fait tourner un attribut, pas le texte : le mot reel reste dans le
+  // document, seul son affichage change. Voir le commentaire de .rot-word.
+  w.dataset.mot = words[0];
+  w.classList.add('rot-on');
   setInterval(function(){
     w.classList.add('out');
     setTimeout(function(){
       i = (i + 1) % words.length;
-      w.firstElementChild.textContent = words[i];
+      w.dataset.mot = words[i];
       w.classList.add('pre');
       void w.offsetHeight;
       w.classList.remove('pre', 'out');
