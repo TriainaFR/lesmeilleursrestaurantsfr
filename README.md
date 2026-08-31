@@ -126,6 +126,15 @@ qu'ils décrivent le service et non le catalogue : `api/openapi.json`,
 - **Notation** : une seule échelle, **sur 20**, répartie en cinq critères
   pondérés : Cuisine 8, Produit et sourcing 4, Service et salle 3, Cadre et
   atmosphère 2, Rapport qualité prix 3. Voir `/notre-methode/`.
+- **Aucun lien sortant suivi**, pour l'instant. Tout lien vers un domaine tiers,
+  y compris les autres titres de Triaina, porte `rel="nofollow"`. Le média est
+  jeune : des liens suivis entre sites d'un même éditeur ressemblent à un échange
+  organisé plutôt qu'à une citation, et rien ne justifie d'envoyer dehors le peu
+  d'autorité d'un site qui n'a encore rien publié. Le build refuse de construire
+  si un lien sortant est suivi. Les URL déclarées en données structurées
+  (`sameAs`) ne sont pas concernées : elles identifient une entité et ne
+  transmettent pas d'autorité. À lever le jour où le média assume ses liens
+  sortants, en retirant l'appel à `check_liens_sortants()` dans `tools/build.py`.
 
 ## IndexNow
 

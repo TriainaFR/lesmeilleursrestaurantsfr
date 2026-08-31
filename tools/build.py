@@ -818,8 +818,40 @@ def resolve(page, ref):
     return os.path.normpath(os.path.join(os.path.dirname(page), ref))
 
 
+def check_liens_sortants():
+    """Aucun lien sortant ne doit transmettre d'autorite pour l'instant.
+
+    Le media est jeune et ses autres titres appartiennent au meme editeur : des
+    liens suivis entre eux ressemblent a un echange organise plutot qu'a une
+    citation, et rien ne justifie d'envoyer dehors le peu d'autorite d'un site qui
+    n'a pas encore publie. Tout lien vers un domaine tiers porte donc nofollow.
+
+    Ce controle ne regarde que les balises <a> : les URL declarees en donnees
+    structurees (sameAs et compagnie) ne transmettent pas d'autorite, elles
+    servent a identifier une entite, et restent donc autorisees.
+
+    A lever le jour ou le media assume ses liens sortants : retirer l'appel dans
+    checks(), ou reduire ce controle aux seuls domaines de l'editeur.
+    """
+    hote = BASE.split("//", 1)[1].rstrip("/")
+    for page in pages():
+        s = read(page)
+        for balise in re.findall(r"<a\b[^>]*>", s):
+            m = re.search(r'href="(https?://[^"]+)"', balise)
+            if not m:
+                continue
+            cible = m.group(1).split("//", 1)[1]
+            if cible.split("/")[0] in (hote, hote.replace("www.", "")):
+                continue
+            rel = re.search(r'rel="([^"]*)"', balise)
+            if not rel or "nofollow" not in rel.group(1).split():
+                fail("lien sortant sans nofollow : %s pointe vers %s"
+                     % (page, m.group(1)))
+
+
 def checks(allow_demo):
     check_demo(allow_demo)
+    check_liens_sortants()
     check_canonical()
     check_orphans()
     for f in pages():
