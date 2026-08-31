@@ -25,6 +25,6 @@ Rechercher une parution
 
 Les premières parutions arrivent.
 
-Le sommaire s'ouvrira au premier service. Rien n'est publié ici tant qu'une table n'a pas été réservée sous un autre nom, mangée, et payée par la rédaction.
+Le sommaire s'ouvrira au premier service. Rien n'est publié ici tant que la rédaction n'est pas allée voir par elle-même.
 
 [Lire notre méthode](/notre-methode/)

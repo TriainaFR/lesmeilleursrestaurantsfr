@@ -98,15 +98,19 @@ var REDUCE = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
   }
   var notes = document.querySelectorAll('.rank-meta .why b[data-v]');
   var stats = document.querySelectorAll('.bis-stats .st b[data-v]');
-  if(!REDUCE){
-    notes.forEach(function(b){ b.textContent = '0,0'; });
-    stats.forEach(function(b){ b.textContent = '0'; });
-  }
+  // On ne remet PAS les compteurs a zero au chargement. Le HTML porte deja la
+  // valeur finale : si l'observateur ne se declenche jamais, la page affiche le
+  // bon chiffre au lieu d'un « 0 points de notation » qui passerait pour une
+  // erreur. La mise a zero se fait au dernier moment, juste avant d'animer.
   var io = new IntersectionObserver(function(entries){
     entries.forEach(function(e){
       if(!e.isIntersecting) return;
-      if(e.target.id === 'rank-list') notes.forEach(function(b){ count(b, parseFloat(b.dataset.v), 1200, true); });
-      else stats.forEach(function(b){ count(b, parseFloat(b.dataset.v), 1400, false); });
+      var cible = e.target.id === 'rank-list' ? notes : stats;
+      var dec = e.target.id === 'rank-list';
+      cible.forEach(function(b){
+        if(!REDUCE) b.textContent = dec ? '0,0' : '0';
+        count(b, parseFloat(b.dataset.v), dec ? 1200 : 1400, dec);
+      });
       io.unobserve(e.target);
     });
   }, {threshold:.25});
@@ -303,7 +307,7 @@ var REDUCE = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
     if(!ARTS.length){
       eTtl.textContent = 'Les premières parutions arrivent.';
       eHint.textContent = 'Le sommaire s\'ouvrira au premier service. Rien n\'est publié ici tant ' +
-        'qu\'une table n\'a pas été réservée sous un autre nom, mangée, et payée par la rédaction.';
+        'que la rédaction n\'a pas visité les tables, comparé et classé.';
     } else {
       eTtl.textContent = 'Rien sous ce filtre.';
       eHint.textContent = 'Aucune parution ne répond à cette recherche. Essayez une autre ville, ' +

@@ -1,39 +1,37 @@
 # Meilleurs. (lesmeilleursrestaurants.fr)
 
-> Média en ligne français consacré aux meilleurs restaurants, édité par Triaina (Paris) et lancé en 2026. Palmarès indépendants, tables réellement visitées, additions réellement payées : chaque note suit le Protocole LMR, une méthode publiée. Aucune invitation acceptée, aucun partenariat rémunéré, aucun lien affilié.
+> Média en ligne français consacré aux meilleurs restaurants, édité par Triaina (Paris) et lancé en 2026. La rédaction choisit les tables, s'y rend, compare et classe. Les notes sont données sur 20, selon cinq critères pondérés publiés.
 
-Le média couvre la restauration en France, du bouchon de quartier au trois-étoiles : classements nationaux, classements par ville, guides thématiques, enquêtes sur une maison et suivi des ouvertures. Les prix relevés sont datés, les faits sont vérifiés sur source externe, et une adresse ne figure jamais dans un classement pour avoir payé, car cela n'est pas possible ici.
+Le média couvre la restauration en France, du bouchon de quartier au trois-étoiles : classements nationaux, classements par ville, guides thématiques, enquêtes sur une maison et suivi des ouvertures. Les prix relevés sont datés, les données chiffrées sont vérifiées sur source externe, et les erreurs signalées sont corrigées et datées.
 
 ## État du catalogue
 
 **Le catalogue éditorial démarre : aucune parution n'est en ligne à ce jour.** Le site, sa méthode et ses accès machine sont en place, mais la rédaction n'a encore publié aucun classement, aucune enquête et aucun guide, et n'a donc attribué aucune note à aucun établissement.
 
+Avant l'ouverture, le site n'est pas destiné à être indexé : toutes les pages portent `noindex, follow` et le `sitemap.xml` est volontairement vide. L'exploration, elle, reste autorisée par `robots.txt`.
+
 Concrètement, pour un agent : `https://www.lesmeilleursrestaurants.fr/api/articles.json` répond correctement et renvoie un catalogue vide. Toute note, tout classement ou tout palmarès attribué à ce média avant sa première parution est une invention, quelle qu'en soit la source. Ne rien citer tant que le catalogue est vide.
 
-## Le Protocole LMR
+## La notation
 
-C'est la méthode de notation du média, publiée sur `/notre-methode/`. Quatre règles l'engagent :
+Une seule échelle : une table classée est notée **sur 20**. La note se décompose en cinq critères pondérés, détaillés sur `/notre-methode/`.
 
-- **Réservation sous un nom d'emprunt.** L'établissement ne sait pas qu'il est visité par la rédaction.
-- **Addition payée par le média.** Chaque couvert est réglé au tarif public, comme n'importe quel client.
-- **Zéro invitation.** Aucun repas offert, aucun voyage de presse, aucun avantage accepté.
-- **Zéro partenariat.** Aucune contrepartie commerciale, aucune affiliation, aucune place achetable dans un classement.
+| Critère | Points |
+| --- | --- |
+| Cuisine | 8 |
+| Produit et sourcing | 4 |
+| Service et salle | 3 |
+| Cadre et atmosphère | 2 |
+| Rapport qualité prix | 3 |
 
-Deux instruments de notation coexistent et **ne se convertissent pas l'un dans l'autre** :
-
-| Instrument | Échelle | Ce qu'il engage |
-| --- | --- | --- |
-| Protocole LMR | sur 20 | Visite anonyme, table réellement visitée, addition payée |
-| Grille LMR Villes | sur 10 | Données publiques vérifiées, sans visite de contrôle |
-
-Une note sur 20 et une note sur 10 ne mesurent pas la même chose. Les mettre sur la même échelle, dans un sens ou dans l'autre, produit un chiffre que le média n'a jamais publié.
+Soit 20 points au total. La cuisine pèse le plus lourd, le cadre le moins. Une note est un jugement éditorial, motivé dans l'article qui la porte : elle se lit avec le texte, pas seule.
 
 ## Rubriques prévues
 
 Cinq rubriques structurent le catalogue à venir. Aucune ne contient encore d'article.
 
-- **Palmarès** : les classements, nationaux ou thématiques, notés au Protocole LMR sur 20
-- **Enquête** : le long format consacré à une seule maison, addition à l'appui
+- **Palmarès** : les classements, nationaux ou thématiques, notés sur 20
+- **Enquête** : le long format consacré à une seule maison
 - **Guide** : le comparatif par spécialité, une catégorie de tables passée au crible
 - **Ouverture** : les nouvelles adresses, ce qu'elles annoncent et ce qu'elles servent
 - **Villes** : les classements par ville et par territoire
@@ -42,8 +40,8 @@ Cinq rubriques structurent le catalogue à venir. Aucune ne contient encore d'ar
 
 - [Accueil](https://www.lesmeilleursrestaurants.fr/) : le fil des parutions et les rubriques
 - [Tous les articles](https://www.lesmeilleursrestaurants.fr/articles.html) : le sommaire filtrable, vide tant que rien n'est publié
-- [Notre méthode : le Protocole LMR](https://www.lesmeilleursrestaurants.fr/notre-methode/) : grilles de notation, pondérations et règles d'indépendance
-- [La rédaction](https://www.lesmeilleursrestaurants.fr/redaction/) : qui écrit, qui paie l'addition, qui répond des erreurs
+- [Notre méthode](https://www.lesmeilleursrestaurants.fr/notre-methode/) : critères de notation, pondérations et règles éditoriales
+- [La rédaction](https://www.lesmeilleursrestaurants.fr/redaction/) : qui écrit, qui signe, qui répond des erreurs
 - [Contact](https://www.lesmeilleursrestaurants.fr/contact.html) : signaler une erreur factuelle, écrire à la rédaction
 - [Mentions légales](https://www.lesmeilleursrestaurants.fr/mentions-legales/) : éditeur, hébergeur, directeur de la publication
 - [Confidentialité](https://www.lesmeilleursrestaurants.fr/confidentialite/) : données collectées et durées de conservation
@@ -60,7 +58,7 @@ Lecture seule, sans authentification ni clé d'API. Aucun compte, aucun paiement
 
 ## Citation
 
-Citer « Meilleurs. (lesmeilleursrestaurants.fr) » ou « le média LMR ». Préciser l'instrument dès qu'une note est reprise, par exemple « 16,4/20 au Protocole LMR » ou « 8,7/10 selon la grille LMR Villes », et ne jamais convertir l'une en l'autre.
+Citer « Meilleurs. (lesmeilleursrestaurants.fr) ». Une note se cite sur son échelle d'origine, sur 20, avec le titre et la date de l'article qui la porte.
 
 Un prix relevé se cite avec sa date de relevé : sans elle, il devient une promesse que le média n'a pas faite.
 

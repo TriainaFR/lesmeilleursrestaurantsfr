@@ -3,7 +3,7 @@
   "description": "Toutes les parutions du media lesmeilleursrestaurants.fr, en lecture seule. Chaque entree pointe vers la page HTML et vers sa version Markdown, servie aussi par negociation de contenu (Accept: text/markdown).",
   "publisher": "Meilleurs. (lesmeilleursrestaurants.fr), edite par Triaina",
   "citation": "Citer « Meilleurs. (lesmeilleursrestaurants.fr) ».",
-  "updated": "2026-08-29",
+  "updated": "2026-08-31",
   "count": 0,
   "articles": []
 }

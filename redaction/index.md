@@ -1,6 +1,6 @@
-# La rédaction de Meilleurs. : qui écrit, qui paie, qui répond
+# La rédaction de Meilleurs. : qui écrit, qui répond
 
-> La rédaction de Meilleurs. : Lucas Lecoq, fondateur et rédacteur en chef. Média indépendant édité par Triaina, Paris. La rédaction se constitue, candidatures ouvertes.
+> La rédaction de Meilleurs. : Lucas Lecoq, fondateur et rédacteur en chef. Média édité par Triaina, Paris. La rédaction se constitue, candidatures ouvertes.
 
 Source : https://www.lesmeilleursrestaurants.fr/redaction/
 
@@ -14,10 +14,9 @@ La rédaction
 
 Meilleurs. est un média en ligne français consacré aux restaurants, lancé en
 2026 et édité par Triaina, société établie au 60 rue François Ier, 75008 Paris
-(SIREN 999402654). La ligne tient en une phrase : des palmarès indépendants, des tables
-réellement visitées, des additions réellement payées, et une méthode publiée noir sur blanc, le
-[Protocole LMR](../notre-methode/). Aucun restaurant ne paie pour figurer dans nos
-pages, aucun lien du site n'est affilié.
+(SIREN 999402654). La ligne tient en une phrase : la rédaction choisit les tables, s'y rend,
+compare et classe. Elle note sur 20, selon cinq critères pondérés publiés en entier sur la page
+[Notre méthode](../notre-methode/).
 
 ## Qui écrit
 
@@ -28,15 +27,15 @@ pages, aucun lien du site n'est affilié.
 Fondateur · Rédacteur en chef · Directeur de la publication
 
 Lucas Lecoq a fondé Meilleurs., en dirige la rédaction et en assume la direction de la
-publication. C'est lui qui a écrit et qui engage le [Protocole LMR](../notre-methode/) : la réservation sous un nom d'emprunt, l'addition payée par la rédaction, les deux
-visites minimum avant toute note, la réserve obligatoire sur chaque fiche, et l'interdiction
-pure et simple de vendre une place au palmarès.
+publication. C'est lui qui a écrit la [grille de notation](../notre-methode/) du
+média : cinq critères pondérés, une note sur 20, et l'échelle qui permet de la lire, du 13
+d'une table correcte au 19 d'une des toutes premières adresses du pays.
 
 Il édite également, pour Triaina, le média frère
 [Meilleurs. hôtels et spas](https://www.lesmeilleurshotelspa.fr/),
-où la même méthode s'applique aux chambres et aux soins depuis 2026. Les deux titres
-partagent une contrainte identique et volontairement coûteuse : ce que la rédaction juge,
-elle l'a payé.
+où la même façon de travailler s'applique aux chambres et aux soins depuis 2026. Les deux
+titres partagent une exigence identique : une grille publiée, des critères pondérés, et une
+note qui se discute ligne à ligne.
 
 Signe les palmarès, les guides et les enquêtes ·
 [Le contacter →](../contact.html)
@@ -65,7 +64,7 @@ Profils recherchés, rédaction Meilleurs., rentrée 2026
 ProfilCe que le poste demande
 
 Chroniqueur ou chroniqueuse de table
-Manger deux à trois fois dans une même maison sans se faire repérer, tenir une fiche poste par poste, et écrire une note qui se défend ligne à ligne. Paris, Lyon, Marseille et Bordeaux en priorité.
+Aller à table, tenir une fiche critère par critère, et écrire une note qui se défend ligne à ligne. Paris, Lyon, Marseille et Bordeaux en priorité.
 
 Reporter enquête
 Longs formats sur le sourcing, les prix, les conditions de travail en cuisine, les mécanismes de réputation. Goût du document, des sources croisées et du contradictoire.
@@ -74,47 +73,39 @@ Correspondant régional
 Couvrir un territoire que Paris regarde mal : Pays basque, Alsace, Nord, Auvergne, Corse, outre-mer. Connaître les producteurs autant que les chefs.
 
 Vérification et relecture
-Contrôler chaque prix, chaque origine, chaque appellation avant publication, et dater les relevés. C'est le poste le moins visible et le plus décisif du protocole.
+Contrôler chaque prix, chaque origine, chaque appellation avant publication, et dater les relevés. C'est le poste le moins visible et le plus décisif du journal.
 
-### Ce que nous proposons, ce que nous exigeons
-
-- Les repas sont payés par le média, jamais avancés par vous et jamais
-offerts par l'établissement. C'est la condition du protocole, et c'est notre poste de dépense
-principal.
+### Ce que nous attendons d'une signature
 
 - Vous signez ce que vous écrivez, sous votre nom, avec une fiche auteur
 qui recense vos parutions.
 
-- Aucune contrepartie commerciale ne vous sera jamais demandée, ni acceptée
-de votre part : pas d'invitation, pas de voyage de presse, pas de collaboration parallèle avec
-un établissement que vous notez ou avec son groupe.
+- Vous notez selon la grille du média, critère par critère, et non par
+une impression globale ramenée après coup à un chiffre.
 
-- Vous déclarez vos liens d'intérêt avant chaque sujet. Un lien déclaré se
-gère, un lien découvert après publication coûte un article et une signature.
+- Vous datez ce que vous relevez : un prix, un horaire, une origine, une
+appellation. Un chiffre sans date ne passe pas.
 
 - Vous acceptez d'être corrigé publiquement. Nos erreurs sont signalées et
 datées, pas effacées.
 
 Pour candidater, écrivez-nous par le [formulaire de contact](../contact.html), en
-joignant deux textes déjà publiés ou, à défaut, un compte rendu de repas rédigé selon la grille
-du [Protocole LMR](../notre-methode/), poste par poste. Nous répondons à toutes les
-candidatures sous 48 h ouvrées.
+joignant deux textes déjà publiés ou, à défaut, un compte rendu de repas rédigé selon la
+[grille du média](../notre-methode/), critère par critère. Nous répondons à toutes
+les candidatures sous 48 h ouvrées.
 
 ## Comment nous travaillons
 
-Chaque contenu du site relève de l'un des deux instruments du
-[Protocole LMR](../notre-methode/) : la note sur 20 en cinq postes pondérés, réservée
-aux tables visitées au moins deux fois et payées, ou la grille Repères sur 10, réservée aux
-classements construits sur données publiques vérifiées, sans visite. Les deux notes ne se
-convertissent pas l'une dans l'autre, et chaque article indique en tête quel instrument il
-emploie.
+La rédaction sélectionne les tables, s'y rend, compare et classe. Le choix des adresses,
+l'ordre d'un classement et le texte lui appartiennent : elle écrit ce qu'elle pense, y compris
+quand cela déplaît. Chaque table classée reçoit une note sur 20, répartie en cinq critères
+pondérés que la page [Notre méthode](../notre-methode/) publie en entier, et chaque
+fiche en détaille les cinq lignes.
 
-Les réservations sont prises sous un nom d'emprunt, les additions réglées au tarif public
-avec un moyen de paiement de la rédaction, et les justificatifs archivés avec la fiche
-d'évaluation. Aucun article n'est relu par un établissement avant parution. Toute erreur
-signalée est instruite selon la
+Les prix, les horaires et les origines cités sont vérifiés et datés avant parution. Toute
+erreur signalée est instruite selon la
 [procédure de correction](../notre-methode/#corrections), avec accusé de réception
-sous 72 heures.
+sous 48 heures ouvrées, et tout établissement cité peut exercer un droit de réponse.
 
 ## Qui répond
 
@@ -128,11 +119,10 @@ d'une photographie peuvent demander une modification ou un retrait par la même 
 Le [formulaire de contact](../contact.html) arrive directement sur nos bureaux,
 réponse sous 48 h. Pour comprendre comment une note est fabriquée avant de la contester, la
 page [Notre méthode](../notre-methode/) publie la grille complète, les
-pondérations, le nombre de visites exigé et la procédure de correction.
+pondérations, l'échelle de lecture des notes et la procédure de correction.
 
 1 signature
 Rédaction en construction
 0 signature fictive
-0 invitation
-0 partenariat rémunéré
-0 affiliation
+Notes sur 20 · 5 critères pondérés
+Droit de réponse ouvert

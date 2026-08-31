@@ -51,16 +51,15 @@ Railway Corp548 Market St PMB 68956, San Francisco, CA 94104, États-Unis · rai
 ## Indépendance éditoriale
 
 Ce qui engage le média
-Meilleurs. ne vend aucun classement, aucune place au palmarès, aucun retrait
-de note. Le site ne comporte ni publicité vendue à un établissement noté, ni
-lien d'affiliation, ni contenu sponsorisé. Les repas sont réservés sous un nom
-d'emprunt et les additions sont payées par la rédaction. Le détail de ces règles
-est publié sur la page [Notre méthode](../notre-methode/).
+Les classements, les notes et les articles relèvent de la seule rédaction.
+Les contenus à caractère commercial, s'il en paraît, sont identifiés comme tels
+et distingués des contenus éditoriaux. La grille de notation est publiée sur la
+page [Notre méthode](../notre-methode/).
 
 ## Propriété intellectuelle
 
 L'ensemble des contenus publiés sur ce site, textes, classements, notes, grilles
-et indices du Protocole LMR, mises en page et éléments graphiques, est protégé par
+de notation, mises en page et éléments graphiques, est protégé par
 le droit d'auteur et reste la propriété de Triaina ou de ses auteurs. Toute
 reproduction, représentation ou diffusion, totale ou partielle, sans autorisation
 écrite préalable est interdite, à l'exception des courtes citations avec mention

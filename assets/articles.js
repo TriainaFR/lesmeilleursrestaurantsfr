@@ -8,9 +8,9 @@
    du sitemap, et le build le signalerait comme orphelin.
 
    Un article n'entre ici QUE lorsqu'il est reellement publie, c'est a dire :
-   table reellement visitee, addition reellement payee, faits verifies sur source
-   externe et consignes dans le bloc FAITS VERIFIES en fin de page. Le Protocole
-   LMR est publie sur /notre-methode/ et engage le media.
+   table reellement visitee, faits verifies sur source externe et consignes dans
+   le bloc FAITS VERIFIES en fin de page. La methode de notation, une note sur 20
+   repartie en cinq criteres ponderes, est publiee sur /notre-methode/.
 
    Champs :
      slug     identifiant court et stable, sert de cle interne

@@ -168,7 +168,7 @@ def esc(s):
 
 def txt(s):
     """Contenu textuel. On n'echappe pas les apostrophes : le francais en est
-    plein, et « l&#x27;addition » dans le source ne se relit pas."""
+    plein, et « l&#x27;assiette » dans le source ne se relit pas."""
     return html_mod.escape(str(s), quote=False)
 
 

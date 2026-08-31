@@ -1,6 +1,6 @@
 # Meilleurs : les meilleurs restaurants de France
 
-> Le média français de référence des meilleurs restaurants. Palmarès indépendants, tables réellement testées, additions réellement payées. Zéro invitation, zéro partenariat.
+> Le média français des meilleurs restaurants. Palmarès, guides par ville et par envie, enquêtes et ouvertures : la rédaction sélectionne, va à table et classe.
 
 Source : https://www.lesmeilleursrestaurants.fr/
 
@@ -17,9 +17,9 @@ Le média des tables d'exception
 
 *du bouchon à 24 € au trois-étoiles, tant que ça se mérite.
 
-Palmarès indépendants, tables réellement testées, additions réellement payées.
-Nous réservons sous un autre nom, nous mangeons, nous classons,
-pour que votre prochaine table soit la bonne.
+Palmarès, guides et enquêtes. Nous sélectionnons, nous allons à table,
+nous comparons et nous classons, pour que votre prochaine table
+soit la bonne.
 
 [Notre méthode →](notre-methode/)
 [Tous les articles](articles.html)
@@ -35,10 +35,10 @@ Unes et dépêches
 
 Le fil ouvre au premier service.
 
-Rien ne paraît ici tant qu'une table n'a pas été réservée sous un autre
-nom, mangée, et payée par la rédaction. La méthode, elle, est déjà écrite et opposable.
+Rien ne paraît ici tant que la rédaction n'a pas fait son travail :
+choisir une table, s'y attabler, comparer. La grille de notation, elle, est déjà écrite.
 
-[Le Protocole LMR →](notre-methode/)
+[Notre méthode →](notre-methode/)
 
 En direct
 Le fil de la journée, heure par heure
@@ -49,17 +49,16 @@ Chaque parution paraîtra ici, et au sommaire.
 ## Le Palmarès 2026
 
 Classement annuel
-Noté au Protocole LMR, sur 20
+Notes sur 20, cinq critères
 
 Le palmarès se construit, une table à la fois.
 
-Une adresse n'y entre pas avant deux visites payées, trois au-delà de 18/20.
-Aucune place n'est à vendre, et aucune ne le sera : c'est précisément ce qui donne
-sa valeur à un classement.
+Il se construira au fil des parutions, table après table, et chaque note
+s'y lira sur 20, critère par critère plutôt qu'en bloc.
 
 [Comment nous notons →](notre-methode/)
 
-Protocole LMR : réservations anonymes, additions payées, zéro invitation, zéro partenariat rémunéré.
+Notes sur 20 : cuisine, produit et sourcing, service et salle, cadre et atmosphère, rapport qualité prix.
 
 ## Où manger, et pourquoi
 
@@ -79,29 +78,27 @@ Le dossier bistrot
 
 Zincs centenaires, néo-bistrots, comptoirs de dix couverts : la rédaction
 passera l'année serviette sur les genoux pour séparer les vraies maisons
-des décors à touristes. Voici la règle du jeu, avant le premier service.
+des décors à touristes. Voici comment nous les jugerons, avant le premier service.
 
 20points de notation
 
-2visites minimum
+5critères pondérés
 
-100% additions payées
-
-0invitation
+40% pour la seule cuisine
 
 [Lire la méthode →](notre-methode/)
 
-Addition : payée ✓
-Invitation : refusée ✓
+Zinc : d'époque ✓
+Nappe : à carreaux ✓
 
 ## Les enquêtes du moment
 
 Édito
-Longs formats, vraies additions
+Longs formats, vraies maisons
 
-Les enquêtes viendront, addition à l'appui.
+Les enquêtes viendront, une maison à la fois.
 
-Une maison, un long format, et le détail de ce que le repas a coûté.
+Une adresse, un long format, et le détail de ce que nous y avons trouvé.
 Aucune n'est écrite à ce jour.
 
 [Nous signaler une table →](contact.html)

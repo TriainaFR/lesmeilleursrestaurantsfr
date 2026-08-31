@@ -38,9 +38,9 @@ correction est datée en bas d'article.
 
 Les propositions commerciales.
 
-Aucune place de classement n'est à vendre : ni invitation, ni repas
-offert, ni partenariat rémunéré, ni lien d'affiliation. C'est précisément ce qui
-donne sa valeur à un palmarès.
+Les demandes publicitaires, les propositions de partenariat et
+les offres de prestation ne passent pas par la rédaction. Écrivez plutôt à
+l'éditeur, dont les coordonnées figurent ci-dessous.
 
 #### Éditeur
 

@@ -30,9 +30,8 @@ note, une seule date ni un seul compteur inventés dans le site :
   « 07 classements », « 87 testés », « 8 mois d'enquête », « Plat du jour »,
   ainsi que les quantités affichées sur les cartes de ville ;
 - les quatre chiffres du dossier bistrot décrivent maintenant la **méthode** et non
-  un travail accompli : 20 points de notation, 2 visites minimum, 100 % d'additions
-  payées, 0 invitation. Ils sont vrais au premier jour comme au centième ;
-- le ticker énonce les règles du Protocole LMR au lieu de titres d'articles ;
+  un travail accompli : ils sont vrais au premier jour comme au centième ;
+- le ticker énonce des repères de méthode au lieu de titres d'articles ;
 - les cartes de ville mènent au sommaire filtré, par exemple `articles.html?q=Lyon`.
 
 `python3 tools/build.py` **passe désormais sans `--allow-demo`**. Le garde-fou reste
@@ -133,11 +132,11 @@ Le catalogue est vide et tous les fichiers du dépôt le disent, y compris
 `api/status.json` (`"articles": 0`) et `llms.txt`. Aucune page ne doit annoncer un
 contenu inexistant tant que la première parution n'est pas en ligne.
 
-Rappel du protocole avant toute saisie dans `assets/articles.js` : réservation
-sous un nom d'emprunt, addition payée par le média, aucune invitation, faits
-vérifiés sur source externe et consignés dans le bloc `FAITS VÉRIFIÉS`, prix
-datés. Une note sur 20 suppose une visite ; sans visite, c'est la grille Villes
-sur 10, et les deux ne se convertissent pas l'une dans l'autre.
+Rappel avant toute saisie dans `assets/articles.js` : la table a été visitée, les
+faits sont vérifiés sur source externe et consignés dans le bloc `FAITS VÉRIFIÉS`,
+les prix sont datés. Les notes sont données sur 20, selon les cinq critères
+pondérés publiés sur `/notre-methode/` : Cuisine 8, Produit et sourcing 4,
+Service et salle 3, Cadre et atmosphère 2, Rapport qualité prix 3.
 
 Les liens internes de la page d'accueil sont tous branchés : plus aucun
 `href="#"` n'y subsiste. Il en reste **quatre sur l'ensemble du site**, tous dans

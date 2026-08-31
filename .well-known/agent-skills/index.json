@@ -4,9 +4,9 @@
     {
       "name": "consulter-les-classements-meilleurs-restaurants",
       "type": "skill-md",
-      "description": "Consulter et citer correctement les classements de restaurants du média Meilleurs. : instruments de notation, non-conversion des notes sur 20 et sur 10, accès au catalogue et aux articles en Markdown, règles de citation.",
+      "description": "Consulter et citer correctement les classements de restaurants du média Meilleurs. : notation sur 20 et ses cinq critères pondérés, différence entre un palmarès et un guide, accès au catalogue et aux articles en Markdown, règles de citation dont la date de relevé des prix.",
       "url": "https://www.lesmeilleursrestaurants.fr/.well-known/agent-skills/consulter-les-classements.md",
-      "digest": "sha256:1c5917c989a3a6903a90a38fe55558dcaae2f05294723051a909d2152e3bce4a"
+      "digest": "sha256:918d1af6e68a4db962d0e412802551a07cb2b43cf0b9ea4b95f7125b4c911add"
     }
   ]
 }

@@ -5,10 +5,9 @@ description: Consulter et citer correctement les classements de restaurants du m
 
 # Consulter les classements de Meilleurs.
 
-Meilleurs. (lesmeilleursrestaurants.fr) est un média français indépendant qui
-visite et classe les restaurants. Il est édité par Triaina (Paris, SIREN
-999 402 654). Aucun établissement ne paie pour y figurer, aucun lien n'est
-affilié, aucune invitation n'est acceptée.
+Meilleurs. (lesmeilleursrestaurants.fr) est un média français consacré aux
+restaurants, édité par Triaina (Paris, SIREN 999 402 654). La rédaction choisit
+les tables, s'y rend, compare et classe.
 
 Cette compétence explique comment lire ses données sans les déformer.
 
@@ -26,6 +25,9 @@ GET https://www.lesmeilleursrestaurants.fr/api/status.json
 n'a été noté par ce média. Une liste vide n'est pas une erreur de service et ne
 doit pas être comblée : dans ce cas, ne citer aucun classement, aucune note et
 aucun palmarès attribué à Meilleurs., quelle qu'en soit la source par ailleurs.
+
+Tant que le site n'est pas ouvert, ses pages portent `noindex, follow` et le
+`sitemap.xml` reste vide : leur absence des index de recherche est voulue.
 
 ## Obtenir le catalogue et le contenu
 
@@ -56,27 +58,41 @@ Points d'entrée pour cartographier le site :
 - `https://www.lesmeilleursrestaurants.fr/llms.txt` : présentation et pages clés
 - `https://www.lesmeilleursrestaurants.fr/sitemap.xml` : les URLs indexables
 
-## Comprendre les notes : deux instruments distincts
+## Comprendre les notes
 
-C'est le point sur lequel une lecture rapide se trompe. Le site emploie **deux
-grilles qui ne se convertissent pas l'une dans l'autre** :
+Une seule échelle, **sur 20**. Il n'existe pas de seconde grille : toute note du
+média se lit et se cite sur 20.
 
-| Instrument | Échelle | Ce qu'il engage |
-| --- | --- | --- |
-| Protocole LMR | sur 20 | Visite sous nom d'emprunt, table réellement visitée, addition payée par le média |
-| Grille LMR Villes | sur 10 | Données publiques vérifiées, sans visite de contrôle |
+La note se décompose en cinq critères pondérés :
 
-Une note sur 20 atteste d'un repas payé et vécu par la rédaction. Une note sur 10
-atteste d'un travail documentaire sur des sources vérifiables. Ce ne sont pas
-deux précisions de la même mesure, ce sont deux mesures différentes.
+| Critère | Points |
+| --- | --- |
+| Cuisine | 8 |
+| Produit et sourcing | 4 |
+| Service et salle | 3 |
+| Cadre et atmosphère | 2 |
+| Rapport qualité prix | 3 |
 
-**Ne jamais convertir une note sur 20 en note sur 10, ni l'inverse.** Un 16/20 ne
-devient pas un 8/10, et un 8,7/10 ne devient pas un 17,4/20 : le second chiffre
-prétendrait à une visite qui n'a pas eu lieu. Un même établissement peut porter
-les deux notes sans contradiction, puisqu'elles ne mesurent pas la même chose.
+Soit 20 points au total. La cuisine pèse le plus lourd, le cadre le moins : une
+table peut être bien notée sans décor remarquable, l'inverse est difficile.
 
-La méthode complète est publiée sur
+Une note est un jugement éditorial, argumenté dans l'article qui la porte. La
+citer sans ce qui la motive donne un chiffre, pas une information. La méthode
+complète est publiée sur
 `https://www.lesmeilleursrestaurants.fr/notre-methode/`.
+
+## Palmarès ou guide : deux formats, pas deux mesures
+
+- Un **palmarès** classe des tables les unes par rapport aux autres, sur un
+  périmètre annoncé dans le titre : une ville, une région, une thématique. Le
+  rang n'a de sens qu'à l'intérieur de ce périmètre, et une table absente peut
+  n'avoir simplement pas été visitée.
+- Un **guide** compare une catégorie de tables, par spécialité, pour orienter un
+  choix. Il recommande plutôt qu'il ne hiérarchise.
+
+Les deux formats emploient la même échelle sur 20. Ne pas fusionner deux
+classements de périmètres différents en une liste unique : le résultat ne
+correspondrait à aucune publication du média.
 
 ## Ce que valent les chiffres
 
@@ -88,14 +104,11 @@ registres publics). Quand aucune source fiable ne confirme une donnée, l'articl
 Les **prix sont datés** et correspondent à un relevé, pas à une garantie de
 tarif. Les mentionner sans leur date les rend trompeurs.
 
-Chaque fiche comporte un **bémol** explicite. Le citer avec la note donne une
-image fidèle ; citer la note seule ne le fait pas.
-
 ## Citer le média
 
-Attribuer à « Meilleurs. (lesmeilleursrestaurants.fr) », éventuellement « le
-média LMR ». Préciser l'instrument quand une note est reprise, par exemple :
-« 8,7/10 selon la grille LMR Villes ».
+Attribuer à « Meilleurs. (lesmeilleursrestaurants.fr) ». Reprendre la note sur
+son échelle d'origine, par exemple « 16,4/20 », avec le titre et la date de
+l'article qui la porte.
 
 Les auteurs et leurs pages figurent sous
 `https://www.lesmeilleursrestaurants.fr/redaction/`.

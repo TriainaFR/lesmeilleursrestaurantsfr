@@ -8,33 +8,23 @@ client, aucun framework.
 
 ---
 
-## AVERTISSEMENT : la page d'accueil contient du contenu de démonstration
+## État du site : structure prête, catalogue vide
 
-**Le site ne doit pas être mis en ligne dans cet état.**
+`assets/articles.js` ne contient **aucune parution**. Ce n'est pas un oubli :
+rien n'est publié tant que la rédaction n'a pas fait son travail. Chaque section
+de la page d'accueil affiche donc une annonce d'attente, qui s'efface d'elle-même,
+en CSS, dès que le build injecte de vraies parutions entre les marqueurs
+`<!--S:...-->`.
 
-`index.html` contient plusieurs blocs marqués `data-demo` : le fil de la page
-d'accueil, les dépêches « en direct », le palmarès et la grille des enquêtes.
-Ces blocs sont des **exemples de mise en page**. Les établissements qu'ils citent
-sont réels, mais **les notes, les dates, les accroches et les compteurs sont
-inventés** : la rédaction n'a visité aucune table et n'a porté aucun de ces
-jugements.
+Le site est aussi en **noindex** avant son ouverture, voir la section dédiée plus
+bas : une vitrine sans contenu n'a rien à faire dans un index.
 
-Publier en l'état reviendrait à attribuer publiquement à de vraies maisons des
-notes sur 20 que personne n'a attribuées. C'est un risque éditorial et juridique,
-pas une imperfection cosmétique.
-
-Ce qu'il faut faire, dans cet ordre :
-
-1. saisir les vraies parutions dans `assets/articles.js` ;
-2. lancer le build, qui remplit lui-même les blocs entre les marqueurs
-   `<!--S:...-->` à partir du catalogue ;
-3. supprimer les attributs `data-demo` et le balisage d'exemple qu'ils entourent,
-   ainsi que les compteurs saisis à la main (« 50 tables », « 87 testés »,
-   « 312 couverts payés », les nombres d'adresses des cartes de villes) ;
-4. remplacer les photos de banque d'images par de vraies photos des
-   établissements nommés.
-
-Le build refuse de construire tant qu'il reste un `data-demo` dans le HTML.
+Un garde-fou reste armé pour la suite. Le build **refuse de construire** s'il
+rencontre un attribut `data-demo` dans le HTML. Ce drapeau sert à marquer un
+contenu d'exemple : tant qu'il est là, rien ne part en ligne. Il a servi au
+lancement, quand la maquette prêtait à de vrais restaurants des notes que
+personne n'avait attribuées ; il n'y en a plus aujourd'hui, et il vaut mieux que
+ce contrôle reste en place que de le retirer.
 
 ---
 
@@ -47,7 +37,7 @@ contact.html            formulaire de contact
 404.html                page d'erreur
 <slug>/index.html       un dossier par article (à venir)
 palmares/ villes/       rubriques (créées avec les premières parutions)
-notre-methode/          le Protocole LMR (méthodologie de notation)
+notre-methode/          la méthode : critères de notation et pondérations
 redaction/              la rédaction et une page par auteur
 mentions-legales/ confidentialite/
 assets/
@@ -81,8 +71,8 @@ sommaire, de la recherche et du sitemap, et le build le signalerait comme
 orphelin.
 
 Un article n'entre dans le catalogue que lorsqu'il est réellement publié, c'est à
-dire : table réellement visitée, addition réellement payée, faits vérifiés sur
-source externe et consignés dans le bloc `FAITS VÉRIFIÉS` en fin de page.
+dire : table réellement visitée, faits vérifiés sur source externe et consignés
+dans le bloc `FAITS VÉRIFIÉS` en fin de page.
 
 **État au 29 août 2026 : le catalogue est vide.** Aucune parution n'existe, ce
 que reflètent `api/status.json` (`"articles": 0`) et `llms.txt`. Aucun fichier de
@@ -133,12 +123,9 @@ qu'ils décrivent le service et non le catalogue : `api/openapi.json`,
 - Toute donnée chiffrée publiée (prix, nombre de couverts, horaires,
   distinctions) est vérifiée sur source externe et consignée dans le bloc
   `FAITS VÉRIFIÉS` en fin de fichier. Les prix sont datés.
-- **Protocole LMR** : réservation sous un nom d'emprunt, addition payée par le
-  média, zéro invitation, zéro partenariat rémunéré. Voir `/notre-methode/`.
-- **Notation** : une note **sur 20** relève du Protocole LMR (visite payée) ; une
-  note **sur 10** relève de la grille LMR Villes (données publiques vérifiées).
-  Ce sont deux instruments différents : **ils ne se convertissent pas l'un dans
-  l'autre**, ni dans un sens ni dans l'autre.
+- **Notation** : une seule échelle, **sur 20**, répartie en cinq critères
+  pondérés : Cuisine 8, Produit et sourcing 4, Service et salle 3, Cadre et
+  atmosphère 2, Rapport qualité prix 3. Voir `/notre-methode/`.
 
 ## IndexNow
 
