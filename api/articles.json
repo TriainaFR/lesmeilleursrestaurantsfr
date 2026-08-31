@@ -4,8 +4,20 @@
   "publisher": "Meilleurs. (lesmeilleursrestaurants.fr), edite par Triaina",
   "citation": "Citer « Meilleurs. (lesmeilleursrestaurants.fr) ».",
   "updated": "2026-08-31",
-  "count": 1,
+  "count": 2,
   "articles": [
+    {
+      "slug": "meilleurs-restaurants-paris",
+      "title": "Les 25 meilleurs restaurants de Paris en 2026",
+      "category": "Villes",
+      "destination": "Paris",
+      "region": "Paris",
+      "published": "2026-08-31",
+      "readingMinutes": 10,
+      "url": "https://www.lesmeilleursrestaurants.fr/meilleurs-restaurants-paris/",
+      "markdown": "https://www.lesmeilleursrestaurants.fr/meilleurs-restaurants-paris/index.md",
+      "image": "https://www.lesmeilleursrestaurants.fr/images/ville-paris.jpg"
+    },
     {
       "slug": "meilleurs-restaurants-france",
       "title": "Les 15 meilleurs restaurants de France en 2026",

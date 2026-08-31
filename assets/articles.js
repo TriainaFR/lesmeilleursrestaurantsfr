@@ -32,6 +32,11 @@
    Virgule, deux-points ou point-virgule a la place. Le build le verifie.
    ========================================================================== */
 window.ARTICLES = [
+  {slug:"meilleurs-restaurants-paris", cat:"Villes",
+   title:"Les 25 meilleurs restaurants de Paris en 2026",
+   dest:"Paris", region:"Paris", date:"2026-08-31", reading:10,
+   url:"meilleurs-restaurants-paris/", photo:"images/ville-paris.jpg",
+   recit:"Paris perd une table à trois étoiles, et deux grandes maisons y sont pour quelque chose."},
   {slug:"meilleurs-restaurants-france", cat:"Palmarès",
    title:"Les 15 meilleurs restaurants de France en 2026",
    dest:"France", region:"France", date:"2026-08-31", reading:12,

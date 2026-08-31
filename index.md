@@ -33,7 +33,7 @@ Fig. 01, la salle avant le service
 Le fil
 Unes et dépêches
 
-[Palmarès 31 août 2026 Les 15 meilleurs restaurants de France en 2026 France · 12 min de lecture](meilleurs-restaurants-france/)
+[Villes 31 août 2026 Les 25 meilleurs restaurants de Paris en 2026 Paris · 10 min de lecture](meilleurs-restaurants-paris/)[Palmarès 31 août 2026 Les 15 meilleurs restaurants de France en 2026 France · 12 min de lecture](meilleurs-restaurants-france/)
 
 Le fil ouvre au premier service.
 
@@ -98,7 +98,7 @@ Nappe : à carreaux ✓
 Édito
 Longs formats, vraies maisons
 
-[Palmarès 01 Les 15 meilleurs restaurants de France en 2026 Trois guides, trois méthodes, et ce qu'ils disent quand on les met côte à côte. Palmarès, 12 min de lecture](meilleurs-restaurants-france/)
+[Villes 01 Les 25 meilleurs restaurants de Paris en 2026 Paris perd une table à trois étoiles, et deux grandes maisons y sont pour quelque chose. Villes, 10 min de lecture](meilleurs-restaurants-paris/)[Palmarès 02 Les 15 meilleurs restaurants de France en 2026 Trois guides, trois méthodes, et ce qu'ils disent quand on les met côte à côte. Palmarès, 12 min de lecture](meilleurs-restaurants-france/)
 
 Les enquêtes viendront, une maison à la fois.
 

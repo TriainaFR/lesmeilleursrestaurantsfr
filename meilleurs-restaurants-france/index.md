@@ -54,7 +54,7 @@ accompagnent.
 
 Paris 6e
 
-99,5/100 à La Liste 2026, premier mondial pour la neuvième fois, 3 étoiles Michelin
+99,5/100 à La Liste 2026, premier mondial pour la neuvième fois. Deux étoiles Michelin depuis l'édition 2026, après la perte de la troisième
 
 Neuf fois en tête de La Liste. C'est le seul restaurant français à dépasser 99 points cette année, et la régularité qu'il faut pour tenir ce rang neuf fois est plus rare que la note elle-même. La maison est installée dans les salons de la Monnaie de Paris, quai de Conti, et n'y sert qu'une soixantaine de couverts.
 
@@ -87,7 +87,7 @@ La table de Kei Kobayashi tient le même score que les maisons historiques du cl
 
 Saint-Tropez, Var
 
-99,0/100 à La Liste 2026, 3 étoiles Michelin
+99,0/100 à La Liste 2026
 
 La seconde maison d'Arnaud Donckele, et la preuve que le niveau se tient hors de Paris comme à Paris.
 
@@ -98,7 +98,7 @@ La seconde maison d'Arnaud Donckele, et la preuve que le niveau se tient hors de
 
 Saint-Bonnet-le-Froid, Haute-Loire
 
-99,0/100 à La Liste 2026, 3 étoiles Michelin
+99,0/100 à La Liste 2026
 
 Un village de Haute-Loire, loin de toute route touristique, et un score de 99 points. La géographie n'explique rien du classement, ce qui est en soi une information.
 
@@ -109,7 +109,7 @@ Un village de Haute-Loire, loin de toute route touristique, et un score de 99 po
 
 Tinqueux, Marne
 
-99,0/100 à La Liste 2026, 3 étoiles Michelin
+99,0/100 à La Liste 2026
 
 La table d'Arnaud Lallement, aux portes de Reims, figure au même rang que les trois-étoiles parisiens.
 
@@ -120,7 +120,7 @@ La table d'Arnaud Lallement, aux portes de Reims, figure au même rang que les t
 
 Valence, Drôme
 
-99,0/100 à La Liste 2026, 3 étoiles Michelin
+99,0/100 à La Liste 2026
 
 La maison familiale de Valence, tenue par Anne-Sophie Pic, se maintient dans le peloton de tête du classement mondial.
 
@@ -131,7 +131,7 @@ La maison familiale de Valence, tenue par Anne-Sophie Pic, se maintient dans le 
 
 Les Baux-de-Provence, Bouches-du-Rhône
 
-99,0/100 à La Liste 2026, 3 étoiles Michelin
+99,0/100 à La Liste 2026
 
 L'une des deux seules maisons provençales de ce palmarès, avec La Vague d'Or.
 
@@ -164,7 +164,7 @@ Un demi-point derrière le groupe de tête, à égalité avec Troisgros et La Ma
 
 Ouches, Loire
 
-98,5/100 à La Liste 2026, 3 étoiles Michelin, 4 toques et Cuisinier de l'Année Gault&Millau 2026 pour César Troisgros
+98,5/100 à La Liste 2026, 4 toques et Cuisinier de l'Année Gault&Millau 2026 pour César Troisgros
 
 Pierre Troisgros avait obtenu ce titre en 1987, Michel en 2003, César en 2026. Gault&Millau souligne qu'aucune discipline ne compte de grand-père, père et fils lauréats du même prix.
 
@@ -226,6 +226,10 @@ Le troisième tient dans une famille. Pierre Troisgros en 1987, Michel en 2003, 
 trois générations distinguées par le même prix, ce que le guide dit sans équivalent, toutes
 disciplines confondues.
 
+À l'échelle de la capitale, le même exercice donne
+[les 25 meilleures tables de Paris en 2026](../meilleurs-restaurants-paris/),
+où deux des maisons citées ici viennent de perdre une étoile.
+
 Reste ce que ces classements ne disent pas : ce que l'on ressent à table, ce que l'addition
 achète réellement, si une maison tient son rang un mardi de novembre comme un samedi de juin.
 C'est le travail que [notre rédaction](../redaction/) commence, et il donnera des
@@ -269,6 +273,14 @@ ci-dessous ouvrent les pages sur lesquelles chaque chiffre de cet article a ét�
 - [Gault&Millau, les nouvelles tables 4 toques 2026](https://fr.gaultmillau.com/fr/news/quelles-sont-les-nouvelles-tables-4-toques-du-guide-gault-millau-en-2026), dont Prévelle et Arbane.
 
 - [Guide Michelin France et Monaco 2026](https://guide.michelin.com/fr/fr/article/michelin-guide-ceremony/le-palmares-du-guide-michelin-france-et-monaco-2026), palmarès officiel. Page inaccessible à la consultation automatique le 31 août 2026 ; les chiffres Michelin de cet article ont été relevés sur la couverture de la cérémonie du 16 mars 2026 par la presse professionnelle.
+
+Correction du 31 août 2026
+La première version de cet article annonçait Guy Savoy à trois étoiles Michelin.
+C'est inexact : l'édition 2026 du guide ne lui en accorde plus que deux, comme à
+L'Ambroisie, également rétrogradée. Son score à La Liste, lui, est inchangé. Par
+prudence, les mentions d'étoiles qui n'avaient pas été contrôlées une à une ont été
+retirées des autres lignes : seuls subsistent les scores La Liste, vérifiés, et les
+distinctions Michelin et Gault&Millau confirmées à la source.
 
 Une erreur dans ces chiffres, une distinction oubliée, un tarif à jour :
 [signalez-le nous](../contact.html). Les corrections sont datées sur la page.
