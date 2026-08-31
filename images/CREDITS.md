@@ -1,45 +1,55 @@
 # Crédits photographiques
 
-Les images de ce dossier sont des **photographies de banque d'images**, servies
-depuis nos propres serveurs et non appelées à distance.
+Les images de ce dossier sont **libres de droits**, servies depuis nos propres
+serveurs et non appelées à distance. Elles viennent de deux sources, dont les
+règles d'attribution diffèrent.
 
-## Origine et licence
+## 1. Photographies de villes, Wikimedia Commons
 
-Toutes proviennent d'**Unsplash** (unsplash.com) et sont couvertes par la
-**licence Unsplash** : usage gratuit, y compris commercial, sans autorisation
-préalable ni attribution obligatoire. Elles ont été téléchargées le 31 août 2026
-depuis `images.unsplash.com`, redimensionnées et converties en WebP.
+Ces sept images montrent des lieux réels et identifiables. Leur licence
+**impose l'attribution** (sauf CC0), qui est publiée sur la page
+[Mentions légales](../mentions-legales/) du site, et rappelée ici.
 
-L'attribution n'est pas exigée par la licence, et le nom des photographes n'a
-pas été relevé : il n'est donc volontairement pas affiché, plutôt que d'être
-approximatif. Pour créditer nommément un auteur, retrouver la photographie sur
-unsplash.com et compléter le tableau ci-dessous.
+| Fichier | Sujet | Auteur | Licence | Source |
+|---|---|---|---|---|
+| `ville-paris` | Terrasse de café, Paris 17e | Mbzt | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:F9424_Paris_17e_rue_de_la_Terrasse_rwk.jpg) |
+| `ville-lyon` | Rue Mercière, Lyon | Lyon-plaisirs | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bouchon_rue_Merci%C3%A8re_-_La_M%C3%A8re_Cottivet_01.jpg) |
+| `ville-marseille` | Le Vieux-Port, Marseille | Clément Bardot | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Vieux-Port_de_Marseille,_France.jpg) |
+| `ville-bordeaux` | Miroir d'eau et place de la Bourse | Gzen92 | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Miroir_d%27eau_et_place_de_la_Bourse_(Bordeaux)_(4).jpg) |
+| `ville-basque` | Port de Saint-Jean-de-Luz | Calips | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:France_Aquitaine_Pyrenees_Atlantiques_Saint-Jean-de-Luz_Maison_de_l_Infante_Port_02.JPG) |
+| `ville-alsace` | La Petite France, Strasbourg | Zéphyrios | CC0 | [Commons](https://commons.wikimedia.org/wiki/File:La_petite_France_(30412644430).jpg) |
+| `ville-azur` | Rade de Villefranche-sur-Mer | SombreSanglier | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Villefranche_sur_Mer_Port_de_la_Darse_downward_view_6286.JPG) |
+
+Les fichiers ont été **redimensionnés, sans recadrage** : le cadrage visible sur
+les cartes est fait à l'affichage par la feuille de style, et ne modifie donc pas
+l'œuvre. Toute retouche ultérieure d'une image en CC BY-SA devrait être
+republiée sous la même licence.
+
+Deux de ces photographies laissent voir l'enseigne d'un établissement, à Paris
+et à Lyon. C'est un élément incident de la rue photographiée : ces maisons ne
+sont ni citées, ni recommandées, ni notées par le média, et la carte porte le nom
+de la ville, jamais celui d'un restaurant.
+
+## 2. Illustrations génériques, Unsplash
+
+| Fichier | Sujet | Emplacement |
+|---|---|---|
+| `salle-du-soir` | Table dressée en salle | Accueil, arche du bandeau |
+| `bol-compose` | Bol de légumes vu du dessus | Accueil, polaroïd du bandeau |
+| `salle-bistrot` | Salle de bistrot, carafe et bouquet | Accueil, dossier bistrot |
+| `og-meilleurs` | Recadrage 1200 x 630 de `salle-du-soir` | Image de partage |
+
+**Licence Unsplash** : usage gratuit, y compris commercial, sans autorisation
+préalable ni attribution obligatoire. Téléchargées le 31 août 2026.
 
 ## Règle éditoriale, à ne pas contourner
 
-Ces photographies sont des **illustrations génériques**. Elles ne montrent aucun
-établissement identifié et **ne doivent jamais illustrer un restaurant nommé**.
-Dès qu'un article cite une maison, sa photo doit venir de l'établissement
-lui-même, de son site officiel ou de son dossier de presse.
+Aucune de ces images ne montre un établissement que le média aurait visité ou
+noté. Dès qu'un article cite une maison, **sa photo doit venir de
+l'établissement**, de son site officiel ou de son dossier de presse. Une photo de
+banque sous le nom d'une maison réelle laisserait croire qu'on l'a photographiée.
 
-Les noms de fichiers décrivent ce que montre la photo, jamais un lieu : une
-image nommée d'après une ville finirait par faire croire qu'elle y a été prise.
+Les noms de fichiers décrivent le sujet, jamais un classement : `ville-paris`
+désigne une photo de Paris, pas une adresse recommandée.
 
-## Inventaire
-
-| Fichier | Ce que montre la photo | Emplacement sur le site |
-|---|---|---|
-| `salle-du-soir` | Table dressée en salle, assiette et verres | Accueil, arche du bandeau principal |
-| `bol-compose` | Bol de légumes, œuf et poisson, vu du dessus | Accueil, polaroïd du bandeau |
-| `table-vue-dessus` | Table dressée vue du dessus, plats et vin | Carte de ville, Paris |
-| `salle-industrielle` | Grande salle, tables de bois, suspensions noires | Carte de ville, Lyon |
-| `terrasse-bord-de-mer` | Terrasse de restaurant au bord de l'eau | Carte de ville, Marseille |
-| `verres-vin-rouge` | Deux verres de vin rouge entrechoqués | Carte de ville, Bordeaux |
-| `entrecote-frites` | Entrecôte grillée et frites fraîches | Carte de ville, Pays basque |
-| `salle-nappes-blanches` | Salle aux nappes blanches, montagne au fond | Carte de ville, Alsace |
-| `degustation-cafe` | Cliente attablée, assiette et tasse de café | Carte de ville, Côte d'Azur |
-| `salle-bistrot` | Salle de bistrot, carafe et bouquet | Accueil, dossier bistrot |
-| `og-meilleurs` | Recadrage 1200 x 630 de `salle-du-soir` | Image de partage des réseaux sociaux |
-
-Chaque fichier existe en trois versions : `.jpg` (repli), `.webp` (pleine
-largeur) et `-700.webp` (petits écrans).
+Chaque fichier existe en `.jpg` (repli), `.webp` et `-700.webp` (petits écrans).

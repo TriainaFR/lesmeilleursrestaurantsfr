@@ -72,11 +72,34 @@ citer le média avec attribution. Les modalités de citation figurent dans le fi
 ## Crédits photographiques
 
 Les photographies d'établissements proviennent des établissements eux-mêmes,
-sites officiels ou dossiers de presse, ou de banques d'images libres pour les
-illustrations génériques. Elles restent la propriété de leurs auteurs et ayants
-droit respectifs et sont utilisées à des fins d'illustration du travail
-d'information du média. Tout ayant droit souhaitant la modification ou le retrait
+sites officiels ou dossiers de presse. Les illustrations génériques viennent de
+banques d'images libres. Tout ayant droit souhaitant la modification ou le retrait
 d'une image peut nous écrire : la demande est traitée en priorité.
+
+Les vues de villes publiées sur la page d'accueil proviennent de Wikimedia
+Commons. Leur licence impose de citer leur auteur, ce que nous faisons ici. Ces
+photographies ont été redimensionnées, sans recadrage.
+
+Vues de villes, page d'accueil
+SujetAuteurLicence
+
+Terrasse de café, Paris 17eMbztCC BY 4.0
+
+Rue Mercière, LyonLyon-plaisirsCC BY 4.0
+
+Le Vieux-Port, MarseilleClément BardotCC BY-SA 4.0
+
+Miroir d'eau et place de la Bourse, BordeauxGzen92CC BY-SA 4.0
+
+Port de Saint-Jean-de-LuzCalipsCC BY-SA 3.0
+
+La Petite France, StrasbourgZéphyriosCC0
+
+Rade de Villefranche-sur-MerSombreSanglierCC BY-SA 3.0
+
+Les autres illustrations de la page d'accueil viennent d'Unsplash, dont la
+licence n'impose pas d'attribution. Aucune de ces images ne montre un
+établissement visité ou noté par le média.
 
 ## Droit de réponse et correction
 

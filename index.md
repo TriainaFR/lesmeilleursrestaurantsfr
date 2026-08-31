@@ -24,9 +24,9 @@ soit la bonne.
 [Notre méthode →](notre-methode/)
 [Tous les articles](articles.html)
 
-Photo d'illustration
+Le coup de feu, à l'assiette
 
-Fig. 01, illustration provisoire
+Fig. 01, salle du soir
 
 ## Fraîchement publié
 
