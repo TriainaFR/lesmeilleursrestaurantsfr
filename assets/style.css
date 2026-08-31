@@ -705,10 +705,13 @@ footer{background:var(--ink);color:var(--paper);border-top:1px solid rgba(var(--
    build n'a rien injecte entre les marqueurs, la liste est :empty et cede la
    place a son annonce ; des qu'elle contient une carte, l'annonce s'efface.
    Aucun JavaScript : la page reste juste meme si le script ne s'execute pas. */
-.rank-list:empty,
-.recit-grid:empty{display:none}
-.rank-list:not(:empty) + .empty-state,
-.recit-grid:not(:empty) + .empty-state{display:none}
+/* Les listes injectees par le build encadrent leur contenu de marqueurs et de
+   sauts de ligne : le conteneur n'est donc jamais :empty, meme vide de cartes.
+   On teste la presence d'une vraie ligne, comme pour .wire ci-dessous. */
+.rank-list:not(:has(.rank-row)),
+.recit-grid:not(:has(.recit)){display:none}
+.rank-list:has(.rank-row) + .empty-state,
+.recit-grid:has(.recit) + .empty-state{display:none}
 
 /* Le bloc de depeches porte son propre en-tete, il n'est donc jamais :empty.
    C'est la presence d'au moins une ligne qui decide de son affichage. */
@@ -1194,3 +1197,10 @@ table.data tfoot .num{font-size:1rem;letter-spacing:.04em}
   .prose .pal-infos li{grid-template-columns:1fr;gap:2px}
   .pal-infos b{padding-top:0}
 }
+
+/* Pages redacteur : la liste « Ce qu'il signe » est injectee par le build. Vide,
+   elle disparait et laisse la place a l'annonce d'attente ; remplie, c'est
+   l'annonce qui s'efface. Meme mecanique que le palmares de l'accueil. */
+.prose .sign-list:not(:has(li)){display:none}
+.prose .sign-list:has(li) + .empty-sign{display:none}
+.prose .empty-sign{color:var(--ink-soft)}

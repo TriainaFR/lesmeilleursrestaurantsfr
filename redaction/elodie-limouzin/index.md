@@ -31,9 +31,9 @@ rédigés, et le portrait remplacé par une photographie fournie par ses soins.
 
 - [Les 25 meilleurs restaurants de Paris en 2026](../../meilleurs-restaurants-paris/), 31 août 2026.
 
-Les articles suivants seront listés ici au fil des publications.
+Aucune parution ne lui est attribuée à ce jour. Ses articles seront listés ici au fil des publications.
 
-## Le contacter
+## La contacter
 
 Une erreur à signaler dans un article signé Elodie, un droit de réponse, une
 proposition de sujet : tout passe par le [formulaire de contact](../../contact.html), que la rédaction lit elle-même. Réponse sous 48 h ouvrées.

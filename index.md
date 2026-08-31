@@ -33,7 +33,7 @@ Fig. 01, la salle avant le service
 Le fil
 Unes et dépêches
 
-[Villes 31 août 2026 Les 25 meilleurs restaurants de Paris en 2026 Paris · 16 min de lecture](meilleurs-restaurants-paris/)[Palmarès 31 août 2026 Les 15 meilleurs restaurants de France en 2026 France · 14 min de lecture](meilleurs-restaurants-france/)
+[Guide 31 août 2026 Meilleur brunch à Paris : 12 adresses en 2026 Paris · 12 min de lecture](meilleur-brunch-paris/)[Villes 31 août 2026 Les 25 meilleurs restaurants de Paris en 2026 Paris · 16 min de lecture](meilleurs-restaurants-paris/)[Palmarès 31 août 2026 Les 15 meilleurs restaurants de France en 2026 France · 14 min de lecture](meilleurs-restaurants-france/)
 
 Le fil ouvre au premier service.
 
@@ -53,6 +53,8 @@ Chaque parution paraîtra ici, et au sommaire.
 Classement annuel
 Notes sur 20, cinq critères
 
+[01 Guy Savoy Paris 6 e 2 étoiles Michelin](meilleurs-restaurants-france/#guy-savoy)[02 Plénitude, Cheval Blanc Paris Paris 1 er 3 étoiles Michelin](meilleurs-restaurants-france/#plenitude)[03 Kei Paris 1 er 3 étoiles Michelin](meilleurs-restaurants-france/#kei)[04 La Vague d'Or, Cheval Blanc St-Tropez Saint-Tropez (Var) 3 étoiles Michelin](meilleurs-restaurants-france/#vague-dor)[05 Régis & Jacques Marcon Saint-Bonnet-le-Froid (Haute-Loire) 3 étoiles Michelin](meilleurs-restaurants-france/#marcon)[06 L'Assiette Champenoise Tinqueux (Marne) 3 étoiles Michelin](meilleurs-restaurants-france/#assiette-champenoise)[07 Maison Pic Valence (Drôme) 3 étoiles Michelin](meilleurs-restaurants-france/#maison-pic)[08 L'Oustau de Baumanière Les Baux-de-Provence (Bouches-du-Rhône) 3 étoiles Michelin](meilleurs-restaurants-france/#oustau)[09 Le Pré Catelan Paris 16 e 3 étoiles Michelin](meilleurs-restaurants-france/#pre-catelan)[10 Troisgros, Le Bois sans Feuilles Ouches (Loire) 3 étoiles Michelin](meilleurs-restaurants-france/#troisgros)[11 Les Morainières Jongieux (Savoie) 3 étoiles Michelin](meilleurs-restaurants-france/#morainieres)[12 Prévelle Paris 7 e 1 étoile Michelin 2026](meilleurs-restaurants-france/#prevelle)[13 Alléno Paris au Pavillon Ledoyen Paris 8 e 3 étoiles Michelin](meilleurs-restaurants-france/#ledoyen)[14 Alliance Paris 5 e 2 étoiles Michelin 2026](meilleurs-restaurants-france/#alliance)[15 Arbane Reims (Marne) 2 étoiles Michelin 2026](meilleurs-restaurants-france/#arbane)
+
 Le palmarès se construit, une table à la fois.
 
 Il se construira au fil des parutions, table après table, et chaque note
@@ -60,7 +62,8 @@ s'y lira sur 20, critère par critère plutôt qu'en bloc.
 
 [Comment nous notons →](notre-methode/)
 
-Notes sur 20 : cuisine, produit et sourcing, service et salle, cadre et atmosphère, rapport qualité prix.
+Distinctions relevées à la source. Les notes sur 20 viendront avec nos visites.
+[Le palmarès commenté →](meilleurs-restaurants-france/)
 
 ## Où manger, et pourquoi
 
@@ -97,8 +100,6 @@ Nappe : à carreaux ✓
 
 Édito
 Longs formats, vraies maisons
-
-[Villes 01 Les 25 meilleurs restaurants de Paris en 2026 127 étoilés, un trois-étoiles de moins, et la dynamique qui glisse vers l'est. Villes, 16 min de lecture](meilleurs-restaurants-paris/)[Palmarès 02 Les 15 meilleurs restaurants de France en 2026 Une seule troisième étoile sur 62, et un premier mondial qui n'en a que deux. Palmarès, 14 min de lecture](meilleurs-restaurants-france/)
 
 Les enquêtes viendront, une maison à la fois.
 

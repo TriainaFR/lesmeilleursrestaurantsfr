@@ -23,7 +23,7 @@ Villes
 
 Rechercher une parution
 
-[Villes 31 août 2026 Les 25 meilleurs restaurants de Paris en 2026 Paris · 16 min de lecture](meilleurs-restaurants-paris/)[Palmarès 31 août 2026 Les 15 meilleurs restaurants de France en 2026 France · 14 min de lecture](meilleurs-restaurants-france/)
+[Guide 31 août 2026 Meilleur brunch à Paris : 12 adresses en 2026 Paris · 12 min de lecture](meilleur-brunch-paris/)[Villes 31 août 2026 Les 25 meilleurs restaurants de Paris en 2026 Paris · 16 min de lecture](meilleurs-restaurants-paris/)[Palmarès 31 août 2026 Les 15 meilleurs restaurants de France en 2026 France · 14 min de lecture](meilleurs-restaurants-france/)
 
 Les premières parutions arrivent.
 

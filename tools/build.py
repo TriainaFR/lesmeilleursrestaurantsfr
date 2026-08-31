@@ -287,11 +287,14 @@ def recit_html(a, rank):
 
 
 def recits():
-    """Les enquetes, de la plus recente a la plus ancienne. Toute parution de la
-    rubrique Enquete en fait partie, plus celles qui portent un chapo `recit`."""
-    dedies = [a for a in ARTS if a["cat"].startswith(("Enquête", "Enquete"))]
-    slugs = {a["slug"] for a in dedies}
-    return dedies + [a for a in ARTS if a.get("recit") and a["slug"] not in slugs]
+    """Les enquetes, de la plus recente a la plus ancienne.
+
+    Seule la rubrique Enquete y entre. Une enquete porte sur UNE maison, pas sur
+    un classement : un palmares qui cite vingt-cinq tables n'est pas une enquete,
+    meme s'il est long et meme s'il porte un chapo. Tant qu'aucune enquete n'est
+    publiee, la section de l'accueil reste vide et son annonce d'attente
+    s'affiche, ce que la feuille de style gere seule (.recit-grid:empty)."""
+    return [a for a in ARTS if a["cat"].startswith(("Enquête", "Enquete"))]
 
 
 def fill(page, marker, inner, required=True):
@@ -327,6 +330,81 @@ def sync_static_lists():
          "".join(recit_html(a, i) for i, a in enumerate(recits()[:RECITS_HOME])))
     fill("articles.html", "articles-list",
          "".join(card_html(a) for a in ARTS), required=False)
+
+
+
+# ------------------------------------------------- 1 ter. pages redacteur
+# « Ce qu'il signe » se derive du catalogue, jamais de la main. Une page de
+# signataire qui liste un article que le catalogue ignore serait un orphelin ;
+# une page qui n'en liste aucun alors qu'il en a signe serait un mensonge poli.
+AUTEURS = ("charles-bidaud", "elodie-limouzin")
+
+
+def sync_auteurs():
+    for sig in AUTEURS:
+        page = "redaction/%s/index.html" % sig
+        if not os.path.exists(page):
+            continue
+        siens = [a for a in ARTS if a.get("auteur") == sig]
+        lignes = "".join(
+            '<li><a href="../../%s">%s</a>, %s.</li>' % (a["url"], a["title"], fr_date(a["date"]))
+            for a in siens)
+        fill(page, "signe-%s" % sig, lignes, required=False)
+
+
+# ------------------------------------------------- 1 bis. palmares d'accueil
+# La section « Le Palmares 2026 » de l'accueil n'a pas de donnees propres : elle
+# est un extrait de l'article France, sa seule source de verite. On relit donc
+# l'article publie et on en derive les lignes. Si l'article change de rang, de
+# distinction ou de photo, l'accueil suit au prochain build sans intervention.
+PALMARES_SRC = "meilleurs-restaurants-france/index.html"
+PAL_ROW_RE = re.compile(
+    r'<li class="pal-row" id="(?P<id>[^"]+)">\s*'
+    r'<span class="pal-rang">(?P<rang>[^<]+)</span>.*?'
+    r'<h3>(?P<nom>.*?)</h3>\s*'
+    r'<p class="pal-lieu">(?P<lieu>.*?)</p>\s*'
+    r'<div class="pal-badges"><span class="pal-badge[^"]*">(?P<dist>.*?)</span>',
+    re.S)
+PAL_IMG_RE = re.compile(r'<img src="\.\./images/(?P<img>[^"]+)"')
+
+
+def sync_palmares_home():
+    if not os.path.exists(PALMARES_SRC):
+        return
+    src = read(PALMARES_SRC)
+    rows = []
+    for m in PAL_ROW_RE.finditer(src):
+        # La photo de la ligne, si elle en a une. On borne la recherche au bloc
+        # courant, c'est a dire jusqu'au <li> suivant : sans cette borne, une
+        # ligne sans photo emprunterait celle de la ligne d'apres.
+        suivant = src.find('<li class="pal-row"', m.end())
+        bloc = src[m.end():suivant if suivant != -1 else len(src)]
+        im = PAL_IMG_RE.search(bloc)
+        rows.append({
+            "id": m.group("id"), "rang": m.group("rang").strip(),
+            "nom": m.group("nom").strip(), "lieu": m.group("lieu").strip(),
+            "dist": m.group("dist").strip(),
+            "img": im.group("img") if im else "og-meilleurs.jpg",
+        })
+    if not rows:
+        fail("palmares d'accueil : aucune ligne lue dans %s" % PALMARES_SRC)
+        return
+
+    html = []
+    for i, r in enumerate(rows):
+        lieu = r["lieu"].split("·")[0].strip()
+        delay = ' style="transition-delay:.%02ds"' % min(i * 6, 99) if i else ""
+        html.append(
+            '<a class="rank-row rv" href="%s#%s"%s data-img="images/%s" '
+            'data-fallback="images/og-meilleurs.jpg">'
+            '<span class="rank-num">%s</span>'
+            '<span class="rank-name">%s</span>'
+            '<span class="rank-meta"><span class="place">%s</span>'
+            '<span class="why">%s</span></span>'
+            '<span class="rank-arrow" aria-hidden="true">&#8594;</span></a>'
+            % (posixpath.dirname(PALMARES_SRC) + "/", r["id"], delay, r["img"],
+               r["rang"], r["nom"], lieu, r["dist"]))
+    fill("index.html", "rank-list", "".join(html))
 
 
 # ---------------------------------------------------------- 2. compteurs
@@ -948,6 +1026,8 @@ def main():
     CHECK = a.check
 
     sync_static_lists()
+    sync_palmares_home()
+    sync_auteurs()
     sync_counters()
     sync_dates()
     sync_noindex()

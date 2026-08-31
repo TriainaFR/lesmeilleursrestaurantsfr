@@ -36,15 +36,23 @@
    Virgule, deux-points ou point-virgule a la place. Le build le verifie.
    ========================================================================== */
 window.ARTICLES = [
+  {slug:"meilleur-brunch-paris", cat:"Guide",
+   title:"Meilleur brunch à Paris : 12 adresses en 2026",
+   dest:"Paris", region:"Paris", date:"2026-08-31", reading:12,
+   url:"meilleur-brunch-paris/", photo:"images/eta-canal-saint-martin.jpg",
+   auteur:"charles-bidaud",
+   recit:"Douze adresses vérifiées une par une, dont une que tout le monde cite et qui a fermé."},
   {slug:"meilleurs-restaurants-paris", cat:"Villes",
    title:"Les 25 meilleurs restaurants de Paris en 2026",
    dest:"Paris", region:"Paris", date:"2026-08-31", reading:16,
    url:"meilleurs-restaurants-paris/", photo:"images/eta-ledoyen.jpg",
+   auteur:"elodie-limouzin",
    recit:"127 étoilés, un trois-étoiles de moins, et la dynamique qui glisse vers l'est."},
   {slug:"meilleurs-restaurants-france", cat:"Palmarès",
    title:"Les 15 meilleurs restaurants de France en 2026",
    dest:"France", region:"France", date:"2026-08-31", reading:14,
    url:"meilleurs-restaurants-france/", photo:"images/eta-assiette-champenoise.jpg",
+   auteur:"lucas-lecoq",
    recit:"Une seule troisième étoile sur 62, et un premier mondial qui n'en a que deux."},
   /* Aucun article publie a ce jour. Le media n'a encore rien teste : le
      catalogue reste vide tant que le premier service n'a pas eu lieu.

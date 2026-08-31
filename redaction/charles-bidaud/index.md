@@ -23,9 +23,9 @@ lui-même rédigés.
 
 ## Ce qu'il signe
 
-Ses articles paraîtront sous son nom au fil des publications, et seront listés ici. Le
-catalogue du média est encore vide : aucune parution ne lui est attribuée à ce jour, et
-cette page ne prétendra pas le contraire.
+- [Meilleur brunch à Paris : 12 adresses en 2026](../../meilleur-brunch-paris/), 31 août 2026.
+
+Aucune parution ne lui est attribuée à ce jour. Ses articles seront listés ici au fil des publications.
 
 ## Le contacter
 
