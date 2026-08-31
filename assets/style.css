@@ -1035,7 +1035,9 @@ table.data tfoot .num{font-size:1rem;letter-spacing:.04em}
 /* Fiche avec photographie. Meme gabarit que le bloc d'initiales, pour que les
    deux formes cohabitent dans la meme liste sans decaler la colonne de texte. */
 .entry:has(.e-photo){grid-template-columns:auto 160px 1fr}
-.e-photo{width:160px;border:1.5px solid var(--line-strong);border-radius:14px;overflow:hidden;background:var(--paper-2)}
+.e-photo{width:160px;align-self:start;border:1.5px solid var(--line-strong);border-radius:14px;overflow:hidden;background:var(--paper-2)}
+/* align-self:start, sinon la figure s'etire sur la hauteur de la ligne de grille
+   et les portraits de la redaction n'ont pas tous le meme cadrage. */
 .e-photo img{width:100%;height:100%;object-fit:cover;aspect-ratio:1}
 @media(max-width:760px){
   .entry:has(.e-photo){grid-template-columns:auto 1fr}
@@ -1204,3 +1206,11 @@ table.data tfoot .num{font-size:1rem;letter-spacing:.04em}
 .prose .sign-list:not(:has(li)){display:none}
 .prose .sign-list:has(li) + .empty-sign{display:none}
 .prose .empty-sign{color:var(--ink-soft)}
+
+/* .prose>p impose une taille de corps de texte qui l'emportait sur .credit :
+   les mentions de sources et les reserves de bas de page s'affichaient donc
+   en 16 px, au lieu du petit texte prevu. On remonte la specificite. */
+.prose>p.credit{
+  font-family:var(--mono);font-size:.68rem;color:var(--ink-soft);
+  letter-spacing:.05em;line-height:1.8;
+}

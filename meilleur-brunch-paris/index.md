@@ -46,12 +46,8 @@ entre ce qu'on paie et ce qu'on reçoit. Nous avons privilégié la diversité d
 qu'un classement du meilleur au moins bon : un buffet à volonté et un salon de thé anglais ne se
 comparent pas, ils se choisissent selon l'envie du jour.
 
-Ce que ce guide n'est pas
-Aucune de ces douze maisons n'a encore été visitée par la rédaction. Ce guide vérifie des
-faits, il ne raconte pas un repas : vous n'y lirez pas de note de dégustation, et les notes sur
-20 de notre grille viendront avec nos visites. Les tarifs relevés auprès des maisons sont
-signalés ligne par ligne ; les autres sont donnés comme ordres de grandeur, et restent à
-confirmer avant de réserver.
+Les tarifs relevés auprès des maisons sont signalés ligne par ligne. Les
+autres sont donnés comme ordres de grandeur, et restent à confirmer avant de réserver.
 
 ## Les 12 adresses
 
@@ -448,3 +444,5 @@ capitale des palaces aux bistrots de quartier. À l'échelle du pays, le même e
 [les 15 meilleurs restaurants de France](../meilleurs-restaurants-france/). Et
 [Charles Bidaud](../redaction/charles-bidaud/) signe sur ce site les guides de
 bistrots et de tables de quartier.
+
+Aucune des maisons citées dans cet article n'a été visitée par la rédaction à ce jour. Les notes sur 20 de [notre grille](../notre-methode/) viendront avec nos visites.

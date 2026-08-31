@@ -10,6 +10,8 @@ Meilleurs., media francais des meilleurs restaurants, edite par Triaina.
 
 [Accueil](../../)/[La rédaction](../)/Charles Bidaud
 
+Photographie fournie par l'intéressé
+
 Charles Bidaud est rédacteur de Meilleurs. Il signe des guides, des enquêtes
 et des classements de tables, notés selon la
 [grille du média](../../notre-methode/) : cinq critères pondérés, une note

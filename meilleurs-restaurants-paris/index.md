@@ -57,11 +57,10 @@ culinaire a changé sans que le résultat soit encore lisible. La sélection pri
 gastronomie classique, cuisine créative, tables de chef, bistrots d'excellence, cuisine engagée et
 cuisines de métissage.
 
-Ce que ce classement n'est pas
-Aucune de ces vingt-cinq tables n'a encore été visitée par la rédaction. Ce palmarès croise des
-distinctions publiées et des faits vérifiés ; il ne remplace pas nos propres visites, qui donneront
-lieu à des notes sur 20, critère par critère. Les tarifs relevés sur le site officiel d'une maison
-sont signalés comme tels ; tous les autres sont présentés comme des ordres de grandeur.
+Comment lire les tarifs
+Les tarifs relevés sur le site officiel d'une maison sont signalés comme tels. Tous les
+autres sont présentés comme des ordres de grandeur, et restent à confirmer auprès de
+l'établissement avant de réserver.
 
 ## Le palmarès : 25 tables parisiennes
 
@@ -741,7 +740,7 @@ L'écart est considérable au sein de cette sélection. Les trois-étoiles se si
 
 ### Comment ce palmarès est-il établi ?
 
-Il croise les distinctions publiées, Guide Michelin 2026 en premier lieu, avec nos propres critères éditoriaux, détaillés sur notre page méthode. Chaque adresse, chaque distinction et chaque tarif cité a été recoupé à la source avant publication. Les tarifs relevés sur le site officiel d'une maison sont signalés comme tels ; les autres sont donnés comme ordres de grandeur. Aucune de ces tables n'a encore été visitée par la rédaction : les notes sur 20 de notre grille viendront avec les visites.
+Il croise les distinctions publiées, Guide Michelin 2026 en premier lieu, avec nos propres critères éditoriaux, détaillés sur notre page méthode. Chaque adresse, chaque distinction et chaque tarif cité a été recoupé à la source avant publication. Les tarifs relevés sur le site officiel d'une maison sont signalés comme tels ; les autres sont donnés comme ordres de grandeur.
 
 ## Sources
 
@@ -774,3 +773,5 @@ donne [les 15 meilleurs restaurants de France en 2026](../meilleurs-restaurants-
 où quatre des maisons citées ici figurent également. Pour comprendre comment nous jugeons, la page
 [notre méthode](../notre-methode/) détaille la grille sur 20 et son échelle. Et
 [la rédaction](../redaction/) présente les trois signatures du média.
+
+Aucune des maisons citées dans cet article n'a été visitée par la rédaction à ce jour. Les notes sur 20 de [notre grille](../notre-methode/) viendront avec nos visites.

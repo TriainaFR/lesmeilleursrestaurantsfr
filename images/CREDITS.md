@@ -42,6 +42,16 @@ de la ville, jamais celui d'un restaurant.
 **Licence Unsplash** : usage gratuit, y compris commercial, sans autorisation
 préalable ni attribution obligatoire. Téléchargées le 31 août 2026.
 
+## 2 bis. Portraits de la rédaction
+
+Photographies fournies par les intéressés, publiées avec leur accord. Elles ne
+sont pas sous licence libre et ne doivent pas être reprises ailleurs.
+
+| Fichier | Sujet | Origine |
+|---|---|---|
+| `charles-bidaud` | Portrait de Charles Bidaud | Photographie fournie par l'intéressé |
+| `elodie-limouzin` | Portrait d'Elodie Limouzin | Portrait provisoire, à remplacer |
+
 ## 3. Photographies d'illustration des articles, Wikimedia Commons
 
 Ces images illustrent les maisons citées dans les palmarès. Certaines montrent le

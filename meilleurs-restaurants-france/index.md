@@ -57,8 +57,7 @@ Sur les tarifs, et comment les lire
 Les prix relevés sur le site officiel d'une maison sont publiés comme tels et datés. Les autres
 sont présentés comme un ordre de grandeur, et signalés ligne par ligne. Nous ne transformons pas
 une fourchette qui circule dans la presse en tarif vérifié : ces chiffres vieillissent vite et
-personne ne les corrige. Aucune de ces tables n'a encore été visitée par la rédaction ; les notes
-sur 20 de [notre grille](../notre-methode/) viendront avec les visites.
+personne ne les corrige.
 
 ## Le palmarès 2026
 
@@ -539,3 +538,5 @@ La rétrogradation intervenue dans l'édition 2026 concerne L'Ambroisie, à Pari
 
 Une erreur dans ces chiffres, une distinction oubliée, un tarif à jour :
 [signalez-le nous](../contact.html). Les corrections sont datées sur la page.
+
+Aucune des maisons citées dans cet article n'a été visitée par la rédaction à ce jour. Les notes sur 20 de [notre grille](../notre-methode/) viendront avec nos visites.
