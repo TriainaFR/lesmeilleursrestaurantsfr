@@ -58,36 +58,24 @@ relancer `npm run build`. Les balises sont retirées, le sitemap se repeuple, et
 
 ## Bloquant : ne pas mettre en ligne avant
 
-### 1. Aucune photo réelle
+### 1. Photos des établissements, quand les articles arriveront
 
-`images/` est **vide**. La page d'accueil compte **36 appels à Unsplash et
-picsum.photos**, en `src` comme en `onerror`. Deux problèmes distincts :
+`images/` contient désormais **onze photographies de banque d'images**, servies
+depuis nos serveurs et non appelées à distance : plus aucun lien vers Unsplash ou
+picsum dans le HTML. Chacune existe en `.jpg`, `.webp` et `-700.webp`, avec
+`width` et `height` posés pour éviter le décalage au chargement. L'origine et la
+licence sont consignées dans `images/CREDITS.md`.
 
-- la règle éditoriale interdit d'illustrer un établissement nommé par une image
-  de banque ; aucune ne l'est aujourd'hui, mais la règle vaudra dès la première
-  parution ;
-- les trois illustrations restantes (héros, cartes de ville, dossier bistrot) sont
-  génériques et signalées comme telles, la légende du héros porte la mention
-  « illustration provisoire » ;
-- ce sont des dépendances externes, hors du contrôle du média, non couvertes par
-  nos règles de cache et susceptibles de disparaître sans préavis.
+Ces images sont des **illustrations génériques** et le resteront. La règle ne
+change pas : dès qu'un article cite un établissement, sa photo doit venir de
+l'établissement, de son site officiel ou de son dossier de presse. Une photo de
+banque sous le nom d'une maison réelle laisserait croire qu'on l'a photographiée.
 
-Déposer les vraies photos dans `images/`, les référencer dans `assets/articles.js`
-(champ `photo`), laisser le build produire les variantes WebP et les attributs
-`width`/`height`.
+L'image de partage (`og:image`) est en place **sur la page d'accueil seulement**.
+Les sept autres pages n'en déclarent pas : un partage de `/notre-methode/` ou de
+`/contact.html` affiche encore une carte sans visuel. À compléter.
 
-### 2. Image de partage absente
-
-Aucune page ne déclare `og:image` ni `twitter:image`, alors que `index.html`
-annonce `twitter:card = summary_large_image`. Tout partage sur un réseau social
-ou dans une messagerie affiche donc une carte vide. Produire une image de partage
-par défaut (1200 x 630, JPEG ou PNG), la déposer dans `images/` et la déclarer sur
-les pages institutionnelles ; les articles porteront ensuite leur propre photo.
-
-Les favicons, eux, sont en place : `favicon.png` (512 px), `favicon-32.png` et
-`apple-touch-icon.png` (180 px).
-
-### 3. Brancher l'envoi du formulaire de contact
+### 2. Brancher l'envoi du formulaire de contact
 
 `contact.html` porte un formulaire complet, piloté par `assets/app.js`. Le point
 de branchement y est documenté et **volontairement laissé vide** :
@@ -106,7 +94,7 @@ Après branchement, vérifier trois choses : le message de confirmation, le repl
 réel n'est commité en clair**. Une clé publique EmailJS reste une donnée de
 configuration : la traiter comme telle et la documenter, pas la disséminer.
 
-### 4. Générer la clé IndexNow
+### 3. Générer la clé IndexNow
 
 **Aucune clé n'est fournie dans ce dépôt et il ne faut pas en inventer une** :
 une clé n'a de valeur que si le fichier qui la porte est réellement servi à la
@@ -126,7 +114,7 @@ s'arrête plutôt que d'envoyer dans le vide. Tant qu'il n'est pas déployé, Bi
 refuse toute soumission avec un 403 : ne lancer `npm run indexnow` qu'après la
 mise en ligne.
 
-### 5. Publier les premiers articles
+### 4. Publier les premiers articles
 
 Le catalogue est vide et tous les fichiers du dépôt le disent, y compris
 `api/status.json` (`"articles": 0`) et `llms.txt`. Aucune page ne doit annoncer un
