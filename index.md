@@ -26,7 +26,7 @@ soit la bonne.
 
 Le coup de feu, à l'assiette
 
-Fig. 01, salle du soir
+Fig. 01, la salle avant le service
 
 ## Fraîchement publié
 

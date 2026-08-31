@@ -34,10 +34,10 @@ de la ville, jamais celui d'un restaurant.
 
 | Fichier | Sujet | Emplacement |
 |---|---|---|
-| `salle-du-soir` | Table dressée en salle | Accueil, arche du bandeau |
-| `bol-compose` | Bol de légumes vu du dessus | Accueil, polaroïd du bandeau |
+| `brasserie-salle` | Salle de brasserie, banquettes rouges | Accueil, arche du bandeau |
+| `assiette-dressee` | Assiette dressée, gros plan | Accueil, polaroïd du bandeau |
 | `salle-bistrot` | Salle de bistrot, carafe et bouquet | Accueil, dossier bistrot |
-| `og-meilleurs` | Recadrage 1200 x 630 de `salle-du-soir` | Image de partage |
+| `og-meilleurs` | Cadrage 1200 x 630 de la salle de brasserie | Image de partage |
 
 **Licence Unsplash** : usage gratuit, y compris commercial, sans autorisation
 préalable ni attribution obligatoire. Téléchargées le 31 août 2026.
