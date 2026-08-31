@@ -482,6 +482,10 @@ Et à Bordeaux, notre palmarès des
 Sur la troisième grande scène française, notre palmarès des
 [8 meilleurs restaurants de Marseille](../meilleurs-restaurants-marseille/).
 
+L'autre grande tradition régionale se mange à Strasbourg : nos
+[8 meilleures tables de Strasbourg](../meilleur-restaurant-strasbourg/), où la winstub
+joue le rôle que le bouchon tient ici.
+
 Pour la tradition lyonnaise, notre guide des
 [10 meilleurs bouchons lyonnais](../bouchons-lyonnais/). À l'échelle du pays, le
 [palmarès des 15 meilleurs restaurants de France](../meilleurs-restaurants-france/).

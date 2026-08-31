@@ -36,6 +36,12 @@
    Virgule, deux-points ou point-virgule a la place. Le build le verifie.
    ========================================================================== */
 window.ARTICLES = [
+  {slug:"meilleur-restaurant-strasbourg", cat:"Villes",
+   title:"Les 8 meilleures tables de Strasbourg en 2026",
+   dest:"Strasbourg", region:"Alsace", date:"2026-08-31", reading:11,
+   url:"meilleur-restaurant-strasbourg/", photo:"images/off-yvonne.jpg",
+   auteur:"elodie-limouzin",
+   recit:"Une étoile que beaucoup attribuent encore à une maison qui l'a perdue en 2015."},
   {slug:"meilleur-restaurant-biarritz", cat:"Villes",
    title:"Les 6 meilleures tables de Biarritz en 2026",
    dest:"Biarritz", region:"Pays basque", date:"2026-08-31", reading:9,

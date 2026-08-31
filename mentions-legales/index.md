@@ -114,6 +114,12 @@ SujetCrédit
 
 Anema, la salleAnema, hôtel Saint-Julien
 
+Au Pont Corbeau, la salleAu Pont Corbeau
+
+Binchstub, une salleBinchstub
+
+Brasserie Les Haras, la salleBrasserie Les Haras
+
 Café Comptoir Abel, la devantureOffice de tourisme de Lyon
 
 Café Comptoir Abel, un salonOffice de tourisme de Lyon
@@ -132,17 +138,19 @@ Inima, une assietteInima
 
 L'Oiseau Bleu, la salleL'Oiseau Bleu
 
-La Mercerie, la salleLa Mercerie
+La Casserole, une assietteLa Casserole
 
-La Meunière, la salleLa Meunière
+La Mercerie, la salleLa Mercerie
 
 La Mère Brazier, la salleLa Mère Brazier
 
+La Meunière, la salleLa Meunière
+
 La Petite Plage, la salleLa Petite Plage, Le Talaia MGallery
 
-Le Bouchon Sully, le serviceOffice de tourisme de Lyon
-
 Le Bouchon des Filles, une assietteLe Bouchon des Filles
+
+Le Bouchon Sully, le serviceOffice de tourisme de Lyon
 
 Le Neuvième Art, une assietteLe Neuvième Art
 
@@ -171,6 +179,8 @@ Soléna, une assietteSoléna
 Substrat, une assietteSubstrat
 
 Tuba Club, la vue sur l'anseTuba Club
+
+Winstub Chez Yvonne, la salleJérôme Up-Tools pour la Winstub Chez Yvonne
 
 Zéphirine, une tableZéphirine
 

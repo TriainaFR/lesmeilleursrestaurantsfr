@@ -492,6 +492,11 @@ Lyon tient son propre système, avec ses bouchons et ses deux labels concurrents
 des [10 meilleurs bouchons lyonnais](../bouchons-lyonnais/) explique lequel veut dire
 quoi, et pourquoi les maisons les plus recommandées n'en portent souvent aucun.
 
+À l'est, l'Alsace tient un format de table qui n'existe nulle part ailleurs : notre palmarès
+des [8 meilleures tables de Strasbourg](../meilleur-restaurant-strasbourg/) explique
+ce qu'est vraiment une winstub, et rétablit une étoile que beaucoup attribuent encore à une
+maison qui l'a perdue.
+
 Sur un registre plus matinal et nettement plus abordable, notre guide du
 [meilleur brunch à Paris](../meilleur-brunch-paris/) passe douze maisons au crible,
 adresse par adresse et tarif par tarif.

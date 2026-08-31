@@ -268,6 +268,9 @@ Et sur la côte basque, nos
 Sur l'autre façade, notre palmarès des
 [8 meilleurs restaurants de Bordeaux](../meilleurs-restaurants-bordeaux/).
 
+Et à l'autre extrémité de la carte, nos
+[8 meilleures tables de Strasbourg](../meilleur-restaurant-strasbourg/).
+
 Pour situer ces adresses à l'échelle nationale, notre
 [palmarès des 15 meilleurs restaurants de France](../meilleurs-restaurants-france/).
 Pour comparer avec les deux autres grandes scènes, les
