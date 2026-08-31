@@ -716,6 +716,9 @@ Pour un [dîner romantique à Paris](../restaurant-romantique-paris/), nos 10 ta
 en 2026 font le tri entre les salles vraiment intimes et celles qui ne le sont que sur le
 papier.
 
+Sur le versant japonais de la capitale, nos
+[6 meilleures adresses de sushi à Paris](../meilleur-sushi-paris/).
+
 Sur un registre nettement plus abordable, nos
 [8 meilleures adresses ramen de Paris](../meilleur-ramen-paris/), où le seul Bib
 Gourmand de la sélection se mange debout dans une ruelle reconstituée.

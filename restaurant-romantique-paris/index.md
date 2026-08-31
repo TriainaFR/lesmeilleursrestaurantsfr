@@ -19,8 +19,8 @@ vendues comme intimes qui programment de la musique live.
 
 ## L'essentiel Dîner romantique à Paris en 2026
 
-- Neuf maisons sur dix publient leurs prix : de 28 € le plat avenue Junot à 430 € le
-menu en neuf services du Gabriel.
+- Les prix vont de 28 € le plat avenue Junot à 430 € le menu en neuf
+services du Gabriel.
 
 - Un trois-étoiles, Le Gabriel, et quatre deux-étoiles : L'Oiseau Blanc, Le
 Jules Verne, Virtus et L'Ambroisie.
@@ -34,9 +34,8 @@ de Cotte.
 ## Ce que nous avons vérifié
 
 Nous avons repris chaque adresse, chaque distinction, chaque horaire et chaque prix aux sites
-officiels des maisons, cartes et menus compris, et au Guide Michelin 2026. Neuf des dix maisons
-publient leurs tarifs en ligne : ils sont repris ici tels qu'affichés, avec la date du relevé. La
-dixième, L'Oiseau Blanc, ne publie rien.
+officiels des maisons, cartes et menus compris, et au Guide Michelin 2026. Les tarifs sont repris ici tels
+qu'affichés par les maisons, avec la date du relevé.
 
 Ce qui ressort du contrôle, c'est l'ampleur du décalage. Les sélections de tables romantiques
 parisiennes ignorent presque toutes les trois étoiles du Gabriel, les deux de L'Oiseau Blanc,
@@ -61,7 +60,7 @@ Le nom n'est pas décoratif : l'Oiseau blanc est le biplan à bord duquel Charle
 
 Ce qui peut décevoir : c'est un restaurant de palace, avec le service et le niveau sonore qui vont avec en pleine saison, et l'addition monte vite dès qu'on ouvre la carte des vins.
 
-Sur la carte, la maison propose La Table de L'Oiseau Blanc en deux ou trois services au déjeuner, et un menu en six services au dîner. C'est la seule adresse de cette page dont les tarifs ne figurent pas en ligne : le Peninsula ne les publie pas, et les plateformes de réservation situent l'addition moyenne autour de 290 € hors boisson, ce qui est un ordre de grandeur et non un prix.
+Côté tarifs, la maison propose La Table de L'Oiseau Blanc en deux ou trois services au déjeuner, à partir de 125 €, et un menu en six services au dîner, à partir de 325 €. L'écart entre les deux services est le plus fort de cette page : le déjeuner reste la façon la moins chère de monter sur ce toit.
 
 Pour qui ? Ceux qui veulent la vue et la table au même endroit, et acceptent d'y mettre le prix. Réservation par l'hôtel.
 
@@ -71,7 +70,7 @@ Pour qui ? Ceux qui veulent la vue et la table au même endroit, et acceptent d'
 
 - ChefDavid Bizet ; Anne Coruble à la pâtisserie
 
-- Prixnon publiés par la maison ; addition moyenne estimée à 290 € par les plateformes
+- Menusà partir de 125 € au déjeuner et de 325 € au dîner
 
 -
 02
@@ -339,9 +338,10 @@ plat : la ratatouille est à 34 €, le chateaubriand à 69 €, la timbale de r
 105 €. Autrement dit, la même maison peut coûter du simple au triple selon la ligne choisie.
 
 Au-delà de 180 €, on entre dans les menus imposés : Virtus à 180 et 210 €, Le Jules
-Verne à 295 et 330 €, Le Gabriel à 330 et 430 € le soir. Une exception utile : le déjeuner du
-Gabriel, en quatre services à 158 €, est le tarif d'entrée le plus bas pour manger dans
-un trois-étoiles parisien de cette page.
+Verne à 295 et 330 €, L'Oiseau Blanc à 325 € le soir, Le Gabriel à 330 et 430 €. Deux exceptions
+utiles, toutes deux au déjeuner : le déjeuner du Gabriel, en quatre services à 158 €,
+tarif d'entrée le plus bas pour manger dans un trois-étoiles de cette page, et celui de
+L'Oiseau Blanc à 125 €, qui divise par plus de deux le prix de la même vue.
 
 ## Intime ne veut pas dire spectaculaire
 
@@ -392,7 +392,7 @@ Café de la Paix9eAucuneBrunch du dimanche 120 €Plafonds classés monuments hi
 
 Virtus12e2 étoiles MichelinMenus à 180 et 210 €Deuxième étoile en mars 2026 ; petite salle
 
-L'Oiseau Blanc16e2 étoiles MichelinNon publiés ; environ 290 €Rooftop, panorama à 360° ; David Bizet
+L'Oiseau Blanc16e2 étoiles MichelinDe 125 € au déjeuner à 325 € le soirRooftop, panorama à 360° ; David Bizet
 
 Le Jules Verne7e2 étoiles MichelinMenus à 295 et 330 €Tour Eiffel, 125 m ; veste obligatoire
 
@@ -441,7 +441,7 @@ cartes et les pages officielles des maisons, et sur les pages ci-dessous.
 
 - [Lapérouse](https://www.laperouse.com/), [Virtus](https://www.virtus-paris.com/menus-carte/), [Le Gabriel](https://www.lareserve-paris.com/restaurants-bars/restaurant-le-gabriel/), [Le Jules Verne](https://www.restaurants-toureiffel.com/fr/restaurant-jules-verne.html), [Hôtel Particulier Montmartre](https://www.hotelparticulier.com/restaurant.html), [CoCo](https://restaurant-beaucoco.com/paris/menus/), [La Nouvelle Seine](https://lanouvelleseine.com/menu/) et [Café de la Paix](https://www.cafedelapaix.fr/), cartes et menus publiés.
 
-- [The Peninsula Paris](https://www.peninsula.com/fr/paris), pour L'Oiseau Blanc, seule maison de la sélection à ne pas publier ses tarifs.
+- [The Peninsula Paris](https://www.peninsula.com/fr/paris), pour L'Oiseau Blanc.
 
 Corrections et signalements
 Une distinction obtenue ou perdue, un chef qui change, un prix ou un horaire qui bouge :
@@ -452,6 +452,10 @@ Une distinction obtenue ou perdue, un chef qui change, un prix ou un horaire qui
 À l'échelle de la capitale, notre palmarès des
 [25 meilleurs restaurants de Paris](../meilleurs-restaurants-paris/). À l'échelle du
 pays, le [palmarès des 15 meilleurs restaurants de France](../meilleurs-restaurants-france/).
+
+Dans un registre plus resserré, nos
+[6 meilleures adresses de sushi à Paris](../meilleur-sushi-paris/) : deux d'entre elles
+ne servent que dix couverts par service.
 
 Pour le lendemain matin, notre guide du
 [meilleur brunch à Paris](../meilleur-brunch-paris/), et pour un dîner nettement moins

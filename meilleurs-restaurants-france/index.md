@@ -513,6 +513,10 @@ Pour un [dîner romantique à Paris](../restaurant-romantique-paris/), nos 10 ta
 en 2026, où une maison vient de perdre sa troisième étoile et une autre d'en gagner une
 deuxième.
 
+Et sur le versant japonais de la capitale, nos
+[6 meilleures adresses de sushi à Paris](../meilleur-sushi-paris/), du menu à 12 € à
+l'omakase à 420 €.
+
 Sur un registre plus matinal et nettement plus abordable, notre guide du
 [meilleur brunch à Paris](../meilleur-brunch-paris/) passe douze maisons au crible,
 adresse par adresse et tarif par tarif.

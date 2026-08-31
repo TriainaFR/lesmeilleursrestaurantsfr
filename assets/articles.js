@@ -36,6 +36,12 @@
    Virgule, deux-points ou point-virgule a la place. Le build le verifie.
    ========================================================================== */
 window.ARTICLES = [
+  {slug:"meilleur-sushi-paris", cat:"Guide",
+   title:"Meilleur sushi à Paris : 6 adresses en 2026",
+   dest:"Paris", region:"Paris", date:"2026-08-31", reading:12,
+   url:"meilleur-sushi-paris/", photo:"images/off-hanada.jpg",
+   auteur:"charles-bidaud",
+   recit:"Du menu à 12 € rue Chabanais à l'omakase à 420 € du Cheval Blanc."},
   {slug:"restaurant-romantique-paris", cat:"Guide",
    title:"Dîner romantique à Paris : 10 tables en 2026",
    dest:"Paris", region:"Paris", date:"2026-08-31", reading:16,

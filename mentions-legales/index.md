@@ -144,11 +144,17 @@ Flaveur, la salleFlaveur
 
 Grand Café de Turin, un plateau de fruits de merCafé de Turin
 
+Hakuba, la salleCaroline Dutrey pour Cheval Blanc Paris
+
+Hanada, le comptoir en hinokiHanada
+
 Inima, une assietteInima
 
 Isshin Ramen, la salleIsshin Ramen
 
 Keisuke Matsushima, la terrasseKeisuke Matsushima
+
+Kiyomizu, un plateau de sashimiKiyomizu
 
 Kodawari Ramen Yokochō, la salleKodawari Ramen
 
@@ -213,6 +219,8 @@ Prairial, la sallePrairial
 Prémices, la sallePrémices
 
 Regain, la salleRegain
+
+Rice & Fish, la salleRice & Fish
 
 Soléna, une assietteSoléna
 

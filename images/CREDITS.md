@@ -76,9 +76,12 @@ sans délai sur simple demande de l'établissement.
 | `off-fink` | Fink'Stuebel, le comptoir | Fink'Stuebel | [source](https://restaurant-finkstuebel.com/) |
 | `off-flaveur` | Flaveur, la salle | Flaveur | [source](https://www.restaurant-flaveur.com/) |
 | `off-turin` | Grand Café de Turin, un plateau de fruits de mer | Café de Turin | [source](https://www.cafedeturin.fr/) |
+| `off-hakuba` | Hakuba, la salle | Caroline Dutrey pour Cheval Blanc Paris | [source](https://www.chevalblanc.com/fr/maison/paris/restaurants-et-bars/hakuba/) |
+| `off-hanada` | Hanada, le comptoir en hinoki | Hanada | [source](https://sushihanada.com/) |
 | `off-inima` | Inima, une assiette | Inima | [source](https://www.inimarestaurant.com/) |
 | `off-isshin` | Isshin Ramen, la salle | Isshin Ramen | [source](https://www.isshinramen.com/) |
 | `off-keisuke` | Keisuke Matsushima, la terrasse | Keisuke Matsushima | [source](https://keisukematsushima.com/) |
+| `off-kiyomizu` | Kiyomizu, un plateau de sashimi | Kiyomizu | [source](https://www.kiyomizu.fr/) |
 | `off-kodawari` | Kodawari Ramen Yokochō, la salle | Kodawari Ramen | [source](https://www.kodawari-ramen.com/) |
 | `off-ambroisie` | L'Ambroisie, la salle | L'Ambroisie | [source](https://www.ambroisie-paris.com/) |
 | `off-escalinada` | L'Escalinada, la terrasse | L'Escalinada | [source](https://escalinada-nice.com/) |
@@ -111,6 +114,7 @@ sans délai sur simple demande de l'établissement.
 | `off-prairial` | Prairial, la salle | Prairial | [source](https://www.prairial-restaurant.fr/) |
 | `off-premices` | Prémices, la salle | Prémices | [source](https://premicesmarseille.com/) |
 | `off-regain` | Regain, la salle | Regain | [source](https://regain-marseille.com/) |
+| `off-ricefish` | Rice &amp; Fish, la salle | Rice &amp; Fish | [source](https://www.rice-and-fish.fr/) |
 | `off-solena` | Soléna, une assiette | Soléna | [source](https://solena-restaurant.com/) |
 | `off-substrat` | Substrat, une assiette | Substrat | [source](https://www.substrat-restaurant.com/) |
 | `off-tuba` | Tuba Club, la vue sur l'anse | Tuba Club | [source](https://tuba-club.com/) |

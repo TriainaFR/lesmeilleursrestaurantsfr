@@ -367,6 +367,10 @@ Un prix qui bouge, un jour de fermeture qui change, une adresse qui passe la mai
 [25 meilleurs restaurants de Paris](../meilleurs-restaurants-paris/), et pour le
 week-end, notre guide du [meilleur brunch à Paris](../meilleur-brunch-paris/).
 
+Sur l'autre grand format japonais de la ville, nos
+[6 meilleures adresses de sushi à Paris](../meilleur-sushi-paris/), où deux maisons
+étoilées côtoient un menu du midi à 12 €.
+
 À l'opposé du comptoir, nos 10 tables pour un
 [dîner romantique à Paris](../restaurant-romantique-paris/).
 
