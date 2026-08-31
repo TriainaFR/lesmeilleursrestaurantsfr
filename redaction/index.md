@@ -44,7 +44,7 @@ Signe les palmarès, les guides et les enquêtes ·
 
 ### [Charles Bidaud](charles-bidaud/)
 
-Rédacteur
+Rédacteur bistrots et tables de quartier
 
 Charles Bidaud signe des guides, des enquêtes et des classements de tables. Sa
 présentation détaillée sera complétée par ses soins : le média ne publie pas une
@@ -57,7 +57,7 @@ biographie qu'il n'a pas recueillie.
 
 ### [Elodie Limouzin](elodie-limouzin/)
 
-Rédactrice
+Rédactrice restaurants gastronomiques
 
 Venue de l'hôtellerie et du voyage, Elodie Limouzin couvre les tables, les belles
 maisons et les villes. L'image est chez elle un second métier, ce qui n'est pas un

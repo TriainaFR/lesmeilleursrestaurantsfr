@@ -1,4 +1,4 @@
-# Elodie Limouzin, Rédactrice | Meilleurs.
+# Elodie Limouzin, rédactrice restaurants gastronomiques | Meilleurs.
 
 > Elodie Limouzin, rédactrice de Meilleurs., média français des meilleurs restaurants. Tables, hôtels, villes et photographie.
 

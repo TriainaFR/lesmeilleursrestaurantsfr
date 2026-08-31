@@ -1,4 +1,4 @@
-# Charles Bidaud, Rédacteur | Meilleurs.
+# Charles Bidaud, rédacteur bistrots | Meilleurs.
 
 > Charles Bidaud, rédacteur de Meilleurs., média français des meilleurs restaurants. Guides, enquêtes et classements.
 

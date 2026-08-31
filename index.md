@@ -65,13 +65,13 @@ Notes sur 20 : cuisine, produit et sourcing, service et salle, cadre et atmosph�
 ←
 →
 
-[Paris → Palaces · Néo-bistrots · Comptoirs](articles.html?q=Paris)
-[Lyon → Bouchons · Mères · Halles](articles.html?q=Lyon)
-[Marseille → Bouillabaisse · Panier · Goudes](articles.html?q=Marseille)
-[Bordeaux → Chartrons · Entrecôte · Vignes](articles.html?q=Bordeaux)
-[Pays basque → Txuleta · Piment · Ventas](articles.html?q=Pays+basque)
-[Alsace → Winstubs · Choucroute · Riesling](articles.html?q=Alsace)
-[Côte d'Azur → Rooftops · Criques · Citron de Menton](articles.html?q=C%C3%B4te+d%27Azur)
+[Paris → Palaces · Néo-bistrots · Comptoirs](articles.html#q=Paris)
+[Lyon → Bouchons · Mères · Halles](articles.html#q=Lyon)
+[Marseille → Bouillabaisse · Panier · Goudes](articles.html#q=Marseille)
+[Bordeaux → Chartrons · Entrecôte · Vignes](articles.html#q=Bordeaux)
+[Pays basque → Txuleta · Piment · Ventas](articles.html#q=Pays+basque)
+[Alsace → Winstubs · Choucroute · Riesling](articles.html#q=Alsace)
+[Côte d'Azur → Rooftops · Criques · Citron de Menton](articles.html#q=C%C3%B4te+d%27Azur)
 
 Le dossier bistrot
 « Le vrai luxe, c'est l'œuf mayo à 4,50 € et un patron qui vous appelle par votre nom. »

@@ -197,11 +197,12 @@ var REDUCE = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
    catalogue. tools/build.py écrit la même liste entre les marqueurs S: de
    articles.html, pour les robots qui n'exécutent pas JavaScript.
 
-   Contrat d'URL, à ne pas casser : « ?q= » porte la recherche, c'est la cible
-   du SearchAction déclaré sur la page d'accueil, et « #cat= » porte la rubrique
-   (un fragment, non une chaîne de requête : une URL en ?cat= serait une page
-   distincte pour un crawler, explorée au détriment des vrais articles). Les
-   deux sont relus au chargement et réécrits sans rechargement.
+   Contrat d'URL, à ne pas casser : le site ne publie AUCUNE URL a parametre.
+   La recherche passe par « #q= » et la rubrique par « #cat= », deux fragments.
+   Un filtre en chaine de requete serait une page distincte pour un crawler,
+   exploree au detriment des vrais articles, et multiplierait les doublons.
+   Les anciennes formes « ?q= » et « ?cat= » restent LUES, pour qu'un lien
+   partage autrefois continue de fonctionner, mais ne sont jamais ecrites.
    ========================================================================== */
 (function(){
   var grid = document.getElementById('articles-grid');
@@ -283,8 +284,12 @@ var REDUCE = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
     state.q = param('q');
   }
   function writeURL(){
-    var qs = state.q ? '?q=' + encodeURIComponent(state.q) : '';
-    var hs = state.cat !== ALL ? '#cat=' + norm(state.cat) : '';
+    /* Tout part dans le fragment : voir le contrat d'URL en tete de bloc. */
+    var bouts = [];
+    if(state.q) bouts.push('q=' + encodeURIComponent(state.q));
+    if(state.cat !== ALL) bouts.push('cat=' + norm(state.cat));
+    var qs = '';
+    var hs = bouts.length ? '#' + bouts.join('&') : '';
     /* replaceState plutôt que pushState : filtrer n'est pas naviguer, et un
        historique d'une entrée par frappe rendrait le bouton retour inutilisable.
        Le try protège l'ouverture en file:// , où l'API lève une SecurityError. */

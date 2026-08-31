@@ -851,9 +851,53 @@ def check_liens_sortants():
                      % (page, m.group(1)))
 
 
+def check_maillage():
+    """Quatre regles de maillage que rien ne doit enfreindre.
+
+    1. Aucun lien vers index.html : la page d'accueil se cite par son dossier,
+       sinon deux URL servent la meme page et se disputent son autorite.
+    2. Aucune URL a parametre parmi les liens internes : un filtre en chaine de
+       requete est une page distincte pour un crawler, exploree au detriment des
+       vrais articles. Les filtres passent par un fragment. Les empreintes de
+       cache posees sur les assets (?v=) ne sont pas concernees : ce ne sont pas
+       des pages.
+    3. Canonique exacte : avec www, et barre oblique finale sur un dossier.
+    4. Trois liens editoriaux entrants au minimum par article publie. Un article
+       qu'aucune autre page ne cite ne se decouvre pas, et n'a pas sa place au
+       catalogue.
+    """
+    entrants = {}
+    for page in pages():
+        s = read(page)
+        for href in sorted(set(re.findall(r'href="([^"]+)"', s))):
+            if href.startswith(("http", "mailto", "tel", "data:", "#", "//")):
+                continue
+            chemin = href.split("#")[0]
+            if not chemin:
+                continue
+            if re.search(r"(^|/)index\.html($|\?)", chemin):
+                fail("lien vers index.html : %s pointe vers %s, citer le dossier"
+                     % (page, href))
+            base, _, requete = chemin.partition("?")
+            if requete and not re.search(r"\.(css|js|png|jpg|jpeg|webp|svg|ico)$", base):
+                fail("URL a parametre : %s pointe vers %s, les filtres passent "
+                     "par un fragment" % (page, href))
+            cible = posixpath.normpath(posixpath.join(
+                posixpath.dirname(page.replace("\\", "/")), base)).strip("/")
+            entrants.setdefault(cible, set()).add(page)
+
+    for a in ARTS:
+        cible = a["url"].strip("/")
+        source = entrants.get(cible, set())
+        if len(source) < 3:
+            fail("maillage insuffisant : %s recoit %d lien(s) editorial(aux) "
+                 "entrant(s), trois au minimum" % (a["url"], len(source)))
+
+
 def checks(allow_demo):
     check_demo(allow_demo)
     check_liens_sortants()
+    check_maillage()
     check_canonical()
     check_orphans()
     for f in pages():
