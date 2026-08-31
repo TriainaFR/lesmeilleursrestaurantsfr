@@ -142,7 +142,11 @@ Grand Café de Turin, un plateau de fruits de merCafé de Turin
 
 Inima, une assietteInima
 
+Isshin Ramen, la salleIsshin Ramen
+
 Keisuke Matsushima, la terrasseKeisuke Matsushima
+
+Kodawari Ramen Yokochō, la salleKodawari Ramen
 
 L'Escalinada, la terrasseL'Escalinada
 
@@ -188,6 +192,8 @@ Maison Clovis, une assietteMaison Clovis
 
 Maison Nouvelle, une tableMaison Nouvelle
 
+Neko Ramen, des bols de ramenNeko Ramen
+
 Poissonnerie Kennedy, la devanturePoissonnerie Kennedy
 
 Prairial, la sallePrairial
@@ -205,6 +211,8 @@ Tuba Club, la vue sur l'anseTuba Club
 Winstub Chez Yvonne, la salleJérôme Up-Tools pour la Winstub Chez Yvonne
 
 Winstub Le Clou, la salleWinstub Le Clou
+
+Yatai Ramen, la salle du passage ChoiseulYatai Ramen
 
 Zéphirine, une tableZéphirine
 

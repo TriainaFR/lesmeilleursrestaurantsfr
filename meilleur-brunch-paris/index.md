@@ -386,6 +386,9 @@ grand nombre de fiches donnant des rues, des arrondissements ou des jours de ser
 C'est la raison d'être de ce guide : il vaut mieux douze adresses vérifiées que cinquante
 recopiées.
 
+Pour le reste de la semaine et à prix comparable, nos
+[8 meilleures adresses ramen de Paris](../meilleur-ramen-paris/).
+
 ## Questions fréquentes
 
 ### Quel est le meilleur brunch à Paris en 2026 ?

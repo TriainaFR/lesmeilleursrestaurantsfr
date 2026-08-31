@@ -36,6 +36,12 @@
    Virgule, deux-points ou point-virgule a la place. Le build le verifie.
    ========================================================================== */
 window.ARTICLES = [
+  {slug:"meilleur-ramen-paris", cat:"Guide",
+   title:"Meilleur ramen à Paris : 8 adresses en 2026",
+   dest:"Paris", region:"Paris", date:"2026-08-31", reading:13,
+   url:"meilleur-ramen-paris/", photo:"images/off-neko.jpg",
+   auteur:"elodie-limouzin",
+   recit:"Le bouillon de daurade que tout le monde attribue à la mauvaise adresse."},
   {slug:"meilleurs-restaurants-nice", cat:"Villes",
    title:"Les 8 meilleurs restaurants de Nice en 2026",
    dest:"Nice", region:"Côte d'Azur", date:"2026-08-31", reading:14,

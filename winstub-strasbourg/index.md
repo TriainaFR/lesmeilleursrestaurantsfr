@@ -408,7 +408,10 @@ Pour la ville entière, tables contemporaines et étoilées comprises, notre pal
 [8 meilleures tables de Strasbourg](../meilleur-restaurant-strasbourg/). À l'échelle du
 pays, le [palmarès des 15 meilleurs restaurants de France](../meilleurs-restaurants-france/).
 
-L'autre grande tradition française de la table serrée se mange à Lyon : nos
+Autre format de comptoir, autre continent : nos
+[8 meilleures adresses ramen de Paris](../meilleur-ramen-paris/).
+
+L'autre grande tradition française de la table serrée se mange à Lyon L'autre grande tradition française de la table serrée se mange à Lyon : nos
 [10 meilleurs bouchons lyonnais](../bouchons-lyonnais/) expliquent un système de labels
 dont la winstub n'a pas d'équivalent, et notre guide
 [Où manger à Lyon](../ou-manger-a-lyon/) passe quinze tables au crible. Sur une

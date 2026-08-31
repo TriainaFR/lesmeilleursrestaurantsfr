@@ -505,6 +505,10 @@ Sur la Côte d'Azur, nos
 sans milieu de gamme, où le chef de la table la plus modeste a tenu deux étoiles dans la plus
 solennelle.
 
+Et dans un tout autre registre, nos
+[8 meilleures adresses ramen de Paris](../meilleur-ramen-paris/) : un seul Bib
+Gourmand, et un bouillon de daurade que tout le monde attribue à la mauvaise maison.
+
 Sur un registre plus matinal et nettement plus abordable, notre guide du
 [meilleur brunch à Paris](../meilleur-brunch-paris/) passe douze maisons au crible,
 adresse par adresse et tarif par tarif.

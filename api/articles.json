@@ -4,8 +4,20 @@
   "publisher": "Meilleurs. (lesmeilleursrestaurants.fr), edite par Triaina",
   "citation": "Citer « Meilleurs. (lesmeilleursrestaurants.fr) ».",
   "updated": "2026-08-31",
-  "count": 11,
+  "count": 12,
   "articles": [
+    {
+      "slug": "meilleur-ramen-paris",
+      "title": "Meilleur ramen à Paris : 8 adresses en 2026",
+      "category": "Guide",
+      "destination": "Paris",
+      "region": "Paris",
+      "published": "2026-08-31",
+      "readingMinutes": 13,
+      "url": "https://www.lesmeilleursrestaurants.fr/meilleur-ramen-paris/",
+      "markdown": "https://www.lesmeilleursrestaurants.fr/meilleur-ramen-paris/index.md",
+      "image": "https://www.lesmeilleursrestaurants.fr/images/off-neko.jpg"
+    },
     {
       "slug": "meilleurs-restaurants-nice",
       "title": "Les 8 meilleurs restaurants de Nice en 2026",

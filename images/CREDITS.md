@@ -75,7 +75,9 @@ sans délai sur simple demande de l'établissement.
 | `off-flaveur` | Flaveur, la salle | Flaveur | [source](https://www.restaurant-flaveur.com/) |
 | `off-turin` | Grand Café de Turin, un plateau de fruits de mer | Café de Turin | [source](https://www.cafedeturin.fr/) |
 | `off-inima` | Inima, une assiette | Inima | [source](https://www.inimarestaurant.com/) |
+| `off-isshin` | Isshin Ramen, la salle | Isshin Ramen | [source](https://www.isshinramen.com/) |
 | `off-keisuke` | Keisuke Matsushima, la terrasse | Keisuke Matsushima | [source](https://keisukematsushima.com/) |
+| `off-kodawari` | Kodawari Ramen Yokochō, la salle | Kodawari Ramen | [source](https://www.kodawari-ramen.com/) |
 | `off-escalinada` | L'Escalinada, la terrasse | L'Escalinada | [source](https://escalinada-nice.com/) |
 | `off-oiseaubleu` | L'Oiseau Bleu, la salle | L'Oiseau Bleu | [source](https://www.loiseaubleu.fr/) |
 | `off-casserole` | La Casserole, une assiette | La Casserole | [source](https://www.la-casserole.fr/) |
@@ -98,6 +100,7 @@ sans délai sur simple demande de l'établissement.
 | `off-enfants-marche` | Les Enfants du Marché, le comptoir | Les Enfants du Marché | [source](https://www.lesenfantsdumarche.fr/) |
 | `off-clovis` | Maison Clovis, une assiette | Maison Clovis | [source](https://maisonclovis.com/) |
 | `off-maison-nouvelle` | Maison Nouvelle, une table | Maison Nouvelle | [source](https://maison-nouvelle.fr/) |
+| `off-neko` | Neko Ramen, des bols de ramen | Neko Ramen | [source](https://www.nekoramen.fr/) |
 | `off-kennedy` | Poissonnerie Kennedy, la devanture | Poissonnerie Kennedy | [source](https://poissonneriekennedy.com/) |
 | `off-prairial` | Prairial, la salle | Prairial | [source](https://www.prairial-restaurant.fr/) |
 | `off-premices` | Prémices, la salle | Prémices | [source](https://premicesmarseille.com/) |
@@ -107,6 +110,7 @@ sans délai sur simple demande de l'établissement.
 | `off-tuba` | Tuba Club, la vue sur l'anse | Tuba Club | [source](https://tuba-club.com/) |
 | `off-yvonne` | Winstub Chez Yvonne, la salle | Jérôme Up-Tools pour la Winstub Chez Yvonne | [source](https://www.restaurant-chez-yvonne.net/) |
 | `off-clou` | Winstub Le Clou, la salle | Winstub Le Clou | [source](https://www.le-clou.com/la-winstub) |
+| `off-yatai` | Yatai Ramen, la salle du passage Choiseul | Yatai Ramen | [source](https://www.yatairamen.fr/) |
 | `off-zephirine` | Zéphirine, une table | Zéphirine | [source](https://zephirine.fr/) |
 | `off-strissel` | Zuem Strissel, la salle aux vitraux | Zuem Strissel | [source](https://www.strissel.fr/) |
 

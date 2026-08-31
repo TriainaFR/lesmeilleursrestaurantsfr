@@ -712,6 +712,10 @@ Cinq maisons étoilées ont disparu de la sélection parisienne : Yam'Tcha, Dame
 L'Écrin et Le Chiberta. Un rappel utile : une étoile n'est jamais acquise, et une adresse recopiée
 d'un classement de l'an dernier peut renvoyer à un rideau baissé.
 
+Sur un registre nettement plus abordable, nos
+[8 meilleures adresses ramen de Paris](../meilleur-ramen-paris/), où le seul Bib
+Gourmand de la sélection se mange debout dans une ruelle reconstituée.
+
 ## Questions fréquentes
 
 ### Quels sont les restaurants 3 étoiles Michelin à Paris en 2026 ?
