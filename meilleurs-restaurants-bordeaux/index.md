@@ -52,19 +52,21 @@ Bordeaux · Gastronomie
 
 2 étoiles Michelin
 
-La table à deux étoiles de Bordeaux, confirmée dans l'édition 2026 du Guide Michelin. Elle prend, cette année, la place laissée vacante en tête de la ville : L'Observatoire du Gabriel, l'autre deux-étoiles bordelais, a fermé.
+Une table de Maison Nouvelle, rue Rode. Photo Maison Nouvelle.
 
-C'est le sommet de la carte bordelaise, et la seule adresse locale à ce niveau avec Le Pressoir d'Argent. La réservation se prend longtemps à l'avance.
+Maison Nouvelle est la table de Philippe Etchebest, ouverte fin 2021 rue Rode, sur la place du marché des Chartrons. Elle a décroché sa première étoile presque aussitôt, puis la seconde, confirmée dans l'édition 2026 du Guide Michelin.
+
+Elle prend cette année la place laissée vacante en tête de la ville : L'Observatoire du Gabriel, l'autre deux-étoiles bordelais, a fermé. Le format est resserré, la salle travaillée jusqu'au plafond, et le service se concentre sur quelques jours par semaine, le soir en semaine, midi et soir le vendredi et le samedi.
 
 Pour qui ? Les grandes occasions, et ceux qui veulent voir où se situe le plafond gastronomique de la ville.
 
-- VilleBordeaux
+- Adresse11 rue Rode, 33000 Bordeaux
+
+- ChefPhilippe Etchebest
+
+- ServiceDu mardi au jeudi le soir, vendredi et samedi midi et soir
 
 - DistinctionDeux étoiles au Guide Michelin 2026
-
-- BudgetNon relevé sur le site officiel
-
-- RéservationIndispensable
 
 -
 02

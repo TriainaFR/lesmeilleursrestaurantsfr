@@ -78,6 +78,7 @@ sans délai sur simple demande de l'établissement.
 | `off-pressoir` | Le Pressoir d'Argent, la salle | Le Pressoir d'Argent Gordon Ramsay | [source](https://bordeaux.intercontinental.com/) |
 | `off-adrets` | Les Adrets, la devanture | Les Adrets | [source](http://les-adrets.com/) |
 | `off-clovis` | Maison Clovis, une assiette | Maison Clovis | [source](https://maisonclovis.com/) |
+| `off-maison-nouvelle` | Maison Nouvelle, une table | Maison Nouvelle | [source](https://maison-nouvelle.fr/) |
 | `off-kennedy` | Poissonnerie Kennedy, la devanture | Poissonnerie Kennedy | [source](https://poissonneriekennedy.com/) |
 | `off-prairial` | Prairial, la salle | Prairial | [source](https://www.prairial-restaurant.fr/) |
 | `off-premices` | Prémices, la salle | Prémices | [source](https://premicesmarseille.com/) |

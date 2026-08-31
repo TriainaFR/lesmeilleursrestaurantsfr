@@ -148,6 +148,8 @@ Les Adrets, la devantureLes Adrets
 
 Maison Clovis, une assietteMaison Clovis
 
+Maison Nouvelle, une tableMaison Nouvelle
+
 Poissonnerie Kennedy, la devanturePoissonnerie Kennedy
 
 Prairial, la sallePrairial
