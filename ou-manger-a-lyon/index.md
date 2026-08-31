@@ -479,6 +479,9 @@ Une maison qui ferme, déménage ou change de chef, une distinction obtenue ou p
 Et à Bordeaux, notre palmarès des
 [8 meilleurs restaurants de la ville](../meilleurs-restaurants-bordeaux/).
 
+Sur la Côte d'Azur, nos
+[8 meilleurs restaurants de Nice](../meilleurs-restaurants-nice/).
+
 Sur la troisième grande scène française, notre palmarès des
 [8 meilleurs restaurants de Marseille](../meilleurs-restaurants-marseille/).
 

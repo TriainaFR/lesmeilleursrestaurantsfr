@@ -136,7 +136,15 @@ Dialogues, des assiettesDialogues
 
 Fink'Stuebel, le comptoirFink'Stuebel
 
+Flaveur, la salleFlaveur
+
+Grand Café de Turin, un plateau de fruits de merCafé de Turin
+
 Inima, une assietteInima
+
+Keisuke Matsushima, la terrasseKeisuke Matsushima
+
+L'Escalinada, la terrasseL'Escalinada
 
 L'Oiseau Bleu, la salleL'Oiseau Bleu
 
@@ -146,15 +154,21 @@ La Mercerie, la salleLa Mercerie
 
 La Mère Brazier, la salleLa Mère Brazier
 
+La Merenda, une tarte à la tomateLa Merenda
+
 La Meunière, la salleLa Meunière
 
 La Petite Plage, la salleLa Petite Plage, Le Talaia MGallery
+
+La Rotonde, la salle aux chevaux de manègeGrégoire Gardette pour Le Negresco
 
 La Vieille Enseigne, la salle Tomi UngererLa Vieille Enseigne
 
 Le Bouchon des Filles, une assietteLe Bouchon des Filles
 
 Le Bouchon Sully, le serviceOffice de tourisme de Lyon
+
+Le Chantecler, la salleGrégoire Gardette pour Le Negresco
 
 Le Neuvième Art, une assietteLe Neuvième Art
 
@@ -165,6 +179,8 @@ Le Pressoir d'Argent, la salleLe Pressoir d'Argent Gordon Ramsay
 Le Tire-Bouchon, la maison à colombagesLe Tire-Bouchon
 
 Les Adrets, la devantureLes Adrets
+
+Les Agitateurs, une assietteLes Agitateurs
 
 Les Enfants du Marché, le comptoirLes Enfants du Marché
 

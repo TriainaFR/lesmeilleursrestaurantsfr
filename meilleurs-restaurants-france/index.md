@@ -500,6 +500,11 @@ maison qui l'a perdue.
 Et pour le format alsacien lui-même, boiseries, carte courte et vins au pichet, nos
 [7 winstubs authentiques de Strasbourg](../winstub-strasbourg/).
 
+Sur la Côte d'Azur, nos
+[8 meilleurs restaurants de Nice](../meilleurs-restaurants-nice/) racontent une ville
+sans milieu de gamme, où le chef de la table la plus modeste a tenu deux étoiles dans la plus
+solennelle.
+
 Sur un registre plus matinal et nettement plus abordable, notre guide du
 [meilleur brunch à Paris](../meilleur-brunch-paris/) passe douze maisons au crible,
 adresse par adresse et tarif par tarif.

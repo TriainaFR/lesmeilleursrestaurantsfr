@@ -36,6 +36,12 @@
    Virgule, deux-points ou point-virgule a la place. Le build le verifie.
    ========================================================================== */
 window.ARTICLES = [
+  {slug:"meilleurs-restaurants-nice", cat:"Villes",
+   title:"Les 8 meilleurs restaurants de Nice en 2026",
+   dest:"Nice", region:"Côte d'Azur", date:"2026-08-31", reading:14,
+   url:"meilleurs-restaurants-nice/", photo:"images/off-escalinada.jpg",
+   auteur:"charles-bidaud",
+   recit:"Le chef de la table la plus modeste de la ville tenait deux étoiles dans la plus solennelle."},
   {slug:"winstub-strasbourg", cat:"Guide",
    title:"Winstub à Strasbourg : 7 adresses authentiques",
    dest:"Strasbourg", region:"Alsace", date:"2026-08-31", reading:13,

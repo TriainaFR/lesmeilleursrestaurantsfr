@@ -72,21 +72,29 @@ sans délai sur simple demande de l'établissement.
 | `off-daniel-denise` | Daniel &amp; Denise Saint-Jean, en cuisine | Office de tourisme de Lyon | [source](https://www.visiterlyon.com/se-regaler/restaurants-et-gastronomie/label-bouchons-lyonnais/daniel-et-denise-saint-jean) |
 | `off-dialogues` | Dialogues, des assiettes | Dialogues | [source](https://lefooding.com/restaurants/dialogues) |
 | `off-fink` | Fink'Stuebel, le comptoir | Fink'Stuebel | [source](https://restaurant-finkstuebel.com/) |
+| `off-flaveur` | Flaveur, la salle | Flaveur | [source](https://www.restaurant-flaveur.com/) |
+| `off-turin` | Grand Café de Turin, un plateau de fruits de mer | Café de Turin | [source](https://www.cafedeturin.fr/) |
 | `off-inima` | Inima, une assiette | Inima | [source](https://www.inimarestaurant.com/) |
+| `off-keisuke` | Keisuke Matsushima, la terrasse | Keisuke Matsushima | [source](https://keisukematsushima.com/) |
+| `off-escalinada` | L'Escalinada, la terrasse | L'Escalinada | [source](https://escalinada-nice.com/) |
 | `off-oiseaubleu` | L'Oiseau Bleu, la salle | L'Oiseau Bleu | [source](https://www.loiseaubleu.fr/) |
 | `off-casserole` | La Casserole, une assiette | La Casserole | [source](https://www.la-casserole.fr/) |
 | `off-mercerie` | La Mercerie, la salle | La Mercerie | [source](https://www.lamerceriemarseille.com/) |
 | `off-brazier` | La Mère Brazier, la salle | La Mère Brazier | [source](https://lamerebrazier.fr/) |
+| `off-merenda` | La Merenda, une tarte à la tomate | La Merenda | [source](https://lamerenda.net/) |
 | `off-la-meuniere` | La Meunière, la salle | La Meunière | [source](https://www.lameuniere.fr/) |
 | `off-petite-plage` | La Petite Plage, la salle | La Petite Plage, Le Talaia MGallery | [source](https://www.letalaia.com/restaurant-bar) |
+| `off-rotonde` | La Rotonde, la salle aux chevaux de manège | Grégoire Gardette pour Le Negresco | [source](https://www.lenegresco.com/fr/restaurants/la-rotonde) |
 | `off-enseigne` | La Vieille Enseigne, la salle Tomi Ungerer | La Vieille Enseigne | [source](https://fr.gaultmillau.com/fr/restaurants/la-vieille-enseigne) |
 | `off-des-filles` | Le Bouchon des Filles, une assiette | Le Bouchon des Filles | [source](https://lebouchondesfilles.fr/) |
 | `off-sully` | Le Bouchon Sully, le service | Office de tourisme de Lyon | [source](https://www.visiterlyon.com/se-regaler/restaurants-et-gastronomie/label-bouchons-lyonnais/le-bouchon-sully) |
+| `off-chantecler` | Le Chantecler, la salle | Grégoire Gardette pour Le Negresco | [source](https://www.lenegresco.com/fr/restaurants/le-chantecler) |
 | `off-neuvieme` | Le Neuvième Art, une assiette | Le Neuvième Art | [source](https://leneuviemeart.com/) |
 | `off-poelon` | Le Poêlon d'Or, la salle | Le Poêlon d'Or | [source](https://www.lepoelondor-restaurant.fr/) |
 | `off-pressoir` | Le Pressoir d'Argent, la salle | Le Pressoir d'Argent Gordon Ramsay | [source](https://bordeaux.intercontinental.com/) |
 | `off-tirebouchon` | Le Tire-Bouchon, la maison à colombages | Le Tire-Bouchon | [source](https://www.letirebouchon.fr/) |
 | `off-adrets` | Les Adrets, la devanture | Les Adrets | [source](http://les-adrets.com/) |
+| `off-agitateurs` | Les Agitateurs, une assiette | Les Agitateurs | [source](https://www.lesagitateurs.com/) |
 | `off-enfants-marche` | Les Enfants du Marché, le comptoir | Les Enfants du Marché | [source](https://www.lesenfantsdumarche.fr/) |
 | `off-clovis` | Maison Clovis, une assiette | Maison Clovis | [source](https://maisonclovis.com/) |
 | `off-maison-nouvelle` | Maison Nouvelle, une table | Maison Nouvelle | [source](https://maison-nouvelle.fr/) |

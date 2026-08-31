@@ -271,6 +271,9 @@ Sur l'autre façade, notre palmarès des
 Et à l'autre extrémité de la carte, nos
 [8 meilleures tables de Strasbourg](../meilleur-restaurant-strasbourg/).
 
+Sur la même façade méditerranéenne, nos
+[8 meilleurs restaurants de Nice](../meilleurs-restaurants-nice/).
+
 Pour situer ces adresses à l'échelle nationale, notre
 [palmarès des 15 meilleurs restaurants de France](../meilleurs-restaurants-france/).
 Pour comparer avec les deux autres grandes scènes, les

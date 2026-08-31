@@ -254,6 +254,11 @@ Une résidence qui change, des horaires qui bougent, un tarif à jour :
 
 ## À lire aussi
 
+À l'autre bout de la côte, nos
+[8 meilleurs restaurants de Nice](../meilleurs-restaurants-nice/).
+
+## À lire aussi
+
 À l'échelle du pays, notre
 [palmarès des 15 meilleurs restaurants de France](../meilleurs-restaurants-france/).
 Plus au nord sur la même façade, les
