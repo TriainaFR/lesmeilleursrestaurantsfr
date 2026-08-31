@@ -712,6 +712,10 @@ Cinq maisons étoilées ont disparu de la sélection parisienne : Yam'Tcha, Dame
 L'Écrin et Le Chiberta. Un rappel utile : une étoile n'est jamais acquise, et une adresse recopiée
 d'un classement de l'an dernier peut renvoyer à un rideau baissé.
 
+Pour un dîner à deux, nos
+[10 tables parisiennes en 2026](../restaurant-romantique-paris/) font le tri entre les
+salles vraiment intimes et celles qui ne le sont que sur le papier.
+
 Sur un registre nettement plus abordable, nos
 [8 meilleures adresses ramen de Paris](../meilleur-ramen-paris/), où le seul Bib
 Gourmand de la sélection se mange debout dans une ruelle reconstituée.

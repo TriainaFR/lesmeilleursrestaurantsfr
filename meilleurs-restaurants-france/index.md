@@ -509,6 +509,10 @@ Et dans un tout autre registre, nos
 [8 meilleures adresses ramen de Paris](../meilleur-ramen-paris/) : un seul Bib
 Gourmand, et un bouillon de daurade que tout le monde attribue à la mauvaise maison.
 
+Pour un dîner à deux dans la capitale, nos
+[10 tables parisiennes en 2026](../restaurant-romantique-paris/), où une maison vient
+de perdre sa troisième étoile et une autre d'en gagner une deuxième.
+
 Sur un registre plus matinal et nettement plus abordable, notre guide du
 [meilleur brunch à Paris](../meilleur-brunch-paris/) passe douze maisons au crible,
 adresse par adresse et tarif par tarif.

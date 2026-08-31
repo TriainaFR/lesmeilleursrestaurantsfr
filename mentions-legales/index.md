@@ -124,11 +124,15 @@ Café Comptoir Abel, la devantureOffice de tourisme de Lyon
 
 Café Comptoir Abel, un salonOffice de tourisme de Lyon
 
+Café de la Paix, un salonJérôme Galland pour le Café de la Paix
+
 Café Lobut, la salleCafé Lobut
 
 Christian Têtedoie, la salle panoramiqueChristian Têtedoie
 
 Cinq Mains, la salleCinq Mains
+
+CoCo, la salle du Palais GarnierCoCo
 
 Daniel & Denise Saint-Jean, en cuisineOffice de tourisme de Lyon
 
@@ -148,6 +152,8 @@ Keisuke Matsushima, la terrasseKeisuke Matsushima
 
 Kodawari Ramen Yokochō, la salleKodawari Ramen
 
+L'Ambroisie, la salleL'Ambroisie
+
 L'Escalinada, la terrasseL'Escalinada
 
 L'Oiseau Bleu, la salleL'Oiseau Bleu
@@ -162,17 +168,23 @@ La Merenda, une tarte à la tomateLa Merenda
 
 La Meunière, la salleLa Meunière
 
+La Nouvelle Seine, la pénicheLaurence Guenoun pour La Nouvelle Seine
+
 La Petite Plage, la salleLa Petite Plage, Le Talaia MGallery
 
 La Rotonde, la salle aux chevaux de manègeGrégoire Gardette pour Le Negresco
 
 La Vieille Enseigne, la salle Tomi UngererLa Vieille Enseigne
 
+Lapérouse, la devantureLapérouse
+
 Le Bouchon des Filles, une assietteLe Bouchon des Filles
 
 Le Bouchon Sully, le serviceOffice de tourisme de Lyon
 
 Le Chantecler, la salleGrégoire Gardette pour Le Negresco
+
+Le Jules Verne, la salleLe Jules Verne
 
 Le Neuvième Art, une assietteLe Neuvième Art
 
@@ -207,6 +219,8 @@ Soléna, une assietteSoléna
 Substrat, une assietteSubstrat
 
 Tuba Club, la vue sur l'anseTuba Club
+
+Virtus, la salleVirtus
 
 Winstub Chez Yvonne, la salleJérôme Up-Tools pour la Winstub Chez Yvonne
 

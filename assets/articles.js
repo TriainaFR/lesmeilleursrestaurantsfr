@@ -36,6 +36,12 @@
    Virgule, deux-points ou point-virgule a la place. Le build le verifie.
    ========================================================================== */
 window.ARTICLES = [
+  {slug:"restaurant-romantique-paris", cat:"Guide",
+   title:"Dîner à deux à Paris : 10 tables en 2026",
+   dest:"Paris", region:"Paris", date:"2026-08-31", reading:15,
+   url:"restaurant-romantique-paris/", photo:"images/off-laperouse.jpg",
+   auteur:"lucas-lecoq",
+   recit:"Deux adresses vendues partout comme intimes ferment à deux heures du matin."},
   {slug:"meilleur-ramen-paris", cat:"Guide",
    title:"Meilleur ramen à Paris : 8 adresses en 2026",
    dest:"Paris", region:"Paris", date:"2026-08-31", reading:13,

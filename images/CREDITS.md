@@ -66,9 +66,11 @@ sans délai sur simple demande de l'établissement.
 | `off-haras` | Brasserie Les Haras, la salle | Brasserie Les Haras | [source](https://www.les-haras-brasserie.com/) |
 | `off-abel` | Café Comptoir Abel, la devanture | Office de tourisme de Lyon | [source](https://www.visiterlyon.com/se-regaler/restaurants-et-gastronomie/label-bouchons-lyonnais/cafe-comptoir-abel) |
 | `off-abel-salle` | Café Comptoir Abel, un salon | Office de tourisme de Lyon | [source](https://www.visiterlyon.com/se-regaler/restaurants-et-gastronomie/label-bouchons-lyonnais/cafe-comptoir-abel) |
+| `off-cafedelapaix` | Café de la Paix, un salon | Jérôme Galland pour le Café de la Paix | [source](https://www.cafedelapaix.fr/) |
 | `off-lobut` | Café Lobut, la salle | Café Lobut | [source](https://www.cafe-lobut.fr/) |
 | `off-tetedoie` | Christian Têtedoie, la salle panoramique | Christian Têtedoie | [source](https://www.tetedoie.com/) |
 | `off-cinqmains` | Cinq Mains, la salle | Cinq Mains | [source](https://www.cinqmains.fr/) |
+| `off-coco` | CoCo, la salle du Palais Garnier | CoCo | [source](https://restaurant-coco.com/) |
 | `off-daniel-denise` | Daniel &amp; Denise Saint-Jean, en cuisine | Office de tourisme de Lyon | [source](https://www.visiterlyon.com/se-regaler/restaurants-et-gastronomie/label-bouchons-lyonnais/daniel-et-denise-saint-jean) |
 | `off-dialogues` | Dialogues, des assiettes | Dialogues | [source](https://lefooding.com/restaurants/dialogues) |
 | `off-fink` | Fink'Stuebel, le comptoir | Fink'Stuebel | [source](https://restaurant-finkstuebel.com/) |
@@ -78,6 +80,7 @@ sans délai sur simple demande de l'établissement.
 | `off-isshin` | Isshin Ramen, la salle | Isshin Ramen | [source](https://www.isshinramen.com/) |
 | `off-keisuke` | Keisuke Matsushima, la terrasse | Keisuke Matsushima | [source](https://keisukematsushima.com/) |
 | `off-kodawari` | Kodawari Ramen Yokochō, la salle | Kodawari Ramen | [source](https://www.kodawari-ramen.com/) |
+| `off-ambroisie` | L'Ambroisie, la salle | L'Ambroisie | [source](https://www.ambroisie-paris.com/) |
 | `off-escalinada` | L'Escalinada, la terrasse | L'Escalinada | [source](https://escalinada-nice.com/) |
 | `off-oiseaubleu` | L'Oiseau Bleu, la salle | L'Oiseau Bleu | [source](https://www.loiseaubleu.fr/) |
 | `off-casserole` | La Casserole, une assiette | La Casserole | [source](https://www.la-casserole.fr/) |
@@ -85,12 +88,15 @@ sans délai sur simple demande de l'établissement.
 | `off-brazier` | La Mère Brazier, la salle | La Mère Brazier | [source](https://lamerebrazier.fr/) |
 | `off-merenda` | La Merenda, une tarte à la tomate | La Merenda | [source](https://lamerenda.net/) |
 | `off-la-meuniere` | La Meunière, la salle | La Meunière | [source](https://www.lameuniere.fr/) |
+| `off-nouvelleseine` | La Nouvelle Seine, la péniche | Laurence Guenoun pour La Nouvelle Seine | [source](https://lanouvelleseine.com/) |
 | `off-petite-plage` | La Petite Plage, la salle | La Petite Plage, Le Talaia MGallery | [source](https://www.letalaia.com/restaurant-bar) |
 | `off-rotonde` | La Rotonde, la salle aux chevaux de manège | Grégoire Gardette pour Le Negresco | [source](https://www.lenegresco.com/fr/restaurants/la-rotonde) |
 | `off-enseigne` | La Vieille Enseigne, la salle Tomi Ungerer | La Vieille Enseigne | [source](https://fr.gaultmillau.com/fr/restaurants/la-vieille-enseigne) |
+| `off-laperouse` | Lapérouse, la devanture | Lapérouse | [source](https://www.laperouse.com/) |
 | `off-des-filles` | Le Bouchon des Filles, une assiette | Le Bouchon des Filles | [source](https://lebouchondesfilles.fr/) |
 | `off-sully` | Le Bouchon Sully, le service | Office de tourisme de Lyon | [source](https://www.visiterlyon.com/se-regaler/restaurants-et-gastronomie/label-bouchons-lyonnais/le-bouchon-sully) |
 | `off-chantecler` | Le Chantecler, la salle | Grégoire Gardette pour Le Negresco | [source](https://www.lenegresco.com/fr/restaurants/le-chantecler) |
+| `off-julesverne` | Le Jules Verne, la salle | Le Jules Verne | [source](https://www.restaurants-toureiffel.com/fr/restaurant-jules-verne.html) |
 | `off-neuvieme` | Le Neuvième Art, une assiette | Le Neuvième Art | [source](https://leneuviemeart.com/) |
 | `off-poelon` | Le Poêlon d'Or, la salle | Le Poêlon d'Or | [source](https://www.lepoelondor-restaurant.fr/) |
 | `off-pressoir` | Le Pressoir d'Argent, la salle | Le Pressoir d'Argent Gordon Ramsay | [source](https://bordeaux.intercontinental.com/) |
@@ -108,6 +114,7 @@ sans délai sur simple demande de l'établissement.
 | `off-solena` | Soléna, une assiette | Soléna | [source](https://solena-restaurant.com/) |
 | `off-substrat` | Substrat, une assiette | Substrat | [source](https://www.substrat-restaurant.com/) |
 | `off-tuba` | Tuba Club, la vue sur l'anse | Tuba Club | [source](https://tuba-club.com/) |
+| `off-virtus` | Virtus, la salle | Virtus | [source](https://www.virtus-paris.com/) |
 | `off-yvonne` | Winstub Chez Yvonne, la salle | Jérôme Up-Tools pour la Winstub Chez Yvonne | [source](https://www.restaurant-chez-yvonne.net/) |
 | `off-clou` | Winstub Le Clou, la salle | Winstub Le Clou | [source](https://www.le-clou.com/la-winstub) |
 | `off-yatai` | Yatai Ramen, la salle du passage Choiseul | Yatai Ramen | [source](https://www.yatairamen.fr/) |

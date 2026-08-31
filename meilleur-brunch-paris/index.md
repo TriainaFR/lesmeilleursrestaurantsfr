@@ -386,6 +386,9 @@ grand nombre de fiches donnant des rues, des arrondissements ou des jours de ser
 C'est la raison d'être de ce guide : il vaut mieux douze adresses vérifiées que cinquante
 recopiées.
 
+Et pour la veille au soir, nos
+[10 tables parisiennes pour un dîner à deux](../restaurant-romantique-paris/).
+
 Pour le reste de la semaine et à prix comparable, nos
 [8 meilleures adresses ramen de Paris](../meilleur-ramen-paris/).
 

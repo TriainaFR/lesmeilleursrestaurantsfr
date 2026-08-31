@@ -367,6 +367,9 @@ Un prix qui bouge, un jour de fermeture qui change, une adresse qui passe la mai
 [25 meilleurs restaurants de Paris](../meilleurs-restaurants-paris/), et pour le
 week-end, notre guide du [meilleur brunch à Paris](../meilleur-brunch-paris/).
 
+À l'opposé du comptoir, nos
+[10 tables parisiennes pour un dîner à deux](../restaurant-romantique-paris/).
+
 À l'échelle du pays, le
 [palmarès des 15 meilleurs restaurants de France](../meilleurs-restaurants-france/).
 Sur d'autres formats de table serrée, nos
