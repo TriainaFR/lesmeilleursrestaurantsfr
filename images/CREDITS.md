@@ -60,23 +60,27 @@ sans délai sur simple demande de l'établissement.
 
 | Fichier | Sujet | Crédit | Source |
 |---|---|---|---|
+| `off-anema` | Anema, la salle | Anema, hôtel Saint-Julien | [source](https://hotel-saint-julien-biarritz.fr/) |
 | `off-abel` | Café Comptoir Abel, la devanture | Office de tourisme de Lyon | [source](https://www.visiterlyon.com/se-regaler/restaurants-et-gastronomie/label-bouchons-lyonnais/cafe-comptoir-abel) |
 | `off-abel-salle` | Café Comptoir Abel, un salon | Office de tourisme de Lyon | [source](https://www.visiterlyon.com/se-regaler/restaurants-et-gastronomie/label-bouchons-lyonnais/cafe-comptoir-abel) |
 | `off-lobut` | Café Lobut, la salle | Café Lobut | [source](https://www.cafe-lobut.fr/) |
 | `off-tetedoie` | Christian Têtedoie, la salle panoramique | Christian Têtedoie | [source](https://www.tetedoie.com/) |
 | `off-cinqmains` | Cinq Mains, la salle | Cinq Mains | [source](https://www.cinqmains.fr/) |
 | `off-daniel-denise` | Daniel &amp; Denise Saint-Jean, en cuisine | Office de tourisme de Lyon | [source](https://www.visiterlyon.com/se-regaler/restaurants-et-gastronomie/label-bouchons-lyonnais/daniel-et-denise-saint-jean) |
+| `off-dialogues` | Dialogues, des assiettes | Dialogues | [source](https://lefooding.com/restaurants/dialogues) |
 | `off-inima` | Inima, une assiette | Inima | [source](https://www.inimarestaurant.com/) |
 | `off-oiseaubleu` | L'Oiseau Bleu, la salle | L'Oiseau Bleu | [source](https://www.loiseaubleu.fr/) |
 | `off-mercerie` | La Mercerie, la salle | La Mercerie | [source](https://www.lamerceriemarseille.com/) |
 | `off-la-meuniere` | La Meunière, la salle | La Meunière | [source](https://www.lameuniere.fr/) |
 | `off-brazier` | La Mère Brazier, la salle | La Mère Brazier | [source](https://lamerebrazier.fr/) |
+| `off-petite-plage` | La Petite Plage, la salle | La Petite Plage, Le Talaia MGallery | [source](https://www.letalaia.com/restaurant-bar) |
 | `off-sully` | Le Bouchon Sully, le service | Office de tourisme de Lyon | [source](https://www.visiterlyon.com/se-regaler/restaurants-et-gastronomie/label-bouchons-lyonnais/le-bouchon-sully) |
 | `off-des-filles` | Le Bouchon des Filles, une assiette | Le Bouchon des Filles | [source](https://lebouchondesfilles.fr/) |
 | `off-neuvieme` | Le Neuvième Art, une assiette | Le Neuvième Art | [source](https://leneuviemeart.com/) |
 | `off-poelon` | Le Poêlon d'Or, la salle | Le Poêlon d'Or | [source](https://www.lepoelondor-restaurant.fr/) |
 | `off-pressoir` | Le Pressoir d'Argent, la salle | Le Pressoir d'Argent Gordon Ramsay | [source](https://bordeaux.intercontinental.com/) |
 | `off-adrets` | Les Adrets, la devanture | Les Adrets | [source](http://les-adrets.com/) |
+| `off-enfants-marche` | Les Enfants du Marché, le comptoir | Les Enfants du Marché | [source](https://www.lesenfantsdumarche.fr/) |
 | `off-clovis` | Maison Clovis, une assiette | Maison Clovis | [source](https://maisonclovis.com/) |
 | `off-maison-nouvelle` | Maison Nouvelle, une table | Maison Nouvelle | [source](https://maison-nouvelle.fr/) |
 | `off-kennedy` | Poissonnerie Kennedy, la devanture | Poissonnerie Kennedy | [source](https://poissonneriekennedy.com/) |

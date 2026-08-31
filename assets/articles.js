@@ -36,6 +36,12 @@
    Virgule, deux-points ou point-virgule a la place. Le build le verifie.
    ========================================================================== */
 window.ARTICLES = [
+  {slug:"meilleur-restaurant-biarritz", cat:"Villes",
+   title:"Les 6 meilleures tables de Biarritz en 2026",
+   dest:"Biarritz", region:"Pays basque", date:"2026-08-31", reading:9,
+   url:"meilleur-restaurant-biarritz/", photo:"images/off-petite-plage.jpg",
+   auteur:"lucas-lecoq",
+   recit:"Deux ouvertures de l'été 2025 ont rebattu la carte de la ville."},
   {slug:"meilleurs-restaurants-bordeaux", cat:"Villes",
    title:"Les 8 meilleurs restaurants de Bordeaux en 2026",
    dest:"Bordeaux", region:"Bordeaux", date:"2026-08-31", reading:11,

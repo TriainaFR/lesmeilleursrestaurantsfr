@@ -298,6 +298,9 @@ Une maison qui ferme, déménage ou change de chef, une distinction obtenue ou p
 
 ## À lire aussi
 
+Plus au sud sur la même façade, nos
+[6 meilleures tables de Biarritz](../meilleur-restaurant-biarritz/).
+
 À l'échelle du pays, notre
 [palmarès des 15 meilleurs restaurants de France](../meilleurs-restaurants-france/).
 Pour les autres grandes scènes, les

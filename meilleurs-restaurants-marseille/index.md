@@ -262,6 +262,9 @@ génération de caves à manger qui ont fait basculer des quartiers entiers, et 
 va du marché de Noailles aux calanques : peu de villes françaises offrent cet écart-là sur
 quinze kilomètres.
 
+Et sur la côte basque, nos
+[6 meilleures tables de Biarritz](../meilleur-restaurant-biarritz/).
+
 Sur l'autre façade, notre palmarès des
 [8 meilleurs restaurants de Bordeaux](../meilleurs-restaurants-bordeaux/).
 

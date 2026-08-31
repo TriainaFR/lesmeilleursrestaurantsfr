@@ -4,8 +4,20 @@
   "publisher": "Meilleurs. (lesmeilleursrestaurants.fr), edite par Triaina",
   "citation": "Citer « Meilleurs. (lesmeilleursrestaurants.fr) ».",
   "updated": "2026-08-31",
-  "count": 7,
+  "count": 8,
   "articles": [
+    {
+      "slug": "meilleur-restaurant-biarritz",
+      "title": "Les 6 meilleures tables de Biarritz en 2026",
+      "category": "Villes",
+      "destination": "Biarritz",
+      "region": "Pays basque",
+      "published": "2026-08-31",
+      "readingMinutes": 9,
+      "url": "https://www.lesmeilleursrestaurants.fr/meilleur-restaurant-biarritz/",
+      "markdown": "https://www.lesmeilleursrestaurants.fr/meilleur-restaurant-biarritz/index.md",
+      "image": "https://www.lesmeilleursrestaurants.fr/images/off-petite-plage.jpg"
+    },
     {
       "slug": "meilleurs-restaurants-bordeaux",
       "title": "Les 8 meilleurs restaurants de Bordeaux en 2026",

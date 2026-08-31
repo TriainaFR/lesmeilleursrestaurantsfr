@@ -472,6 +472,10 @@ Le troisième tient dans un écart. Guy Savoy est premier mondial à La Liste et
 Michelin. Deux classements de référence, deux verdicts opposés sur la même maison, la même année.
 C'est la meilleure raison de lire plusieurs guides plutôt qu'un seul.
 
+Sur la côte basque, nos
+[6 meilleures tables de Biarritz](../meilleur-restaurant-biarritz/), où deux ouvertures
+de l'été 2025 ont changé la donne.
+
 Côté Gironde, notre palmarès des
 [8 meilleurs restaurants de Bordeaux](../meilleurs-restaurants-bordeaux/) relève la
 nouvelle étoile de l'année et la fermeture d'une table à deux étoiles.

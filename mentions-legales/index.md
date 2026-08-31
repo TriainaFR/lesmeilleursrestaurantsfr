@@ -112,6 +112,8 @@ retrait d'une image peut nous écrire : elle est retirée sans délai.
 Photographies d'établissement
 SujetCrédit
 
+Anema, la salleAnema, hôtel Saint-Julien
+
 Café Comptoir Abel, la devantureOffice de tourisme de Lyon
 
 Café Comptoir Abel, un salonOffice de tourisme de Lyon
@@ -124,6 +126,8 @@ Cinq Mains, la salleCinq Mains
 
 Daniel & Denise Saint-Jean, en cuisineOffice de tourisme de Lyon
 
+Dialogues, des assiettesDialogues
+
 Inima, une assietteInima
 
 L'Oiseau Bleu, la salleL'Oiseau Bleu
@@ -133,6 +137,8 @@ La Mercerie, la salleLa Mercerie
 La Meunière, la salleLa Meunière
 
 La Mère Brazier, la salleLa Mère Brazier
+
+La Petite Plage, la salleLa Petite Plage, Le Talaia MGallery
 
 Le Bouchon Sully, le serviceOffice de tourisme de Lyon
 
@@ -145,6 +151,8 @@ Le Poêlon d'Or, la salleLe Poêlon d'Or
 Le Pressoir d'Argent, la salleLe Pressoir d'Argent Gordon Ramsay
 
 Les Adrets, la devantureLes Adrets
+
+Les Enfants du Marché, le comptoirLes Enfants du Marché
 
 Maison Clovis, une assietteMaison Clovis
 
