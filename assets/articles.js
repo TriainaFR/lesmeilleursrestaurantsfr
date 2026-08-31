@@ -36,6 +36,12 @@
    Virgule, deux-points ou point-virgule a la place. Le build le verifie.
    ========================================================================== */
 window.ARTICLES = [
+  {slug:"bouchons-lyonnais", cat:"Guide",
+   title:"Les 10 meilleurs bouchons lyonnais en 2026",
+   dest:"Lyon", region:"Lyon", date:"2026-08-31", reading:13,
+   url:"bouchons-lyonnais/", photo:"images/eta-bouchon-merciere.jpg",
+   auteur:"lucas-lecoq",
+   recit:"Deux labels concurrents, et quatre des plus grandes maisons qui n'en portent aucun."},
   {slug:"meilleur-brunch-paris", cat:"Guide",
    title:"Meilleur brunch à Paris : 12 adresses en 2026",
    dest:"Paris", region:"Paris", date:"2026-08-31", reading:12,

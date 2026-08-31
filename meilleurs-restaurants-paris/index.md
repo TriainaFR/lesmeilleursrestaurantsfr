@@ -768,6 +768,10 @@ Pour la matinée plutôt que le service du soir, notre guide du
 [meilleur brunch à Paris](../meilleur-brunch-paris/) réunit douze adresses vérifiées,
 du buffet de Montmartre au salon de thé anglais de la rue des Martyrs.
 
+Pour la table populaire plutôt que la table étoilée, et hors de Paris, notre guide des
+[10 meilleurs bouchons lyonnais](../bouchons-lyonnais/) détaille ce que valent les
+labels lyonnais.
+
 Ce palmarès parisien s'inscrit dans un travail plus large. Le même exercice à l'échelle du pays
 donne [les 15 meilleurs restaurants de France en 2026](../meilleurs-restaurants-france/),
 où quatre des maisons citées ici figurent également. Pour comprendre comment nous jugeons, la page

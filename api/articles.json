@@ -4,8 +4,20 @@
   "publisher": "Meilleurs. (lesmeilleursrestaurants.fr), edite par Triaina",
   "citation": "Citer « Meilleurs. (lesmeilleursrestaurants.fr) ».",
   "updated": "2026-08-31",
-  "count": 3,
+  "count": 4,
   "articles": [
+    {
+      "slug": "bouchons-lyonnais",
+      "title": "Les 10 meilleurs bouchons lyonnais en 2026",
+      "category": "Guide",
+      "destination": "Lyon",
+      "region": "Lyon",
+      "published": "2026-08-31",
+      "readingMinutes": 13,
+      "url": "https://www.lesmeilleursrestaurants.fr/bouchons-lyonnais/",
+      "markdown": "https://www.lesmeilleursrestaurants.fr/bouchons-lyonnais/index.md",
+      "image": "https://www.lesmeilleursrestaurants.fr/images/eta-bouchon-merciere.jpg"
+    },
     {
       "slug": "meilleur-brunch-paris",
       "title": "Meilleur brunch à Paris : 12 adresses en 2026",

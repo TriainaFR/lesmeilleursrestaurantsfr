@@ -113,35 +113,79 @@ SujetAuteurLicence
 
 Arcades de la place des VosgesGFreihalterCC BY-SA 3.0
 
+Arcades de la place des VosgesGFreihalterCC BY-SA 3.0
+
+Arcades de la place des VosgesGFreihalterCC BY-SA 3.0
+
 Avenue Franklin-D.-RooseveltCeletteCC BY-SA 4.0
+
+Avenue Franklin-D.-RooseveltCeletteCC BY-SA 4.0
+
+Avenue Franklin-D.-RooseveltCeletteCC BY-SA 4.0
+
+Avenue Gabriel, Paris 8eChabe01CC BY-SA 4.0
+
+Avenue Gabriel, Paris 8eChabe01CC BY-SA 4.0
+
+Avenue Gabriel, Paris 8eChabe01CC BY-SA 4.0
+
+Avenue Gabriel, Paris 8eChabe01CC BY-SA 4.0
+
+Avenue Gabriel, Paris 8eChabe01CC BY-SA 4.0
+
+Avenue Gabriel, Paris 8eChabe01CC BY-SA 4.0
+
+Avenue Gabriel, Paris 8eChabe01CC BY-SA 4.0
+
+Avenue Gabriel, Paris 8eChabe01CC BY-SA 4.0
+
+Avenue Gabriel, Paris 8eChabe01CC BY-SA 4.0
 
 Avenue Gabriel, Paris 8eChabe01CC BY-SA 4.0
 
 Avenue George-V, Paris 8ePolymagouCC BY-SA 4.0
 
-Avenue Parmentier, Paris 11eChabe01CC BY-SA 4.0
+Avenue George-V, Paris 8ePolymagouCC BY-SA 4.0
+
+Avenue George-V, Paris 8ePolymagouCC BY-SA 4.0
+
+Avenue George-V, Paris 8ePolymagouCC BY-SA 4.0
+
+Avenue George-V, Paris 8ePolymagouCC BY-SA 4.0
+
+Avenue George-V, Paris 8ePolymagouCC BY-SA 4.0
+
+Avenue George-V, Paris 8ePolymagouCC BY-SA 4.0
+
+Avenue George-V, Paris 8ePolymagouCC BY-SA 4.0
+
+Bouchon rue Mercière, LyonLyon-plaisirsCC BY 4.0
 
 Canal Saint-Martin, quai de ValmyFrancisco AnzolaCC BY 2.0
 
 Cathédrale Notre-Dame de ReimsTontonflingueurCC BY-SA 4.0
 
-Jardin du Pré-Catelan, bois de BoulognePolymagouCC BY-SA 4.0
+Cours Tolstoï, VilleurbanneSebleoufCC BY-SA 4.0
 
 Jongieux et son vignoble, SavoieTorsade de PointesCC0
 
 L'Assiette Champenoise, l'entrée du parcG.GaritanCC BY-SA 4.0
 
-L'Assiette Champenoise, la façadeG.GaritanCC BY-SA 4.0
+L'Assiette Champenoise, l'entrée du parcG.GaritanCC BY-SA 4.0
 
 L'Oustau de Baumanière, le masBaumaniereCC BY-SA 4.0
+
+La Meunière, rue Neuve, LyonRomainbeharCC0
 
 La Samaritaine, quai du LouvreArthur WeidmannCC BY-SA 4.0
 
 Le Bois sans Feuilles et le manoir, OuchesTroisgros fannyCC BY-SA 4.0
 
+Le Garet, rue du Garet, LyonRomainbeharCC0
+
 Le chef Régis MarconBenoît PrieurCC0
 
-Maison Pic, salle du restaurantBenoît PrieurCC0
+Le chef Régis MarconBenoît PrieurCC0
 
 Monnaie de Paris, quai de ContiPHGCOMCC BY-SA 3.0
 
@@ -149,61 +193,41 @@ Pavillon Ledoyen, Champs-ÉlyséesGuilhem Vellut from Paris, FranceCC BY 2.0
 
 Quai de Valmy, canal Saint-MartinAlexander Baxevanis from London, UKCC BY 2.0
 
-Rue Balzac, Paris 8ePolymagouCC BY-SA 4.0
+Quenelle de brochet sauce NantuaBenoît PrieurCC0
 
-Rue Faidherbe, Paris 11eChabe01CC BY-SA 4.0
-
-Rue Jean-Richepin, Paris 16eChabe01CC BY-SA 4.0
+Rue Guynemer, Lyon 2eSebleoufCC BY-SA 4.0
 
 Rue Jouffroy-d'Abbans, Paris 17eWikimedia Commons / MuCC BY-SA 3.0
 
-Rue Keller, Paris 11eChabe01CC BY-SA 4.0
-
-Rue La Fayette, Paris 9eMbztCC BY 4.0
-
 Rue Lucien-Sampaix, Paris 10eCoyauCC BY-SA 3.0
 
-Rue Ordener, Paris 18ePolymagouCC BY-SA 4.0
-
-Rue Rennequin, Paris 17eChabe01CC BY-SA 4.0
-
-Rue Rodier, Paris 9eMbztCC BY 4.0
-
-Rue Saint-Ambroise, Paris 11eChabe01CC BY-SA 4.0
+Rue Pizay, Lyon 1erSebleoufCC BY-SA 4.0
 
 Rue Saint-Bernard, Paris 11eMbztCC BY-SA 4.0
 
-Rue Saint-Dominique, Paris 7ePolymagouCC BY-SA 4.0
+Rue Saint-Bernard, Paris 11eMbztCC BY-SA 4.0
 
-Rue Saint-Sauveur, Paris 2eMbztCC BY-SA 4.0
+Rue Sergent-Blandan, Lyon 1erSebleoufCC BY-SA 4.0
+
+Rue Sully, Lyon 6eSebleoufCC BY-SA 4.0
+
+Rue Tramassac, Vieux-LyonRomainbeharCC0
 
 Rue d'Aguesseau, Paris 8eCVBCC BY-SA 4.0
 
-Rue de Longchamp, Paris 16ePolymagouCC BY-SA 4.0
+Rue de Picardie et Carreau du TempleGFreihalterCC BY-SA 4.0
 
 Rue de Picardie et Carreau du TempleGFreihalterCC BY-SA 4.0
 
-Rue de Poissy, Paris 5eChabe01CC BY-SA 4.0
+Rue des Remparts d'Ainay, Lyon 2eSebleoufCC BY-SA 4.0
 
-Rue de Prague, Paris 12eMbztCC BY 4.0
+Rue du Bœuf, Vieux-LyonRomainbeharCC0
 
-Rue de Varenne, Paris 7eCeletteCC BY-SA 4.0
+Terrasse de café, Paris 17eMbztCC BY 4.0
 
-Rue de la Fontaine-au-RoiGFreihalterCC BY-SA 3.0
+Terrasse de café, Paris 17eMbztCC BY 4.0
 
-Rue des Archives, Paris 4ePolymagouCC BY-SA 4.0
-
-Rue des Blancs-Manteaux, MaraisGFreihalterCC BY-SA 3.0
-
-Rue des Martyrs, Paris 9ePolymagouCC BY-SA 4.0
-
-Rue du Château-d'Eau, Paris 10eGFreihalterCC BY-SA 4.0
-
-Rue du Coq-Héron, Paris 1erChabe01CC BY-SA 4.0
-
-Rue du Faubourg-Saint-HonoréCeletteCC BY-SA 4.0
-
-Rue du Pont-Louis-PhilippeChabe01CC BY-SA 4.0
+Terrasse de café, Paris 17eMbztCC BY 4.0
 
 The Peninsula Paris, avenue KléberThomonCC BY-SA 4.0
 

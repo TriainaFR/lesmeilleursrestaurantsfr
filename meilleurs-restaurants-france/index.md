@@ -472,6 +472,10 @@ Le troisième tient dans un écart. Guy Savoy est premier mondial à La Liste et
 Michelin. Deux classements de référence, deux verdicts opposés sur la même maison, la même année.
 C'est la meilleure raison de lire plusieurs guides plutôt qu'un seul.
 
+Lyon tient son propre système, avec ses bouchons et ses deux labels concurrents : notre guide
+des [10 meilleurs bouchons lyonnais](../bouchons-lyonnais/) explique lequel veut dire
+quoi, et pourquoi les maisons les plus recommandées n'en portent souvent aucun.
+
 Sur un registre plus matinal et nettement plus abordable, notre guide du
 [meilleur brunch à Paris](../meilleur-brunch-paris/) passe douze maisons au crible,
 adresse par adresse et tarif par tarif.

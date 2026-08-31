@@ -438,6 +438,10 @@ page et reportées partout où l'adresse est citée.
 
 ## À lire aussi
 
+Hors de Paris, Lyon reste la capitale de la table populaire : notre guide des
+[10 meilleurs bouchons lyonnais](../bouchons-lyonnais/) démêle les deux labels
+concurrents et dit ce qu'ils garantissent vraiment.
+
 Pour sortir du brunch et passer à table, notre palmarès des
 [25 meilleurs restaurants de Paris en 2026](../meilleurs-restaurants-paris/) couvre la
 capitale des palaces aux bistrots de quartier. À l'échelle du pays, le même exercice donne

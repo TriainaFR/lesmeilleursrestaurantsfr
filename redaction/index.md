@@ -39,7 +39,8 @@ note qui se discute ligne à ligne.
 
 Il signe le premier palmarès du média,
 [les 15 meilleurs restaurants de France en 2026](../meilleurs-restaurants-france/),
-qui croise La Liste, le Guide Michelin et Gault&Millau.
+qui croise La Liste, le Guide Michelin et Gault&Millau, ainsi que le guide des
+[10 meilleurs bouchons lyonnais](../bouchons-lyonnais/).
 
 Signe les palmarès, les guides et les enquêtes ·
 [Le contacter →](../contact.html)
