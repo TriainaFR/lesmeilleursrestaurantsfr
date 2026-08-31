@@ -2,13 +2,6 @@
 # Tout le site est ouvert au crawl, y compris aux robots des moteurs de réponse
 # IA. Le média vit d'être lu et cité : rien n'est fermé, rien n'est réservé.
 #
-# ÉTAT ACTUEL, AVANT OUVERTURE : le média n'a encore rien publié, et toutes les
-# pages portent « noindex, follow ». L'exploration reste volontairement autorisée
-# ci-dessous : une page interdite d'accès ne peut pas être lue, donc son noindex
-# ne peut pas être vu. Pour rester hors des index, il faut se laisser lire.
-# Le sitemap est donc vide, et se repeuplera à l'ouverture.
-# Bascule : PRELAUNCH dans tools/build.py.
-#
 # Le sitemap est régénéré par tools/build.py à chaque publication.
 
 User-agent: *

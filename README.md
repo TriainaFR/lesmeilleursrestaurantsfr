@@ -16,8 +16,10 @@ de la page d'accueil affiche donc une annonce d'attente, qui s'efface d'elle-mê
 en CSS, dès que le build injecte de vraies parutions entre les marqueurs
 `<!--S:...-->`.
 
-Le site est aussi en **noindex** avant son ouverture, voir la section dédiée plus
-bas : une vitrine sans contenu n'a rien à faire dans un index.
+Le site est en revanche **ouvert à l'indexation** : les pages portent
+`index, follow` et le `sitemap.xml` déclare les 7 URLs. Le mode pré-lancement,
+qui posait `noindex` partout, se réactive en passant `PRELAUNCH` à `True` dans
+`tools/build.py`.
 
 Un garde-fou reste armé pour la suite. Le build **refuse de construire** s'il
 rencontre un attribut `data-demo` dans le HTML. Ce drapeau sert à marquer un

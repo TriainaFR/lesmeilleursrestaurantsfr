@@ -418,8 +418,12 @@ NOINDEX = re.compile(r'<meta name="robots" content="[^"]*noindex')
 #
 # POUR OUVRIR LE SITE : passer PRELAUNCH a False et relancer le build. Les balises
 # sont retirees et le sitemap se repeuple.
-PRELAUNCH = True
-ROBOTS_TAG = '<meta name="robots" content="noindex, follow">'
+PRELAUNCH = False
+# Hors pre-lancement, la balise est posee explicitement plutot que retiree :
+# « index, follow » est deja le comportement par defaut, mais l'ecrire evite
+# qu'un audit conclue a une balise oubliee, et rend l'intention lisible.
+ROBOTS_TAG = ('<meta name="robots" content="noindex, follow">' if PRELAUNCH
+              else '<meta name="robots" content="index, follow">')
 
 
 def sync_noindex():
@@ -431,7 +435,7 @@ def sync_noindex():
             # Une page d'erreur reste noindex en toutes circonstances.
             continue
         deja = re.search(r'[ \t]*<meta name="robots" content="[^"]*">\n?', s)
-        if PRELAUNCH:
+        if True:
             if deja:
                 if deja.group(0).strip() != ROBOTS_TAG:
                     s = s[:deja.start()] + ROBOTS_TAG + "\n" + s[deja.end():]
@@ -443,13 +447,11 @@ def sync_noindex():
                     fail("pas de meta description ou poser la balise robots : %s" % page)
                     continue
                 s = s[:m.end()] + ROBOTS_TAG + "\n" + s[m.end():]
-        elif deja:
-            s = s[:deja.start()] + s[deja.end():]
         if write(page, old, s):
             touchees += 1
     if touchees:
-        log("balise robots %s sur %d page(s)"
-            % ("posee" if PRELAUNCH else "retiree", touchees))
+        log("balise robots « %s » posee sur %d page(s)"
+            % ("noindex, follow" if PRELAUNCH else "index, follow", touchees))
     if PRELAUNCH:
         log("MODE PRE-LANCEMENT : le site est en noindex, le sitemap reste vide")
 

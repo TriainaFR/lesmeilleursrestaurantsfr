@@ -6,7 +6,7 @@ Le site est structurellement prêt : 8 pages HTML (accueil, sommaire, contact,
 404, méthode, rédaction, mentions légales, confidentialité), chacune doublée de
 sa version Markdown, `tools/build.py` et `tools/indexnow.py` en place, les accès
 machine publiés et les deux configurations de déploiement écrites. Le
-`sitemap.xml` est vide, et c'est voulu : voir la section noindex ci-dessous.
+`sitemap.xml` déclare les 7 URLs du site.
 
 Il est **éditorialement vide, et assumé comme tel** : `assets/articles.js` ne
 contient aucune parution, et chaque section de l'accueil affiche une annonce
@@ -39,20 +39,19 @@ en place pour la suite : il refusera tout nouveau bloc marqué `data-demo`.
 
 ---
 
-## Avant ouverture : le site est en noindex
+## Indexation : ouverte
 
-Toutes les pages portent `<meta name="robots" content="noindex, follow">` et le
-`sitemap.xml` est volontairement vide. Une vitrine sans contenu qui se fait
-indexer part avec une réputation de page vide, et la corriger après coup coûte
-plus cher que de l'éviter.
+Les pages portent `index, follow` et le `sitemap.xml` déclare les 7 URLs. Le
+mode pré-lancement, qui posait `noindex` partout et vidait le sitemap, reste
+disponible : passer `PRELAUNCH` à `True` dans `tools/build.py` et relancer le
+build.
 
-L'exploration reste autorisée dans `robots.txt`, et ce n'est pas une
-contradiction : une page interdite d'accès ne peut pas être lue, donc son
-noindex ne peut pas être vu.
+À garder en tête tant que le catalogue est vide : les moteurs vont découvrir un
+site dont le sommaire n'affiche aucune parution. Les pages de fond (accueil,
+méthode, rédaction, légales) portent, elles, un vrai contenu.
 
-**Pour ouvrir le site** : passer `PRELAUNCH` à `False` dans `tools/build.py`,
-relancer `npm run build`. Les balises sont retirées, le sitemap se repeuple, et
-`npm run indexnow` peut alors prévenir les moteurs.
+Une fois le site déployé, déclarer le domaine dans Search Console et Bing
+Webmaster Tools, puis y soumettre le sitemap.
 
 ---
 

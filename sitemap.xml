@@ -1,4 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Accueil et sommaire -->
+  <url>
+    <loc>https://www.lesmeilleursrestaurants.fr/</loc>
+    <lastmod>2026-08-31</lastmod>
+  </url>
+  <url>
+    <loc>https://www.lesmeilleursrestaurants.fr/articles.html</loc>
+    <lastmod>2026-08-31</lastmod>
+  </url>
 
+  <!-- Le media -->
+  <url>
+    <loc>https://www.lesmeilleursrestaurants.fr/notre-methode/</loc>
+    <lastmod>2026-08-31</lastmod>
+  </url>
+  <url>
+    <loc>https://www.lesmeilleursrestaurants.fr/redaction/</loc>
+    <lastmod>2026-08-31</lastmod>
+  </url>
+
+  <!-- Contact et mentions -->
+  <url>
+    <loc>https://www.lesmeilleursrestaurants.fr/contact.html</loc>
+    <lastmod>2026-08-31</lastmod>
+  </url>
+  <url>
+    <loc>https://www.lesmeilleursrestaurants.fr/mentions-legales/</loc>
+    <lastmod>2026-08-31</lastmod>
+  </url>
+  <url>
+    <loc>https://www.lesmeilleursrestaurants.fr/confidentialite/</loc>
+    <lastmod>2026-08-31</lastmod>
+  </url>
 </urlset>
