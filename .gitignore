@@ -22,3 +22,7 @@ node_modules/
 *~
 .idea/
 .vscode/
+
+# Configuration locale du serveur de previsualisation : elle porte un chemin
+# absolu propre a la machine, elle n' a donc rien a faire dans le depot.
+.claude/launch.json

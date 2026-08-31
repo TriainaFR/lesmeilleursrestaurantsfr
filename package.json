@@ -7,7 +7,7 @@
   "author": "Triaina",
   "license": "UNLICENSED",
   "scripts": {
-    "serve": "python3 -m http.server 8788",
+    "serve": "python3 tools/serve.py",
     "build": "uv run --with pillow python tools/build.py",
     "check": "uv run --with pillow python tools/build.py --check",
     "indexnow": "python3 tools/indexnow.py --changed",
