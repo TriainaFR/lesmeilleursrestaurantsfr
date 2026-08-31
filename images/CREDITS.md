@@ -66,6 +66,8 @@ sans délai sur simple demande de l'établissement.
 | `off-tetedoie` | Christian Têtedoie, la salle panoramique | Christian Têtedoie | [source](https://www.tetedoie.com/) |
 | `off-cinqmains` | Cinq Mains, la salle | Cinq Mains | [source](https://www.cinqmains.fr/) |
 | `off-daniel-denise` | Daniel &amp; Denise Saint-Jean, en cuisine | Office de tourisme de Lyon | [source](https://www.visiterlyon.com/se-regaler/restaurants-et-gastronomie/label-bouchons-lyonnais/daniel-et-denise-saint-jean) |
+| `off-inima` | Inima, une assiette | Inima | [source](https://www.inimarestaurant.com/) |
+| `off-oiseaubleu` | L'Oiseau Bleu, la salle | L'Oiseau Bleu | [source](https://www.loiseaubleu.fr/) |
 | `off-mercerie` | La Mercerie, la salle | La Mercerie | [source](https://www.lamerceriemarseille.com/) |
 | `off-la-meuniere` | La Meunière, la salle | La Meunière | [source](https://www.lameuniere.fr/) |
 | `off-brazier` | La Mère Brazier, la salle | La Mère Brazier | [source](https://lamerebrazier.fr/) |
@@ -73,14 +75,17 @@ sans délai sur simple demande de l'établissement.
 | `off-des-filles` | Le Bouchon des Filles, une assiette | Le Bouchon des Filles | [source](https://lebouchondesfilles.fr/) |
 | `off-neuvieme` | Le Neuvième Art, une assiette | Le Neuvième Art | [source](https://leneuviemeart.com/) |
 | `off-poelon` | Le Poêlon d'Or, la salle | Le Poêlon d'Or | [source](https://www.lepoelondor-restaurant.fr/) |
+| `off-pressoir` | Le Pressoir d'Argent, la salle | Le Pressoir d'Argent Gordon Ramsay | [source](https://bordeaux.intercontinental.com/) |
 | `off-adrets` | Les Adrets, la devanture | Les Adrets | [source](http://les-adrets.com/) |
 | `off-clovis` | Maison Clovis, une assiette | Maison Clovis | [source](https://maisonclovis.com/) |
 | `off-kennedy` | Poissonnerie Kennedy, la devanture | Poissonnerie Kennedy | [source](https://poissonneriekennedy.com/) |
 | `off-prairial` | Prairial, la salle | Prairial | [source](https://www.prairial-restaurant.fr/) |
 | `off-premices` | Prémices, la salle | Prémices | [source](https://premicesmarseille.com/) |
 | `off-regain` | Regain, la salle | Regain | [source](https://regain-marseille.com/) |
+| `off-solena` | Soléna, une assiette | Soléna | [source](https://solena-restaurant.com/) |
 | `off-substrat` | Substrat, une assiette | Substrat | [source](https://www.substrat-restaurant.com/) |
 | `off-tuba` | Tuba Club, la vue sur l'anse | Tuba Club | [source](https://tuba-club.com/) |
+| `off-zephirine` | Zéphirine, une table | Zéphirine | [source](https://zephirine.fr/) |
 
 ## 3. Photographies d'illustration des articles, Wikimedia Commons
 

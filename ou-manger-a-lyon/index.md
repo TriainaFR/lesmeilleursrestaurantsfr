@@ -476,6 +476,9 @@ Une maison qui ferme, déménage ou change de chef, une distinction obtenue ou p
 
 ## À lire aussi
 
+Et à Bordeaux, notre palmarès des
+[8 meilleurs restaurants de la ville](../meilleurs-restaurants-bordeaux/).
+
 Sur la troisième grande scène française, notre palmarès des
 [8 meilleurs restaurants de Marseille](../meilleurs-restaurants-marseille/).
 

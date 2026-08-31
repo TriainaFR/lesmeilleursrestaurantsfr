@@ -4,8 +4,20 @@
   "publisher": "Meilleurs. (lesmeilleursrestaurants.fr), edite par Triaina",
   "citation": "Citer « Meilleurs. (lesmeilleursrestaurants.fr) ».",
   "updated": "2026-08-31",
-  "count": 6,
+  "count": 7,
   "articles": [
+    {
+      "slug": "meilleurs-restaurants-bordeaux",
+      "title": "Les 8 meilleurs restaurants de Bordeaux en 2026",
+      "category": "Villes",
+      "destination": "Bordeaux",
+      "region": "Bordeaux",
+      "published": "2026-08-31",
+      "readingMinutes": 11,
+      "url": "https://www.lesmeilleursrestaurants.fr/meilleurs-restaurants-bordeaux/",
+      "markdown": "https://www.lesmeilleursrestaurants.fr/meilleurs-restaurants-bordeaux/index.md",
+      "image": "https://www.lesmeilleursrestaurants.fr/images/off-pressoir.jpg"
+    },
     {
       "slug": "meilleurs-restaurants-marseille",
       "title": "Les 8 meilleurs restaurants de Marseille en 2026",

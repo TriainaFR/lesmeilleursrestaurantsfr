@@ -36,6 +36,12 @@
    Virgule, deux-points ou point-virgule a la place. Le build le verifie.
    ========================================================================== */
 window.ARTICLES = [
+  {slug:"meilleurs-restaurants-bordeaux", cat:"Villes",
+   title:"Les 8 meilleurs restaurants de Bordeaux en 2026",
+   dest:"Bordeaux", region:"Bordeaux", date:"2026-08-31", reading:11,
+   url:"meilleurs-restaurants-bordeaux/", photo:"images/off-pressoir.jpg",
+   auteur:"lucas-lecoq",
+   recit:"Une nouvelle étoile, et une table à deux étoiles qui a fermé sans faire de bruit."},
   {slug:"meilleurs-restaurants-marseille", cat:"Villes",
    title:"Les 8 meilleurs restaurants de Marseille en 2026",
    dest:"Marseille", region:"Marseille", date:"2026-08-31", reading:11,

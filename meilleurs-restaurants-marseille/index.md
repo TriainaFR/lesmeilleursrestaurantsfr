@@ -262,6 +262,9 @@ génération de caves à manger qui ont fait basculer des quartiers entiers, et 
 va du marché de Noailles aux calanques : peu de villes françaises offrent cet écart-là sur
 quinze kilomètres.
 
+Sur l'autre façade, notre palmarès des
+[8 meilleurs restaurants de Bordeaux](../meilleurs-restaurants-bordeaux/).
+
 Pour situer ces adresses à l'échelle nationale, notre
 [palmarès des 15 meilleurs restaurants de France](../meilleurs-restaurants-france/).
 Pour comparer avec les deux autres grandes scènes, les

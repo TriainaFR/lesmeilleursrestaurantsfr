@@ -124,6 +124,10 @@ Cinq Mains, la salleCinq Mains
 
 Daniel & Denise Saint-Jean, en cuisineOffice de tourisme de Lyon
 
+Inima, une assietteInima
+
+L'Oiseau Bleu, la salleL'Oiseau Bleu
+
 La Mercerie, la salleLa Mercerie
 
 La Meunière, la salleLa Meunière
@@ -138,6 +142,8 @@ Le Neuvième Art, une assietteLe Neuvième Art
 
 Le Poêlon d'Or, la salleLe Poêlon d'Or
 
+Le Pressoir d'Argent, la salleLe Pressoir d'Argent Gordon Ramsay
+
 Les Adrets, la devantureLes Adrets
 
 Maison Clovis, une assietteMaison Clovis
@@ -150,9 +156,13 @@ Prémices, la sallePrémices
 
 Regain, la salleRegain
 
+Soléna, une assietteSoléna
+
 Substrat, une assietteSubstrat
 
 Tuba Club, la vue sur l'anseTuba Club
+
+Zéphirine, une tableZéphirine
 
 Les photographies illustrant nos palmarès viennent également de Wikimedia
 Commons. Leur licence impose de citer leur auteur, ce qui est fait sous chaque
