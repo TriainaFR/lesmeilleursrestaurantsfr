@@ -42,6 +42,27 @@ de la ville, jamais celui d'un restaurant.
 **Licence Unsplash** : usage gratuit, y compris commercial, sans autorisation
 préalable ni attribution obligatoire. Téléchargées le 31 août 2026.
 
+## 3. Portraits de la rédaction
+
+| Fichier | Sujet | Origine | À faire |
+|---|---|---|---|
+| `elodie-limouzin` | Portrait d'Elodie Limouzin | Repris de sa page auteur sur yonder.fr, sur instruction de l'éditeur | **Remplacer par une photographie fournie par l'intéressée** |
+
+Trois réserves sur ce fichier, à lever avant que le site ne prenne de l'audience :
+
+1. **Droits non établis.** L'image vient du site d'un autre média, sans mention de
+   crédit ni de licence. Rien n'atteste qu'elle est libre de republication. Le plus
+   simple est de demander son portrait à l'intéressée, qui en détient les droits ou
+   sait qui les détient.
+2. **Définition insuffisante.** L'original fait 386 x 360 pixels, ce qui est faible
+   pour un écran moderne, et le fichier publié est un recadrage carré de 360 pixels.
+3. **Ce n'est pas un portrait de presse.** Photographie de vacances, en extérieur,
+   lunettes de soleil, sujet de trois quarts dos. Sur une page qui engage la
+   crédibilité d'une signature, un portrait fait pour cela vaut mieux.
+
+Les autres membres de la rédaction sont représentés par un bloc typographique
+d'initiales, tant qu'ils n'ont pas fourni de photographie.
+
 ## Règle éditoriale, à ne pas contourner
 
 Aucune de ces images ne montre un établissement que le média aurait visité ou

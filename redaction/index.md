@@ -40,20 +40,47 @@ note qui se discute ligne à ligne.
 Signe les palmarès, les guides et les enquêtes ·
 [Le contacter →](../contact.html)
 
+02
+
+### [Charles Bidaud](charles-bidaud/)
+
+Rédacteur
+
+Charles Bidaud signe des guides, des enquêtes et des classements de tables. Sa
+présentation détaillée sera complétée par ses soins : le média ne publie pas une
+biographie qu'il n'a pas recueillie.
+
+[Sa page →](charles-bidaud/) ·
+[LinkedIn](https://www.linkedin.com/in/charles-bidaud/)
+
+03
+
+### [Elodie Limouzin](elodie-limouzin/)
+
+Rédactrice
+
+Venue de l'hôtellerie et du voyage, Elodie Limouzin couvre les tables, les belles
+maisons et les villes. L'image est chez elle un second métier, ce qui n'est pas un
+détail pour un média qui devra photographier lui-même les adresses qu'il visite.
+
+[Sa page →](elodie-limouzin/) ·
+[LinkedIn](https://www.linkedin.com/in/elodie-limouzin/)
+
 ## La rédaction se constitue
 
-Il serait facile de remplir cette page. Trois portraits achetés sur une banque d'images,
-trois noms plausibles, trois biographies écrites en une heure, et le média aurait soudain
+Il serait facile de gonfler cette page. Des portraits achetés sur une banque d'images,
+des noms plausibles, des biographies écrites en une heure, et le média aurait soudain
 l'épaisseur d'une institution. Beaucoup de sites de classement font exactement cela. Nous ne le
-ferons pas.
+ferons pas : les trois signatures ci-dessus sont des personnes réelles, et leurs présentations
+resteront volontairement courtes tant qu'elles ne les auront pas écrites elles-mêmes.
 
 Ce que vous ne trouverez pas ici
 Aucune signature fictive, aucun pseudonyme destiné à faire nombre, aucun portrait que nous
 n'aurions pas pris, aucune citation attribuée à quelqu'un qui n'existe pas. Cette page ne
-comptera de nouveaux noms que le jour où ces personnes auront réellement rejoint la rédaction,
-et chacune sera présentée avec ce qu'elle a écrit, pas avec ce que nous aimerions qu'elle
-soit. Le bloc typographique ci-dessus tient lieu de portrait pour la même raison : nous
-préférons des initiales assumées à une photographie arrangée.
+compte de nouveaux noms que lorsque ces personnes ont réellement rejoint la rédaction, et
+chacune sera présentée avec ce qu'elle a écrit, pas avec ce que nous aimerions qu'elle soit.
+Les blocs d'initiales tiennent lieu de portrait tant que l'intéressé ne nous a pas fourni le
+sien : nous préférons des initiales assumées à une photographie arrangée.
 
 La rédaction se constitue, et les candidatures sont ouvertes. Le média cherche des
 signatures capables d'écrire une note et de la défendre, pas de rédiger des listes. Voici les
