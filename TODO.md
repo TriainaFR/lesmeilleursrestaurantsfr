@@ -74,27 +74,33 @@ L'image de partage (`og:image`) est en place **sur la page d'accueil seulement**
 Les sept autres pages n'en déclarent pas : un partage de `/notre-methode/` ou de
 `/contact.html` affiche encore une carte sans visuel. À compléter.
 
-### 2. Brancher l'envoi du formulaire de contact
+### 2. Restreindre le domaine du compte EmailJS
 
-`contact.html` porte un formulaire complet, piloté par `assets/app.js`. Le point
-de branchement y est documenté et **volontairement laissé vide** :
+L'envoi du formulaire est branché sur EmailJS depuis le 1er septembre 2026. Le
+SDK est chargé dans `contact.html` et les trois identifiants sont dans
+`assets/app.js` :
 
 ```js
-var ENDPOINT = '';    // vide = envoi non configuré
+var EMAILJS = { publicKey:'…', service:'service_…', template:'template_…' };
 ```
 
-Tant qu'il l'est, le formulaire affiche un panneau qui dit que le message n'est
-pas parti et invite le visiteur à copier son texte : aucune adresse de repli
-n'est publiée, il n'y en a pas. **C'est donc un point bloquant, pas un confort :
-tant que l'envoi n'est pas branché, le site n'a aucune voie de contact
-opérante.** Deux voies sont décrites dans le fichier : un service de formulaire
-recevant un POST JSON, ou EmailJS (SDK à ajouter dans `contact.html`, appel à
-décommenter dans `send()`).
+Ces trois valeurs partent dans le navigateur de chaque visiteur : c'est le
+fonctionnement normal d'EmailJS, les masquer ne protégerait rien. Ce qui protège
+est ailleurs, et **reste à faire** : dans le tableau de bord EmailJS, *Account,
+Security, Allowed domains*, n'autoriser que `lesmeilleursrestaurants.fr` et
+`www.lesmeilleursrestaurants.fr`. Sans cette restriction, n'importe qui peut
+reprendre les identifiants et vider le quota du compte depuis un autre site.
 
-Après branchement, vérifier trois choses : le message de confirmation, le repli
-`mailto:` quand l'envoi échoue, et surtout qu'**aucune clé ni aucun identifiant
-réel n'est commité en clair**. Une clé publique EmailJS reste une donnée de
-configuration : la traiter comme telle et la documenter, pas la disséminer.
+Deux autres points à contrôler côté EmailJS : l'adresse destinataire du modèle
+`template_4n5km5l`, qui doit être une boîte réellement relevée, et les noms de
+variables du modèle. Le code envoie chaque valeur sous plusieurs noms
+(`name` et `from_name`, `email` et `reply_to`…) pour couvrir les modèles
+standards, mais un modèle qui attendrait un nom exotique recevrait un courriel
+troué.
+
+Si l'envoi tombe en panne, le formulaire ne fait pas semblant : il affiche un
+panneau qui dit que le message n'est pas parti et invite à copier le texte.
+Aucune adresse de repli n'est publiée, il n'y en a pas.
 
 ### 3. Générer la clé IndexNow
 

@@ -399,34 +399,41 @@ var REDUCE = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 })();
 
 /* ============================================================================
-   CONTACT, contact.html : validation, envoi, repli courriel.
+   CONTACT, contact.html : validation et envoi du formulaire.
 
-   POINT DE BRANCHEMENT DE L'ENVOI, à configurer avant la mise en ligne.
-   Deux montages possibles, aucun n'est câblé aujourd'hui :
+   L'envoi passe par EmailJS. Le SDK est chargé dans contact.html, avant ce
+   fichier :
+     <script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
 
-     1. Backend maison ou service de formulaire (worker, Formspree, Netlify
-        Forms...) : renseigner ENDPOINT avec l'URL qui reçoit un POST JSON
-        {name, email, subject, message}. Toute réponse 2xx vaut accusé de
-        réception, tout le reste bascule sur le repli courriel.
+   La clé publique EmailJS est faite pour vivre dans le navigateur : elle est
+   lisible de tous, c'est son rôle, et la masquer ne protégerait rien. Ce qui
+   protège, c'est la restriction de domaine à activer dans le tableau de bord
+   EmailJS (Account, Security, Allowed domains) : sans elle, n'importe qui peut
+   reprendre ces trois identifiants et faire partir des messages depuis un autre
+   site, sur le quota du compte.
 
-     2. EmailJS : ajouter le SDK dans contact.html,
-        <script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
-        puis, ici même, emailjs.init({publicKey:'…'}) et décommenter l'appel
-        emailjs.send('service_…', 'template_…', …) dans send().
+   ENDPOINT reste disponible pour un montage différent, backend maison ou
+   service de formulaire recevant un POST JSON {name, email, subject, message} :
+   s'il est renseigné, il prend le pas sur EmailJS.
 
-   Aucun identifiant de service n'est écrit dans ce dépôt : le fichier est
-   public, une clé y serait lisible de tous.
-
-   Tant que rien n'est configuré, le formulaire n'échoue pas en silence : il
+   Si les deux voies échouent, le formulaire n'échoue pas en silence : il
    affiche un panneau qui dit clairement que le message n'est pas parti, et
    invite le visiteur à copier son texte avant de quitter la page. Aucune
-   adresse de repli n'est publiée : il n'y en a pas.
+   adresse de repli n'est publiée, il n'y en a pas.
    ========================================================================== */
 (function(){
   var form = document.getElementById('contact-form');
   if(!form) return;
 
-  var ENDPOINT = '';                                  // vide = envoi non configuré
+  var ENDPOINT = '';                                  // renseigné = prend le pas sur EmailJS
+  var EMAILJS  = {
+    publicKey : 'E7cFvIw50eYZ8er2v',
+    service   : 'service_urokw1i',
+    template  : 'template_4n5km5l'
+  };
+  if(window.emailjs && EMAILJS.publicKey){
+    try { emailjs.init({ publicKey: EMAILJS.publicKey }); } catch(e){}
+  }
 
   var status   = document.getElementById('form-status');
   var btn      = document.getElementById('form-send');
@@ -487,13 +494,18 @@ var REDUCE = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
         return r;
       });
     }
-    /* EmailJS, à décommenter une fois le service et le modèle créés :
-    return emailjs.send('service_a_renseigner', 'template_a_renseigner', {
-      name: d.name, from_name: d.name,
-      email: d.email, from_email: d.email, reply_to: d.email,
-      subject: d.subject, title: d.subject, message: d.message
-    });
-    */
+    if(window.emailjs && EMAILJS.service && EMAILJS.template){
+      /* Les mêmes valeurs sont envoyées sous plusieurs noms : selon le modèle
+         créé côté EmailJS, la variable attendue s'appelle name ou from_name,
+         email ou reply_to. Une variable inutilisée par le modèle est ignorée,
+         une variable manquante laisse un trou dans le courriel reçu. */
+      return emailjs.send(EMAILJS.service, EMAILJS.template, {
+        name: d.name, from_name: d.name, user_name: d.name,
+        email: d.email, from_email: d.email, user_email: d.email, reply_to: d.email,
+        subject: d.subject, title: d.subject,
+        message: d.message, user_message: d.message
+      });
+    }
     return Promise.reject(new Error('envoi non configuré'));
   }
 
