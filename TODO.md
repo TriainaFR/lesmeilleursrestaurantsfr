@@ -102,25 +102,22 @@ Si l'envoi tombe en panne, le formulaire ne fait pas semblant : il affiche un
 panneau qui dit que le message n'est pas parti et invite à copier le texte.
 Aucune adresse de repli n'est publiée, il n'y en a pas.
 
-### 3. Générer la clé IndexNow
+### 3. IndexNow, fait le 1er septembre 2026
 
-**Aucune clé n'est fournie dans ce dépôt et il ne faut pas en inventer une** :
-une clé n'a de valeur que si le fichier qui la porte est réellement servi à la
-racine du domaine, puisque c'est la preuve de propriété. À faire une fois, à la
-racine du projet :
+La clé est générée et déployée : `1c97407f926da3085d2f1f463a3fb2b7.txt`, à la
+racine du dépôt et servi en 200 à la racine du domaine. **Ne jamais le supprimer
+ni le renommer** : c'est la preuve de propriété, et sans lui toute soumission
+repart en 403.
+
+Les 24 URLs du sitemap ont été soumises, acceptées en 202 par le relais partagé
+et par Bing. Rien à refaire en bloc : après chaque publication, il suffit de
 
 ```bash
-K=$(python3 -c "import secrets; print(secrets.token_hex(16))")
-echo -n "$K" > "$K.txt"
+npm run indexnow          # pages modifiées au dernier commit
 ```
 
-Le fichier `<clé>.txt` doit contenir exactement la clé, sans saut de ligne, être
-commité, et répondre en 200 sur
-`https://www.lesmeilleursrestaurants.fr/<clé>.txt`. `tools/indexnow.py` cherche
-ce fichier à la racine, vérifie son contenu puis sa présence en ligne, et
-s'arrête plutôt que d'envoyer dans le vide. Tant qu'il n'est pas déployé, Bing
-refuse toute soumission avec un 403 : ne lancer `npm run indexnow` qu'après la
-mise en ligne.
+et toujours **après** la mise en ligne, pas avant : le moteur relit le fichier
+de clé et les URLs soumises au moment de l'appel.
 
 ### 4. Publier les premiers articles
 
