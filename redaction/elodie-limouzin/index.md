@@ -29,6 +29,7 @@ rédigés, et le portrait remplacé par une photographie fournie par ses soins.
 
 ## Ce qu'elle signe
 
+- [Restaurant anniversaire à Paris : 8 tables en 2026](../../restaurant-anniversaire-paris/), 1 sept. 2026.
 - [Meilleur ramen à Paris : 8 adresses en 2026](../../meilleur-ramen-paris/), 31 août 2026.
 - [Les 8 meilleures tables de Strasbourg en 2026](../../meilleur-restaurant-strasbourg/), 31 août 2026.
 - [Les 25 meilleurs restaurants de Paris en 2026](../../meilleurs-restaurants-paris/), 31 août 2026.

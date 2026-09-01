@@ -386,6 +386,9 @@ grand nombre de fiches donnant des rues, des arrondissements ou des jours de ser
 C'est la raison d'être de ce guide : il vaut mieux douze adresses vérifiées que cinquante
 recopiées.
 
+Pour une occasion à célébrer, nos
+[8 tables parisiennes pour un anniversaire](../restaurant-anniversaire-paris/).
+
 Et pour la veille au soir, nos 10 tables pour un
 [dîner romantique à Paris](../restaurant-romantique-paris/).
 

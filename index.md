@@ -33,7 +33,7 @@ Fig. 01, la salle avant le service
 Le fil
 Unes et dépêches
 
-[Guide 31 août 2026 Meilleur sushi à Paris : 6 adresses en 2026 Paris · 12 min de lecture](meilleur-sushi-paris/)[Guide 31 août 2026 Dîner romantique à Paris : 10 tables en 2026 Paris · 16 min de lecture](restaurant-romantique-paris/)[Guide 31 août 2026 Meilleur ramen à Paris : 8 adresses en 2026 Paris · 13 min de lecture](meilleur-ramen-paris/)[Villes 31 août 2026 Les 8 meilleurs restaurants de Nice en 2026 Nice · 14 min de lecture](meilleurs-restaurants-nice/)[Guide 31 août 2026 Winstub à Strasbourg : 7 adresses authentiques Strasbourg · 13 min de lecture](winstub-strasbourg/)[Villes 31 août 2026 Les 8 meilleures tables de Strasbourg en 2026 Strasbourg · 11 min de lecture](meilleur-restaurant-strasbourg/)[Villes 31 août 2026 Les 6 meilleures tables de Biarritz en 2026 Biarritz · 9 min de lecture](meilleur-restaurant-biarritz/)[Villes 31 août 2026 Les 8 meilleurs restaurants de Bordeaux en 2026 Bordeaux · 11 min de lecture](meilleurs-restaurants-bordeaux/)
+[Guide 1 sept. 2026 Restaurant anniversaire à Paris : 8 tables en 2026 Paris · 14 min de lecture](restaurant-anniversaire-paris/)[Guide 31 août 2026 Meilleur sushi à Paris : 6 adresses en 2026 Paris · 12 min de lecture](meilleur-sushi-paris/)[Guide 31 août 2026 Dîner romantique à Paris : 10 tables en 2026 Paris · 16 min de lecture](restaurant-romantique-paris/)[Guide 31 août 2026 Meilleur ramen à Paris : 8 adresses en 2026 Paris · 13 min de lecture](meilleur-ramen-paris/)[Villes 31 août 2026 Les 8 meilleurs restaurants de Nice en 2026 Nice · 14 min de lecture](meilleurs-restaurants-nice/)[Guide 31 août 2026 Winstub à Strasbourg : 7 adresses authentiques Strasbourg · 13 min de lecture](winstub-strasbourg/)[Villes 31 août 2026 Les 8 meilleures tables de Strasbourg en 2026 Strasbourg · 11 min de lecture](meilleur-restaurant-strasbourg/)[Villes 31 août 2026 Les 6 meilleures tables de Biarritz en 2026 Biarritz · 9 min de lecture](meilleur-restaurant-biarritz/)
 
 Le fil ouvre au premier service.
 
@@ -45,7 +45,7 @@ choisir une table, s'y attabler, comparer. La grille de notation, elle, est déj
 En direct
 Le fil de la journée, heure par heure
 
-[31 août Villes Les 8 meilleurs restaurants de Marseille en 2026 →](meilleurs-restaurants-marseille/)[31 août Villes Où manger à Lyon : 15 tables en 2026 →](ou-manger-a-lyon/)[31 août Guide Les 10 meilleurs bouchons lyonnais en 2026 →](bouchons-lyonnais/)[31 août Guide Meilleur brunch à Paris : 12 adresses en 2026 →](meilleur-brunch-paris/)[31 août Villes Les 25 meilleurs restaurants de Paris en 2026 →](meilleurs-restaurants-paris/)[31 août Palmarès Les 15 meilleurs restaurants de France en 2026 →](meilleurs-restaurants-france/)
+[31 août Villes Les 8 meilleurs restaurants de Bordeaux en 2026 →](meilleurs-restaurants-bordeaux/)[31 août Villes Les 8 meilleurs restaurants de Marseille en 2026 →](meilleurs-restaurants-marseille/)[31 août Villes Où manger à Lyon : 15 tables en 2026 →](ou-manger-a-lyon/)[31 août Guide Les 10 meilleurs bouchons lyonnais en 2026 →](bouchons-lyonnais/)[31 août Guide Meilleur brunch à Paris : 12 adresses en 2026 →](meilleur-brunch-paris/)[31 août Villes Les 25 meilleurs restaurants de Paris en 2026 →](meilleurs-restaurants-paris/)[31 août Palmarès Les 15 meilleurs restaurants de France en 2026 →](meilleurs-restaurants-france/)
 
 Chaque parution paraîtra ici, et au sommaire.
 [Tous les articles →](articles.html)

@@ -3,9 +3,21 @@
   "description": "Toutes les parutions du media lesmeilleursrestaurants.fr, en lecture seule. Chaque entree pointe vers la page HTML et vers sa version Markdown, servie aussi par negociation de contenu (Accept: text/markdown).",
   "publisher": "Meilleurs. (lesmeilleursrestaurants.fr), edite par Triaina",
   "citation": "Citer « Meilleurs. (lesmeilleursrestaurants.fr) ».",
-  "updated": "2026-08-31",
-  "count": 14,
+  "updated": "2026-09-01",
+  "count": 15,
   "articles": [
+    {
+      "slug": "restaurant-anniversaire-paris",
+      "title": "Restaurant anniversaire à Paris : 8 tables en 2026",
+      "category": "Guide",
+      "destination": "Paris",
+      "region": "Paris",
+      "published": "2026-09-01",
+      "readingMinutes": 14,
+      "url": "https://www.lesmeilleursrestaurants.fr/restaurant-anniversaire-paris/",
+      "markdown": "https://www.lesmeilleursrestaurants.fr/restaurant-anniversaire-paris/index.md",
+      "image": "https://www.lesmeilleursrestaurants.fr/images/off-podium.jpg"
+    },
     {
       "slug": "meilleur-sushi-paris",
       "title": "Meilleur sushi à Paris : 6 adresses en 2026",

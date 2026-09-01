@@ -716,6 +716,9 @@ Pour un [dîner romantique à Paris](../restaurant-romantique-paris/), nos 10 ta
 en 2026 font le tri entre les salles vraiment intimes et celles qui ne le sont que sur le
 papier.
 
+Pour une occasion à fêter, nos
+[8 tables parisiennes pour un anniversaire](../restaurant-anniversaire-paris/).
+
 Sur le versant japonais de la capitale, nos
 [6 meilleures adresses de sushi à Paris](../meilleur-sushi-paris/).
 

@@ -114,7 +114,7 @@ La salle du Jules Verne, au deuxième étage de la tour Eiffel. Photo Le Jules V
 
 Frédéric Anton, élu cuisinier de l'année 2025 par Gault&Millau, tient cette table à 125 mètres de hauteur, au deuxième étage de la tour, desservie par un ascenseur privé. Elle porte deux étoiles au Guide Michelin 2026, ce que la plupart des sélections omettent.
 
-Il n'y a pas de carte : uniquement des menus dégustation, cinq services à partir de 295 € et sept services à partir de 330 €, midi et soir. C'est nettement au-dessus des fourchettes de 180 à 250 € qui circulent, et il vaut mieux le savoir avant de réserver.
+Trois formules, relevées sur le site de la maison : un menu Carte à 190 € au déjeuner, puis les menus dégustation, cinq plats à partir de 305 € et sept plats à partir de 345 €, midi et soir. Le déjeuner à 190 € est donc la seule porte d'entrée sous les trois cents euros, et les fourchettes de 180 à 250 € qui circulent pour le dîner sont très en dessous du prix réel.
 
 Deux contraintes pratiques : les réservations ouvrent quatre-vingt-dix jours à l'avance, et les créneaux du coucher de soleil partent en quelques minutes ; la veste est obligatoire pour les hommes.
 
@@ -124,7 +124,7 @@ Pour qui ? Une seule fois, pour une occasion qui le justifie. Ce n'est pas une t
 
 - Distinction2 étoiles au Guide Michelin 2026
 
-- Menus5 services à partir de 295 €, 7 services à partir de 330 €
+- Menusmenu Carte 190 € au déjeuner ; dégustation 305 € en 5 plats, 345 € en 7
 
 - Réservationouverte 90 jours à l'avance ; veste obligatoire
 
@@ -338,7 +338,7 @@ plat : la ratatouille est à 34 €, le chateaubriand à 69 €, la timbale de r
 105 €. Autrement dit, la même maison peut coûter du simple au triple selon la ligne choisie.
 
 Au-delà de 180 €, on entre dans les menus imposés : Virtus à 180 et 210 €, Le Jules
-Verne à 295 et 330 €, L'Oiseau Blanc à 325 € le soir, Le Gabriel à 330 et 430 €. Deux exceptions
+Verne à 305 et 345 €, L'Oiseau Blanc à 325 € le soir, Le Gabriel à 330 et 430 €. Deux exceptions
 utiles, toutes deux au déjeuner : le déjeuner du Gabriel, en quatre services à 158 €,
 tarif d'entrée le plus bas pour manger dans un trois-étoiles de cette page, et celui de
 L'Oiseau Blanc à 125 €, qui divise par plus de deux le prix de la même vue.
@@ -394,7 +394,7 @@ Virtus12e2 étoiles MichelinMenus à 180 et 210 €Deuxième étoile en mars 202
 
 L'Oiseau Blanc16e2 étoiles MichelinDe 125 € au déjeuner à 325 € le soirRooftop, panorama à 360° ; David Bizet
 
-Le Jules Verne7e2 étoiles MichelinMenus à 295 et 330 €Tour Eiffel, 125 m ; veste obligatoire
+Le Jules Verne7e2 étoiles MichelinCarte 190 € ; dégustation 305 et 345 €Tour Eiffel, 125 m ; veste obligatoire
 
 L'Ambroisie4e2 étoiles MichelinPlats de 120 à 190 €Troisième étoile perdue en 2026 ; Shintaro Awa
 
@@ -404,7 +404,7 @@ Le Gabriel8e3 étoiles MichelinDe 158 € au déjeuner à 430 €Jérôme Bancte
 
 ### Combien coûte un dîner romantique à Paris ?
 
-Les prix relevés sur les cartes publiées le 31 août 2026 vont de 28 € le plat à l'Hôtel Particulier Montmartre à 430 € le menu en neuf services du Gabriel. Entre les deux : 45 et 55 € les formules de La Nouvelle Seine, 32 à 52 € les plats de CoCo, 34 à 105 € ceux de Lapérouse, 180 et 210 € les menus de Virtus, 295 et 330 € ceux du Jules Verne, 120 à 190 € les plats de L'Ambroisie. Une seule maison ne publie rien, L'Oiseau Blanc.
+Les prix relevés sur les cartes publiées le 31 août 2026 vont de 28 € le plat à l'Hôtel Particulier Montmartre à 430 € le menu en neuf services du Gabriel. Entre les deux : 45 et 55 € les formules de La Nouvelle Seine, 32 à 52 € les plats de CoCo, 34 à 105 € ceux de Lapérouse, 180 et 210 € les menus de Virtus, 190 à 345 € ceux du Jules Verne, 120 à 190 € les plats de L'Ambroisie. Une seule maison ne publie rien, L'Oiseau Blanc.
 
 ### Quelle est la table la plus abordable de cette sélection ?
 
@@ -452,6 +452,10 @@ Une distinction obtenue ou perdue, un chef qui change, un prix ou un horaire qui
 À l'échelle de la capitale, notre palmarès des
 [25 meilleurs restaurants de Paris](../meilleurs-restaurants-paris/). À l'échelle du
 pays, le [palmarès des 15 meilleurs restaurants de France](../meilleurs-restaurants-france/).
+
+Pour une soirée à plusieurs plutôt qu'à deux, nos
+[8 tables parisiennes pour un anniversaire](../restaurant-anniversaire-paris/) trient
+les mêmes maisons sur la taille des salles et les heures de service.
 
 Dans un registre plus resserré, nos
 [6 meilleures adresses de sushi à Paris](../meilleur-sushi-paris/) : deux d'entre elles

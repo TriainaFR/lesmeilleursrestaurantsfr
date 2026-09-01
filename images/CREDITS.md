@@ -63,6 +63,9 @@ sans délai sur simple demande de l'établissement.
 | `off-anema` | Anema, la salle | Anema, hôtel Saint-Julien | [source](https://hotel-saint-julien-biarritz.fr/) |
 | `off-corbeau` | Au Pont Corbeau, la salle | Au Pont Corbeau | [source](http://www.aupontcorbeau.fr/) |
 | `off-binchstub` | Binchstub, une salle | Binchstub | [source](https://binchstub.fr/) |
+| `off-podium` | Bistrot Podium, la salle | Bistrot Podium | [source](https://www.bistrot-podium.fr/) |
+| `off-bonnie` | Bonnie, la salle | Bonnie, SO/ Paris | [source](https://bonnie-restaurant.com/paris-fr/) |
+| `off-boubale` | Boubalé, une table | Boubalé, Le Grand Mazarin | [source](https://www.legrandmazarin.com/restaurant/) |
 | `off-haras` | Brasserie Les Haras, la salle | Brasserie Les Haras | [source](https://www.les-haras-brasserie.com/) |
 | `off-abel` | Café Comptoir Abel, la devanture | Office de tourisme de Lyon | [source](https://www.visiterlyon.com/se-regaler/restaurants-et-gastronomie/label-bouchons-lyonnais/cafe-comptoir-abel) |
 | `off-abel-salle` | Café Comptoir Abel, un salon | Office de tourisme de Lyon | [source](https://www.visiterlyon.com/se-regaler/restaurants-et-gastronomie/label-bouchons-lyonnais/cafe-comptoir-abel) |
@@ -84,6 +87,7 @@ sans délai sur simple demande de l'établissement.
 | `off-kiyomizu` | Kiyomizu, un plateau de sashimi | Kiyomizu | [source](https://www.kiyomizu.fr/) |
 | `off-kodawari` | Kodawari Ramen Yokochō, la salle | Kodawari Ramen | [source](https://www.kodawari-ramen.com/) |
 | `off-ambroisie` | L'Ambroisie, la salle | L'Ambroisie | [source](https://www.ambroisie-paris.com/) |
+| `off-larome` | L'Arôme, la salle | L'Arôme | [source](https://larome-paris.com/) |
 | `off-escalinada` | L'Escalinada, la terrasse | L'Escalinada | [source](https://escalinada-nice.com/) |
 | `off-oiseaubleu` | L'Oiseau Bleu, la salle | L'Oiseau Bleu | [source](https://www.loiseaubleu.fr/) |
 | `off-casserole` | La Casserole, une assiette | La Casserole | [source](https://www.la-casserole.fr/) |

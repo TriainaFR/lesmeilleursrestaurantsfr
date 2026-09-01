@@ -118,6 +118,12 @@ Au Pont Corbeau, la salleAu Pont Corbeau
 
 Binchstub, une salleBinchstub
 
+Bistrot Podium, la salleBistrot Podium
+
+Bonnie, la salleBonnie, SO/ Paris
+
+Boubalé, une tableBoubalé, Le Grand Mazarin
+
 Brasserie Les Haras, la salleBrasserie Les Haras
 
 Café Comptoir Abel, la devantureOffice de tourisme de Lyon
@@ -159,6 +165,8 @@ Kiyomizu, un plateau de sashimiKiyomizu
 Kodawari Ramen Yokochō, la salleKodawari Ramen
 
 L'Ambroisie, la salleL'Ambroisie
+
+L'Arôme, la salleL'Arôme
 
 L'Escalinada, la terrasseL'Escalinada
 

@@ -36,6 +36,12 @@
    Virgule, deux-points ou point-virgule a la place. Le build le verifie.
    ========================================================================== */
 window.ARTICLES = [
+  {slug:"restaurant-anniversaire-paris", cat:"Guide",
+   title:"Restaurant anniversaire à Paris : 8 tables en 2026",
+   dest:"Paris", region:"Paris", date:"2026-09-01", reading:14,
+   url:"restaurant-anniversaire-paris/", photo:"images/off-podium.jpg",
+   auteur:"elodie-limouzin",
+   recit:"Fêter un anniversaire à midi dans un trois-étoiles coûte moins cher qu'un dîner ailleurs."},
   {slug:"meilleur-sushi-paris", cat:"Guide",
    title:"Meilleur sushi à Paris : 6 adresses en 2026",
    dest:"Paris", region:"Paris", date:"2026-08-31", reading:12,

@@ -16,7 +16,7 @@ Droit de réponse · erreur à signaler · candidature · presse, réponse sous 
 
 #### Ce que nous traitons
 
-Quatre motifs, et ils passent tous par la rédaction.
+Cinq motifs, un seul formulaire.
 
 - Droit de réponse d'un établissement, si une de nos pages vous met en cause.
 
@@ -26,6 +26,8 @@ Quatre motifs, et ils passent tous par la rédaction.
 
 - Demande presse : citation, données de nos classements, interview.
 
+- Proposition commerciale : publicité, partenariat, prestation. Traitée par l'éditeur.
+
 #### Délai de réponse
 
 48 h ouvrées.
@@ -34,13 +36,14 @@ Un droit de réponse est traité en priorité, et publié sur la page
 concernée s'il est fondé. Une erreur avérée est corrigée le jour même, et la
 correction est datée en bas d'article.
 
-#### Ce que nous ne traitons pas
+#### Propositions commerciales
 
-Les propositions commerciales.
+Même formulaire.
 
 Les demandes publicitaires, les propositions de partenariat et
-les offres de prestation ne passent pas par la rédaction. Écrivez plutôt à
-l'éditeur, dont les coordonnées figurent ci-dessous.
+les offres de prestation passent par ce formulaire, avec le motif
+« Proposition commerciale ». Elles sont traitées par l'éditeur et non par la
+rédaction : c'est la seule séparation, l'adresse d'entrée est la même.
 
 #### Éditeur
 
@@ -66,6 +69,7 @@ Droit de réponse d'un établissement
 Signalement d'erreur
 Candidature à la rédaction
 Demande presse
+Proposition commerciale
 
 Votre message
 

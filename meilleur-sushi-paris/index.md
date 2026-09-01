@@ -302,6 +302,9 @@ Sur l'autre grand format japonais de la capitale, nos
 Gourmand se mange debout dans une ruelle reconstituée. À l'échelle de la ville, notre palmarès des
 [25 meilleurs restaurants de Paris](../meilleurs-restaurants-paris/).
 
+Pour une soirée à fêter, nos
+[8 tables parisiennes pour un anniversaire](../restaurant-anniversaire-paris/).
+
 Pour un repas à deux, nos
 [10 tables pour un dîner romantique à Paris](../restaurant-romantique-paris/), et pour
 le week-end, notre guide du [meilleur brunch à Paris](../meilleur-brunch-paris/). À
