@@ -418,21 +418,21 @@ var REDUCE = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
    public, une clé y serait lisible de tous.
 
    Tant que rien n'est configuré, le formulaire n'échoue pas en silence : il
-   bascule sur l'adresse de la rédaction, message déjà recopié dans le courriel.
+   affiche un panneau qui dit clairement que le message n'est pas parti, et
+   invite le visiteur à copier son texte avant de quitter la page. Aucune
+   adresse de repli n'est publiée : il n'y en a pas.
    ========================================================================== */
 (function(){
   var form = document.getElementById('contact-form');
   if(!form) return;
 
   var ENDPOINT = '';                                  // vide = envoi non configuré
-  var MAIL     = 'contact@lesmeilleursrestaurants.fr';
 
   var status   = document.getElementById('form-status');
   var btn      = document.getElementById('form-send');
   var lbl      = btn ? btn.querySelector('.lbl') : null;
   var success  = document.getElementById('form-success');
   var fallback = document.getElementById('form-fallback');
-  var mailto   = document.getElementById('form-mailto');
   var again    = document.getElementById('form-again');
   var back     = document.getElementById('form-back');
   var fbSub    = fallback ? fallback.querySelector('.sub') : null;
@@ -466,19 +466,10 @@ var REDUCE = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
       message: f.message.value.trim()
     };
   }
-  /* Repli : un lien mailto prérempli, ouvert par le visiteur lui-même. Rien
-     n'est transmis à un tiers, le message reste dans sa messagerie. */
-  function mailtoHref(d){
-    var body = 'Nom : ' + d.name + '\n' +
-               'E-mail : ' + d.email + '\n' +
-               'Motif : ' + d.subject + '\n\n' +
-               d.message + '\n';
-    return 'mailto:' + MAIL +
-      '?subject=' + encodeURIComponent('[' + d.subject + '] ' + d.name) +
-      '&body=' + encodeURIComponent(body);
-  }
-  function offerMail(d, sub){
-    if(mailto) mailto.setAttribute('href', mailtoHref(d));
+  /* Repli : on ne prétend pas avoir transmis quoi que ce soit. Le formulaire
+     reste rempli derrière le panneau, le visiteur peut y revenir et copier son
+     texte. Aucune adresse de secours n'est proposée, il n'y en a pas. */
+  function offerFallback(sub){
     if(fbSub) fbSub.textContent = sub || DEF_SUB;
     show(fallback);
   }
@@ -524,7 +515,7 @@ var REDUCE = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
       say('Merci de cocher la case de consentement avant l\'envoi.', true);
       return;
     }
-    if(!ENDPOINT && !window.emailjs){ offerMail(d, null); return; }
+    if(!ENDPOINT && !window.emailjs){ offerFallback(null); return; }
     if(btn) btn.disabled = true;
     if(lbl) lbl.textContent = 'Envoi…';
     say('Le message part vers la rédaction…', false);
@@ -534,8 +525,8 @@ var REDUCE = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
     }).catch(function(err){
       if(btn) btn.disabled = false;
       if(lbl) lbl.textContent = 'Envoyer';
-      offerMail(d, 'L\'envoi automatique a échoué (' + reason(err) + '). Votre message ' +
-        'n\'est pas perdu : le bouton ci-dessous ouvre votre messagerie avec le texte déjà recopié.');
+      offerFallback('L\'envoi a échoué (' + reason(err) + '). Votre texte est toujours dans le ' +
+        'formulaire : copiez-le avant de fermer la page, et réessayez plus tard.');
     });
   });
 })();

@@ -26,7 +26,7 @@ Cinq motifs, un seul formulaire.
 
 - Demande presse : citation, données de nos classements, interview.
 
-- Proposition commerciale : publicité, partenariat, prestation. Traitée par l'éditeur.
+- Proposition commerciale : publicité, partenariat, prestation.
 
 #### Délai de réponse
 
@@ -42,18 +42,7 @@ Même formulaire.
 
 Les demandes publicitaires, les propositions de partenariat et
 les offres de prestation passent par ce formulaire, avec le motif
-« Proposition commerciale ». Elles sont traitées par l'éditeur et non par la
-rédaction : c'est la seule séparation, l'adresse d'entrée est la même.
-
-#### Éditeur
-
-Triaina
-
-60 rue François Ier, 75008 Paris, France
-
-SIREN 999402654
-
-[contact@lesmeilleursrestaurants.fr](mailto:contact@lesmeilleursrestaurants.fr)
+« Proposition commerciale ». Il n'y a pas d'autre adresse.
 
 ✺ Un signalement accompagné d'une photo de l'ardoise ou du ticket
 vaut mieux qu'un long message.
@@ -88,13 +77,9 @@ plus vite s'il s'agit d'une erreur à corriger.
 
 Écrire un autre message
 
-Écrivez-nous directement.
+Le message n'est pas parti.
 
-L'envoi automatique n'est pas encore branché sur ce site. Votre message
-n'est pas perdu : le bouton ci-dessous ouvre votre messagerie avec le texte déjà recopié.
-
-[Ouvrir ma messagerie →](mailto:contact@lesmeilleursrestaurants.fr)
-
-ou copiez l'adresse : [contact@lesmeilleursrestaurants.fr](mailto:contact@lesmeilleursrestaurants.fr)
+L'envoi n'est pas encore branché sur ce site. Votre texte est toujours dans
+le formulaire : copiez-le avant de fermer la page, et réessayez dans quelques jours.
 
 Revenir au formulaire

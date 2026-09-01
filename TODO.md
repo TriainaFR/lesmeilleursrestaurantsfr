@@ -83,10 +83,13 @@ de branchement y est documenté et **volontairement laissé vide** :
 var ENDPOINT = '';    // vide = envoi non configuré
 ```
 
-Tant qu'il l'est, le formulaire bascule sur son repli `mailto:` vers
-`contact@lesmeilleursrestaurants.fr`. Deux voies sont décrites dans le fichier :
-un service de formulaire recevant un POST JSON, ou EmailJS (SDK à ajouter dans
-`contact.html`, appel à décommenter dans `send()`).
+Tant qu'il l'est, le formulaire affiche un panneau qui dit que le message n'est
+pas parti et invite le visiteur à copier son texte : aucune adresse de repli
+n'est publiée, il n'y en a pas. **C'est donc un point bloquant, pas un confort :
+tant que l'envoi n'est pas branché, le site n'a aucune voie de contact
+opérante.** Deux voies sont décrites dans le fichier : un service de formulaire
+recevant un POST JSON, ou EmailJS (SDK à ajouter dans `contact.html`, appel à
+décommenter dans `send()`).
 
 Après branchement, vérifier trois choses : le message de confirmation, le repli
 `mailto:` quand l'envoi échoue, et surtout qu'**aucune clé ni aucun identifiant
