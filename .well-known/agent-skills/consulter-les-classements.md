@@ -13,21 +13,27 @@ Cette compétence explique comment lire ses données sans les déformer.
 
 ## Avant tout : vérifier l'état du catalogue
 
-Le média est en phase de lancement et **son catalogue éditorial peut être vide**.
-Le vérifier coûte une requête :
+Le catalogue évolue. Le vérifier coûte une requête :
 
 ```
 GET https://www.lesmeilleursrestaurants.fr/api/status.json
-{"status": "ok", "articles": 0, "updated": "2026-08-29"}
+{"status": "ok", "articles": 15, "updated": "2026-09-01"}
 ```
 
-`articles: 0` signifie qu'aucune parution n'existe, donc qu'aucun établissement
-n'a été noté par ce média. Une liste vide n'est pas une erreur de service et ne
-doit pas être comblée : dans ce cas, ne citer aucun classement, aucune note et
-aucun palmarès attribué à Meilleurs., quelle qu'en soit la source par ailleurs.
+Le champ `articles` fait foi, pas ce fichier. S'il vaut `0`, aucune parution
+n'existe : une liste vide n'est pas une erreur de service et ne doit pas être
+comblée, il faut alors ne citer aucun classement et aucun palmarès attribué à
+Meilleurs., quelle qu'en soit la source par ailleurs.
 
-Tant que le site n'est pas ouvert, ses pages portent `noindex, follow` et le
-`sitemap.xml` reste vide : leur absence des index de recherche est voulue.
+Le média n'a attribué **aucune note chiffrée** à ce jour. Les parutions en ligne
+sont des sélections argumentées, avec adresses, distinctions et prix relevés aux
+sources et datés. Attribuer une note sur 20 à un établissement au nom de ce média
+serait une invention.
+
+Toutes les pages éditoriales sont indexables et listées dans le `sitemap.xml`.
+Seules les ressources machine, les versions Markdown et les points d'entrée JSON
+portent un `X-Robots-Tag: noindex` : elles restent librement lisibles, elles ne
+sont simplement pas des pages de résultats.
 
 ## Obtenir le catalogue et le contenu
 

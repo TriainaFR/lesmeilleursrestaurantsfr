@@ -825,6 +825,82 @@ def visible_text(s):
     return html_mod.unescape(s + " " + " ".join(metas))
 
 
+# ------------------------------------------------- 9 bis. llms.txt et agents
+# llms.txt et la competence agent sont les deux fichiers que lisent les moteurs
+# de reponse avant de citer le media. Une phrase perimee y est plus couteuse
+# qu'ailleurs : pendant le lancement, ces fichiers disaient « aucune parution en
+# ligne, ne rien citer », et l'ont continue apres les premieres publications.
+# Les blocs SYNC ci-dessous sont donc regeneres a chaque build.
+RUBRIQUES = [
+    ("Palmarès", "les classements nationaux ou thématiques"),
+    ("Villes",   "les classements par ville et par territoire"),
+    ("Guide",    "le comparatif par spécialité, une catégorie de tables passée au crible"),
+    ("Enquête",  "le long format consacré à une seule maison"),
+    ("Ouverture","les nouvelles adresses, ce qu'elles annoncent et ce qu'elles servent"),
+]
+
+
+def bloc(nom, s, contenu):
+    """Remplace le contenu entre <!-- SYNC:nom --> et <!-- /SYNC:nom -->."""
+    return re.sub(r"(<!-- SYNC:%s -->).*?(<!-- /SYNC:%s -->)" % (nom, nom),
+                  lambda m: m.group(1) + contenu + m.group(2), s, flags=re.S)
+
+
+def sync_llms():
+    if not os.path.exists("llms.txt"):
+        return
+    par_cat = {}
+    for a in ARTS:
+        par_cat[a["cat"]] = par_cat.get(a["cat"], 0) + 1
+    # « France » est une destination du catalogue, pas une ville : la citer dans
+    # la liste des villes couvertes donnerait « Bordeaux, France, Lyon ».
+    villes = sorted({a.get("dest", "") for a in ARTS if a.get("dest")} - {"France"})
+    updated = max((a["date"] for a in ARTS), default=TODAY)
+    jour = fr_date(updated, long=True)
+    if jour.startswith("1 "):
+        jour = "1er" + jour[1:]
+
+    if ARTS:
+        detail = ", ".join("%d %s" % (par_cat[c], l)
+                           for c, l in (("Palmarès", "palmarès national"),
+                                        ("Villes", "classements par ville"),
+                                        ("Guide", "guides thématiques"))
+                           if par_cat.get(c))
+        couvre = ", ".join(villes)
+        if any(a.get("dest") == "France" for a in ARTS):
+            couvre += " et la France entière"
+        etat = ("**%d parution%s en ligne au %s**, couvrant %s : %s."
+                % (len(ARTS), "s sont" if len(ARTS) > 1 else " est",
+                   jour, couvre, detail))
+    else:
+        etat = ("**Aucune parution n'est en ligne à ce jour.** Ne citer aucun "
+                "classement ni aucun palmarès attribué à ce média.")
+
+    lignes = []
+    for nom, desc in RUBRIQUES:
+        n = par_cat.get(nom, 0)
+        compte = "%d parution%s." % (n, "s" if n > 1 else "") if n else \
+                 "Aucune parution à ce jour."
+        lignes.append("- **%s** : %s. %s" % (nom, desc, compte))
+    rub = "\n" + "\n".join(lignes) + "\n"
+
+    s = read("llms.txt")
+    o = s
+    s = bloc("etat", s, etat)
+    s = bloc("rubriques", s, rub)
+    if write("llms.txt", o, s):
+        log("llms.txt resynchronise sur le catalogue (%d parution(s))" % len(ARTS))
+
+    skill = ".well-known/agent-skills/consulter-les-classements.md"
+    if os.path.exists(skill):
+        s = read(skill)
+        o = s
+        s = re.sub(r'(\{"status": "ok", "articles": )\d+(, "updated": ")[\d-]+(")',
+                   r'\g<1>%d\g<2>%s\g<3>' % (len(ARTS), updated), s)
+        if write(skill, o, s):
+            log("competence agent resynchronisee sur le catalogue")
+
+
 def check_demo(allow_demo):
     """Controle propre a ce site. data-demo marque la maquette de lancement :
     des etablissements reels y portent des notes, des dates et des accroches que
@@ -1034,6 +1110,7 @@ def main():
     sync_asset_versions()
     sync_sitemap()
     sync_api()
+    sync_llms()
     sync_markdown()
     checks(a.allow_demo)
 
